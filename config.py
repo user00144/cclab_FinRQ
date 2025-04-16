@@ -1,0 +1,3 @@
+MAX_DEPTH = 2
+MAX_QUESTION = 1
+MODEL_NAME = "gpt-4o-mini"

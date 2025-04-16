@@ -1,0 +1,38 @@
+[
+    {
+        "question": "in 2018 what was the percent of the cib markets net interest income as part of the managed interest income",
+        "gt": "5.54%",
+        "socratic_answer": "5.55%",
+        "cot_zeroshot_answer": "5.54%",
+        "cot_fewshot_answer": "5.54%",
+        "direct_answer": "5.54%",
+        "socratic_hints": []
+    },
+    {
+        "question": "what is the maximum depreciation rate that can be used for furniture fixtures and equipment?",
+        "gt": "33.3%",
+        "socratic_answer": "10%",
+        "cot_zeroshot_answer": "33.33%",
+        "cot_fewshot_answer": "33.33%",
+        "direct_answer": "33.33%",
+        "socratic_hints": []
+    },
+    {
+        "question": "what is the percentage change in impairment charges and net losses from 2003 to 2004?",
+        "gt": "-7.3%",
+        "socratic_answer": "7.34%",
+        "cot_zeroshot_answer": "-7.33%",
+        "cot_fewshot_answer": "-7.34%",
+        "direct_answer": "-7.33%",
+        "socratic_hints": []
+    },
+    {
+        "question": "for restructuring expense , what is the total balance of severance and related charges and lease termination costs in millions?",
+        "gt": "0.4",
+        "socratic_answer": "0.9 million",
+        "cot_zeroshot_answer": "0.4 million",
+        "cot_fewshot_answer": "0.4 (million)",
+        "direct_answer": "0.4 million",
+        "socratic_hints": []
+    }
+]

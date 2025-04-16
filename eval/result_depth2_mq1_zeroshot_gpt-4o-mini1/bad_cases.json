@@ -1,0 +1,176 @@
+[
+    {
+        "question": "what was the percentage decrease in cash flows from operations from 2009 to 2010?",
+        "gt": "8.0%",
+        "socratic_answer": "0%",
+        "cot_zeroshot_answer": "7.95%].",
+        "cot_fewshot_answer": "7.95%",
+        "direct_answer": "8.0%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what percent did minimum pension liability increase between 2004 and 2006?",
+        "gt": "615.4%",
+        "socratic_answer": "-615.38%",
+        "cot_zeroshot_answer": "615.38%].",
+        "cot_fewshot_answer": "615.38%",
+        "direct_answer": "615.38%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what are the total operating expenses for 2016?",
+        "gt": "5590",
+        "socratic_answer": "5588 millions",
+        "cot_zeroshot_answer": "5590 million].",
+        "cot_fewshot_answer": "5,590 million",
+        "direct_answer": "$ 5,590 million",
+        "socratic_hints": [
+            "The formula to calculate operating expenses using net sales and operating profit is Operating Expenses = Net Sales - Operating Profit."
+        ]
+    },
+    {
+        "question": "what is the percent of the square foot in millions owned facilities in the us to the to owned facilities",
+        "gt": "64.1%",
+        "socratic_answer": "64.03%",
+        "cot_zeroshot_answer": "64.1%].",
+        "cot_fewshot_answer": "64.1%",
+        "direct_answer": "64.1%",
+        "socratic_hints": [
+            "The formula to calculate the percentage of U.S. owned facilities relative to total owned facilities is (U.S. owned facilities / Total owned facilities) x 100."
+        ]
+    },
+    {
+        "question": "at december 31 2009 what was the ratio of the aggregate cost to the fair value of the loans held-for-sale that are carried at locom",
+        "gt": "1.56",
+        "socratic_answer": "156.25%",
+        "cot_zeroshot_answer": "1.5625",
+        "cot_fewshot_answer": "1.5625",
+        "direct_answer": "1.56",
+        "socratic_hints": [
+            "The formula to calculate the ratio of aggregate cost to fair value is Aggregate Cost / Fair Value."
+        ]
+    },
+    {
+        "question": "what is the percentage change in impairment charges and net losses from 2003 to 2004?",
+        "gt": "-7.3%",
+        "socratic_answer": "-21.2%",
+        "cot_zeroshot_answer": "-7.34%",
+        "cot_fewshot_answer": "-7.33%",
+        "direct_answer": "-7.33%",
+        "socratic_hints": [
+            "The total impairment charges and net losses recorded for the years 2003 and 2004 were $101.2 million."
+        ]
+    },
+    {
+        "question": "for the quarter ended december 312010 what was percent of the total number of shares purchased in november",
+        "gt": "39.3%",
+        "socratic_answer": "39.35%",
+        "cot_zeroshot_answer": "39.3%].",
+        "cot_fewshot_answer": "39.3%",
+        "direct_answer": "39.3%",
+        "socratic_hints": [
+            "The formula to calculate the percentage of shares purchased in November compared to the total shares purchased in the quarter is (Total shares purchased in November / Total shares purchased in the fourth quarter) * 100."
+        ]
+    },
+    {
+        "question": "what was the ratio of the increase in cash in 2009 due to the insurance of debt compared to the reduction of debt instruments",
+        "gt": "3.22",
+        "socratic_answer": "0",
+        "cot_zeroshot_answer": "3.22",
+        "cot_fewshot_answer": "3.22",
+        "direct_answer": "3.22",
+        "socratic_hints": []
+    },
+    {
+        "question": "what percentage of net undeveloped acres expiring were located in the u.s in 2014?",
+        "gt": "24.7%",
+        "socratic_answer": "4.29%",
+        "cot_zeroshot_answer": "24.7%].",
+        "cot_fewshot_answer": "24.74%",
+        "direct_answer": "24.7%",
+        "socratic_hints": [
+            "The total net undeveloped acres expiring worldwide in 2014 is 3375 acres."
+        ]
+    },
+    {
+        "question": "what percent of contracts for long-term purchases of capacity are due currently?",
+        "gt": "7.7%",
+        "socratic_answer": "The percentage of contracts for long-term purchases of capacity that are due currently is approximately 17.1%.\n\nThus, the final answer is [",
+        "cot_zeroshot_answer": "7.68%].",
+        "cot_fewshot_answer": "7.68%",
+        "direct_answer": "7.67%",
+        "socratic_hints": [
+            "The total commitment capacity for 2003 is approximately 7.68% of the total commitment capacity for all years combined."
+        ]
+    },
+    {
+        "question": "what were the average tax penalties from 2014 to 2016 in millions",
+        "gt": "6.3",
+        "socratic_answer": "6.63 million",
+        "cot_zeroshot_answer": "6.3 million].",
+        "cot_fewshot_answer": "6.3 (million)",
+        "direct_answer": "6.3 million",
+        "socratic_hints": [
+            "The total amount of tax penalties recorded for the years 2014, 2015, and 2016 is $18.9 million."
+        ]
+    },
+    {
+        "question": "commercial mortgage loans held for sale designated at fair value at december 31 , 2012 were what percent of total loans held for sale?,",
+        "gt": "20.9%",
+        "socratic_answer": "26.9%",
+        "cot_zeroshot_answer": "20.9%].",
+        "cot_fewshot_answer": "20.86%",
+        "direct_answer": "20.9%",
+        "socratic_hints": [
+            "The total amount of loans held for sale as of December 31, 2012 is $2,868 million."
+        ]
+    },
+    {
+        "question": "what is the average size ( in square feet ) of switching centers in 2017?",
+        "gt": "21311.48",
+        "socratic_answer": "21305.77",
+        "cot_zeroshot_answer": "21,311.48].",
+        "cot_fewshot_answer": "21,311.48",
+        "direct_answer": "21311.48",
+        "socratic_hints": [
+            "The total size in square feet of all switching centers combined is 1,299,031 square feet."
+        ]
+    },
+    {
+        "question": "by what percentage did protect carrying values of excess inventories increase from 2002 to 2003?",
+        "gt": "39.0%",
+        "socratic_answer": "-39.02%",
+        "cot_zeroshot_answer": "39.02%].",
+        "cot_fewshot_answer": "39.02%",
+        "direct_answer": "39.02%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "in may 2015 what was the ratio of the unrealized losses from interest rate cash flow hedges to the unrealized gains from foreign currency cash flow hedges",
+        "gt": "-4.74",
+        "socratic_answer": "4.743",
+        "cot_zeroshot_answer": "-4.7435].",
+        "cot_fewshot_answer": "-4.743",
+        "direct_answer": "-4.74",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "in 2010 what was the ratio of the cumulative return for intel , to the the dow jones u.s . technology index*",
+        "gt": "0.82",
+        "socratic_answer": "82.25%",
+        "cot_zeroshot_answer": "0.8225",
+        "cot_fewshot_answer": "0.823",
+        "direct_answer": "0.82",
+        "socratic_hints": [
+            "unknown"
+        ]
+    }
+]

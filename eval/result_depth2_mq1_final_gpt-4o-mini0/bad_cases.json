@@ -1,0 +1,233 @@
+[
+    {
+        "question": "at december 31 , 2006 , what percentage of total future minimum commitments under existing non-cancelable leases and purchase obligations from lease obligations is due in 2008?",
+        "gt": "20%",
+        "socratic_answer": "2.22%",
+        "cot_zeroshot_answer": "20.21%",
+        "cot_fewshot_answer": "20.2%",
+        "direct_answer": "20.21%",
+        "socratic_hints": [
+            "The total future minimum commitments for 2008 is $579 million, which is much smaller than the total for all years combined, $5271 million."
+        ]
+    },
+    {
+        "question": "by what percentage did protect carrying values of excess inventories increase from 2002 to 2003?",
+        "gt": "39.0%",
+        "socratic_answer": "-39.02%",
+        "cot_zeroshot_answer": "39.02%",
+        "cot_fewshot_answer": "39.02%",
+        "direct_answer": "39.02%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "in millions for 2012 and 2011 , what was the maximum tier 2 capital?",
+        "gt": "39",
+        "socratic_answer": "39 million, 6 million",
+        "cot_zeroshot_answer": "39 million",
+        "cot_fewshot_answer": "39 (million)",
+        "direct_answer": "$39 million",
+        "socratic_hints": [
+            "The tier 2 capital amounts for GS Bank USA were $39 million in 2012 and $6 million in 2011."
+        ]
+    },
+    {
+        "question": "what percent did minimum pension liability increase between 2004 and 2006?",
+        "gt": "615.4%",
+        "socratic_answer": "-615.38%",
+        "cot_zeroshot_answer": "615.38%",
+        "cot_fewshot_answer": "615.38%",
+        "direct_answer": "615.38%",
+        "socratic_hints": [
+            "The minimum pension liability amounts were -$26 million for 2004 and -$186 million for 2006."
+        ]
+    },
+    {
+        "question": "as a result of the sales of certain non-core towers and other assets what was the percent of the change in the recorded net losses from 2007 to 2008",
+        "gt": "47.9%",
+        "socratic_answer": "37.18%",
+        "cot_zeroshot_answer": "47.89%",
+        "cot_fewshot_answer": "47.89%",
+        "direct_answer": "47.89%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "without the impact of settlements , what would the december 31 2008 amount of unrecognized tax benefits have been , in $ millions?",
+        "gt": "120",
+        "socratic_answer": "104 millions",
+        "cot_zeroshot_answer": "120 million",
+        "cot_fewshot_answer": "120 million",
+        "direct_answer": "$120 million",
+        "socratic_hints": [
+            "The balance of unrecognized tax benefits at December 31, 2008 before accounting for settlements was $104 million."
+        ]
+    },
+    {
+        "question": "at december 31 2009 what was the ratio of the aggregate cost to the fair value of the loans held-for-sale that are carried at locom",
+        "gt": "1.56",
+        "socratic_answer": "156.25%",
+        "cot_zeroshot_answer": "1.5625",
+        "cot_fewshot_answer": "1.5625",
+        "direct_answer": "1.56",
+        "socratic_hints": [
+            "The formula to calculate the ratio of aggregate cost to fair value is Ratio = Aggregate Cost / Fair Value."
+        ]
+    },
+    {
+        "question": "what percentage of net undeveloped acres expiring were located in the u.s in 2014?",
+        "gt": "24.7%",
+        "socratic_answer": "4.29%",
+        "cot_zeroshot_answer": "24.74%",
+        "cot_fewshot_answer": "24.74%",
+        "direct_answer": "24.7%",
+        "socratic_hints": [
+            "The total net undeveloped acres expiring worldwide in 2014 is 3375 acres."
+        ]
+    },
+    {
+        "question": "what was the ratio of the net increase in the in securities sold under agreements to repurchase to the net transfers in",
+        "gt": "0.81",
+        "socratic_answer": "80.65%",
+        "cot_zeroshot_answer": "0.8065",
+        "cot_fewshot_answer": "0.806",
+        "direct_answer": "0.81",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what percent of the total amount outstanding is due to notes payable due at mutually agreed-upon dates within one year of issuance or on demand?",
+        "gt": "81%",
+        "socratic_answer": "49.3%",
+        "cot_zeroshot_answer": "81.31%",
+        "cot_fewshot_answer": "81.3%",
+        "direct_answer": "81.3%",
+        "socratic_hints": [
+            "The total outstanding amount of liabilities as of May 31, 2009 is $695.3 million."
+        ]
+    },
+    {
+        "question": "what is the approximate size of each data center leased in square feet",
+        "gt": "83333",
+        "socratic_answer": "500000",
+        "cot_zeroshot_answer": "approximately 83,333 square feet",
+        "cot_fewshot_answer": "approximately 83,333 square feet",
+        "direct_answer": "83333.33 square feet",
+        "socratic_hints": [
+            "The total approximate size of all data centers is 3,000,000 square feet and there are 6 data centers."
+        ]
+    },
+    {
+        "question": "commercial mortgage loans held for sale designated at fair value at december 31 , 2012 were what percent of total loans held for sale?,",
+        "gt": "20.9%",
+        "socratic_answer": "26.9%",
+        "cot_zeroshot_answer": "20.87%",
+        "cot_fewshot_answer": "20.86%",
+        "direct_answer": "20.9%",
+        "socratic_hints": [
+            "The total amount of loans held for sale as of December 31, 2012 is $2,868 million."
+        ]
+    },
+    {
+        "question": "what is the average size ( in square feet ) of switching centers in 2017?",
+        "gt": "21311.48",
+        "socratic_answer": "1300000",
+        "cot_zeroshot_answer": "21,311.48 square feet",
+        "cot_fewshot_answer": "21,311.48",
+        "direct_answer": "21311.48",
+        "socratic_hints": [
+            "The total size in square feet of all switching centers combined is 79,300,000 square feet."
+        ]
+    },
+    {
+        "question": "what percentage of approximate number of active full-time equivalent employees consist of u.s airways employees?",
+        "gt": "28.9%",
+        "socratic_answer": "29.8%",
+        "cot_zeroshot_answer": "28.95%",
+        "cot_fewshot_answer": "28.94%",
+        "direct_answer": "28.94%",
+        "socratic_hints": [
+            "U.S. Airways has 33,800 active full-time equivalent employees, which is approximately 29.8% of the overall total of 113,300 employees."
+        ]
+    },
+    {
+        "question": "in 2018 what was the ratio of anticipated benefits payments from our unfunded postemployment benefit plans to the deferred compensation",
+        "gt": "1.44",
+        "socratic_answer": "144.04%",
+        "cot_zeroshot_answer": "1.44",
+        "cot_fewshot_answer": "1.44",
+        "direct_answer": "1.44",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what percentage of total expected cash outflow to satisfy contractual obligations and commitments as of december 31 , 2010 are due in 2012?",
+        "gt": "6%",
+        "socratic_answer": "14.3%",
+        "cot_zeroshot_answer": "5.66%",
+        "cot_fewshot_answer": "5.67%",
+        "direct_answer": "5.67%",
+        "socratic_hints": [
+            "The total cash outflow for 2012 is $3368 million, which is significantly lower than the overall total cash outflow of $23556 million."
+        ]
+    },
+    {
+        "question": "what was the total sales as of december 312014 in millions",
+        "gt": "6957",
+        "socratic_answer": "6967 million",
+        "cot_zeroshot_answer": "6957 million",
+        "cot_fewshot_answer": "6,957",
+        "direct_answer": "$ 6,957 million",
+        "socratic_hints": [
+            "The sum of the sales and service revenues for all four quarters of 2014 is 6967 million."
+        ]
+    },
+    {
+        "question": "in may 2015 what was the ratio of the unrealized losses from interest rate cash flow hedges to the unrealized gains from foreign currency cash flow hedges",
+        "gt": "-4.74",
+        "socratic_answer": "4.743",
+        "cot_zeroshot_answer": "-4.74",
+        "cot_fewshot_answer": "-4.743",
+        "direct_answer": "-4.74",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "in 2010 what was the ratio of the cumulative return for intel , to the the dow jones u.s . technology index*",
+        "gt": "0.82",
+        "socratic_answer": "82.25%",
+        "cot_zeroshot_answer": "0.8225",
+        "cot_fewshot_answer": "0.823",
+        "direct_answer": "0.82",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what percentage of total future minimum lease commitments is due in 2003?",
+        "gt": "18%",
+        "socratic_answer": "16.38%",
+        "cot_zeroshot_answer": "17.75%",
+        "cot_fewshot_answer": "17.75%",
+        "direct_answer": "17.75%",
+        "socratic_hints": [
+            "The total amount of future minimum lease commitments for all years combined is 183 million."
+        ]
+    },
+    {
+        "question": "what was the ratio of the total property and equipment net in 2006 to 2005",
+        "gt": "1.13",
+        "socratic_answer": "112.8%",
+        "cot_zeroshot_answer": "1.128",
+        "cot_fewshot_answer": "1.128",
+        "direct_answer": "1.13",
+        "socratic_hints": [
+            "unknown"
+        ]
+    }
+]

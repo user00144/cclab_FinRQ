@@ -1,0 +1,92 @@
+[
+    {
+        "question": "what was the difference in percentage cumulative total return for goldman sachs group inc . and the s&p 500 index for the five year period ending 12/31/13?",
+        "gt": "12.16%",
+        "socratic_answer": "5.15%",
+        "cot_zeroshot_answer": "12.16%",
+        "cot_fewshot_answer": "12.16%",
+        "direct_answer": "12.16%",
+        "socratic_hints": []
+    },
+    {
+        "question": "what is the percentage change in the weighted average common shares outstanding for basic computations from 2010 to 2011?",
+        "gt": "-7.8%",
+        "socratic_answer": "7.78%",
+        "cot_zeroshot_answer": "-7.78%",
+        "cot_fewshot_answer": "-7.78%",
+        "direct_answer": "-7.78%",
+        "socratic_hints": []
+    },
+    {
+        "question": "what is the percentage change in impairment charges and net losses from 2003 to 2004?",
+        "gt": "-7.3%",
+        "socratic_answer": "7.34%",
+        "cot_zeroshot_answer": "-7.34%",
+        "cot_fewshot_answer": "-7.33%",
+        "direct_answer": "-7.33%",
+        "socratic_hints": []
+    },
+    {
+        "question": "what was the percentage of the growth of the s&p 500 index from 2016 to 2017",
+        "gt": "21.6%",
+        "socratic_answer": "21.54%",
+        "cot_zeroshot_answer": "21.55%",
+        "cot_fewshot_answer": "21.59%",
+        "direct_answer": "21.59%",
+        "socratic_hints": []
+    },
+    {
+        "question": "what is the ratio of the flight attendants to pilots",
+        "gt": "1.57",
+        "socratic_answer": "127:81",
+        "cot_zeroshot_answer": "1.57:1",
+        "cot_fewshot_answer": "1.57",
+        "direct_answer": "1.57",
+        "socratic_hints": []
+    },
+    {
+        "question": "what is the return on investment for s&p500 from 2007 to 2008?",
+        "gt": "-37.0%",
+        "socratic_answer": "−36.95%",
+        "cot_zeroshot_answer": "-36.95%",
+        "cot_fewshot_answer": "-37.00%",
+        "direct_answer": "-37.00%",
+        "socratic_hints": []
+    },
+    {
+        "question": "in 2007 what was the ratio of the interest expense to the interest income",
+        "gt": "1.59",
+        "socratic_answer": "-1.59",
+        "cot_zeroshot_answer": "1.59",
+        "cot_fewshot_answer": "1.591",
+        "direct_answer": "1.59",
+        "socratic_hints": []
+    },
+    {
+        "question": "what was the percent change in the aggregate net asset values of the direct lending collateral pools between 2007 and 2008?",
+        "gt": "-43%",
+        "socratic_answer": "43.33%",
+        "cot_zeroshot_answer": "-43.33%",
+        "cot_fewshot_answer": "-43.33%",
+        "direct_answer": "-43.33%",
+        "socratic_hints": []
+    },
+    {
+        "question": "what was the percent change in operating leases between 2011/12 and 2013/4?",
+        "gt": "-44%",
+        "socratic_answer": "44.03%",
+        "cot_zeroshot_answer": "-44.03%",
+        "cot_fewshot_answer": "-44.03%",
+        "direct_answer": "-44.1%",
+        "socratic_hints": []
+    },
+    {
+        "question": "for natural gas options in place to manage the price risk , what is the change in the percentage of the anticipated natural gas purchases hedged between the first quarter of 2004 and the second quarter of 2004?",
+        "gt": "10",
+        "socratic_answer": "-16.67%",
+        "cot_zeroshot_answer": "10%",
+        "cot_fewshot_answer": "10%",
+        "direct_answer": "10%",
+        "socratic_hints": []
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "question": "what are the pre-tax earnings in 2016 , in billions?",
+        "gt": "1.1",
+        "socratic_answer": "1.32 billion].",
+        "cot_zeroshot_answer": "1.136 billion",
+        "cot_fewshot_answer": "1.136 (billion)",
+        "direct_answer": "1.14 billion",
+        "socratic_hints": []
+    },
+    {
+        "question": "as a result of the sales of certain non-core towers and other assets what was the percent of the change in the recorded net losses from 2007 to 2008",
+        "gt": "47.9%",
+        "socratic_answer": "37.18%].",
+        "cot_zeroshot_answer": "47.89%",
+        "cot_fewshot_answer": "47.89%",
+        "direct_answer": "47.89%",
+        "socratic_hints": []
+    },
+    {
+        "question": "what percentage of contractual obligations and commitments in total are pension funding?",
+        "gt": "13%",
+        "socratic_answer": "12.5%].",
+        "cot_zeroshot_answer": "12.58%",
+        "cot_fewshot_answer": "12.59%",
+        "direct_answer": "12.59%",
+        "socratic_hints": []
+    },
+    {
+        "question": "what percentage of approximate number of active full-time equivalent employees are passenger service personnel ?",
+        "gt": "19.9%",
+        "socratic_answer": "19.8%",
+        "cot_zeroshot_answer": "19.85%",
+        "cot_fewshot_answer": "19.87%",
+        "direct_answer": "19.87%",
+        "socratic_hints": []
+    },
+    {
+        "question": "what is the percent of americans labor-related deemed claim as a part of the total claims and other bankruptcy settlement obligations as of december2013",
+        "gt": "15.7%",
+        "socratic_answer": "15.6%].",
+        "cot_zeroshot_answer": "15.65%",
+        "cot_fewshot_answer": "15.65%",
+        "direct_answer": "15.65%",
+        "socratic_hints": [
+            "The formula to calculate the percentage of a specific claim relative to the total claims results in approximately 61.4% for AAG Series A Preferred Stock, 23.0% for Single-Dip Equity Obligations, and 15.6% for Labor-Related Deemed Claim."
+        ]
+    },
+    {
+        "question": "what is the growth rate in net sales from 2009 to 2010?",
+        "gt": "13.7%",
+        "socratic_answer": "13.77%].",
+        "cot_zeroshot_answer": "13.70%",
+        "cot_fewshot_answer": "13.7%",
+        "direct_answer": "13.73%",
+        "socratic_hints": []
+    },
+    {
+        "question": "in may 2015 what was the ratio of the unrealized losses from interest rate cash flow hedges to the unrealized gains from foreign currency cash flow hedges",
+        "gt": "-4.74",
+        "socratic_answer": "4.743].",
+        "cot_zeroshot_answer": "-4.74",
+        "cot_fewshot_answer": "-4.743",
+        "direct_answer": "-4.74",
+        "socratic_hints": []
+    },
+    {
+        "question": "for natural gas options in place to manage the price risk , what is the change in the percentage of the anticipated natural gas purchases hedged between the first quarter of 2004 and the second quarter of 2004?",
+        "gt": "10",
+        "socratic_answer": "10% decrease].",
+        "cot_zeroshot_answer": "10%",
+        "cot_fewshot_answer": "10%",
+        "direct_answer": "10%",
+        "socratic_hints": []
+    }
+]

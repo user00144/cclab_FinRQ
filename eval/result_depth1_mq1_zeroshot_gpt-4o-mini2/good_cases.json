@@ -1,0 +1,79 @@
+[
+    {
+        "question": "what was the ratio of the purchase in december 2012 to the purchase in january 2013",
+        "gt": "6.5",
+        "socratic_answer": "6.48",
+        "cot_zeroshot_answer": "38.33].",
+        "cot_fewshot_answer": "6.39",
+        "direct_answer": "8.53",
+        "socratic_hints": [
+            "The total number of shares repurchased in December 2012 and January 2013 was 118190."
+        ]
+    },
+    {
+        "question": "what is awk's 2012 unrecognized tax benefit as a percentage of gross liabilities?",
+        "gt": "4.16%",
+        "socratic_answer": "4.16%",
+        "cot_zeroshot_answer": "114.1%].",
+        "cot_fewshot_answer": "114.14%",
+        "direct_answer": "41.5%",
+        "socratic_hints": [
+            "The total gross liability for AWK at December 31, 2012 was $180,993."
+        ]
+    },
+    {
+        "question": "what is the net change in the balance of accrual related to restructurings during 1999?",
+        "gt": "-8095",
+        "socratic_answer": "-8095",
+        "cot_zeroshot_answer": "-6081",
+        "cot_fewshot_answer": "-8.095 (million)",
+        "direct_answer": "$-8145",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what is the net chance in non-vested performance awards in 2012 , ( in thousands ) ?",
+        "gt": "-198",
+        "socratic_answer": "-198",
+        "cot_zeroshot_answer": "509].",
+        "cot_fewshot_answer": "509 (thousands)",
+        "direct_answer": "509",
+        "socratic_hints": [
+            "The formula to calculate the net change in non-vested performance awards, taking into account shares granted, vested, and canceled, results in -198,000."
+        ]
+    },
+    {
+        "question": "assuming the same appreciation as 2007 , what would be the expected 2008 weighted average grant-date fair value for options?",
+        "gt": "11.08",
+        "socratic_answer": "11.08",
+        "cot_zeroshot_answer": "10.59].",
+        "cot_fewshot_answer": "10.59",
+        "direct_answer": "$8.75",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what was the average total revenue in 1999 , 2000 and 2001?",
+        "gt": "231341.7",
+        "socratic_answer": "231341.67",
+        "cot_zeroshot_answer": "229586.33].",
+        "cot_fewshot_answer": "231.34 (thousand)",
+        "direct_answer": "$ 220675",
+        "socratic_hints": [
+            "The total revenue amounts were $206,017 for 1999, $230,323 for 2000, and $257,685 for 2001."
+        ]
+    },
+    {
+        "question": "for home equity unresolved asserted indemnification and repurchase claims in millions , what was the change between december 31 2012 and december 31 2011?\\\\n\\\\n\\\\n\\\\n",
+        "gt": "-36",
+        "socratic_answer": "-36 million",
+        "cot_zeroshot_answer": "36 million",
+        "cot_fewshot_answer": "36 million",
+        "direct_answer": "$36 million",
+        "socratic_hints": [
+            "The difference in the unpaid principal balance of unresolved home equity indemnification and repurchase claims between December 31, 2012, and December 31, 2011, is $36 million."
+        ]
+    }
+]

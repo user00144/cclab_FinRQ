@@ -1,0 +1,341 @@
+[
+    {
+        "question": "what are the nuclear realized price changes as a percentage of the decrease in net revenue from 2011 to 2012?",
+        "gt": "102%",
+        "socratic_answer": "101.57%",
+        "cot_zeroshot_answer": "-101.67%].",
+        "cot_fewshot_answer": "-101.57%",
+        "direct_answer": "-10.16%",
+        "socratic_hints": [
+            "The percentage of the total decrease in net revenue from 2011 to 2012 attributed to the nuclear realized price changes is 101.57%."
+        ]
+    },
+    {
+        "question": "what is awk's 2012 unrecognized tax benefit as a percentage of gross liabilities?",
+        "gt": "4.16%",
+        "socratic_answer": "4.16%",
+        "cot_zeroshot_answer": "114.1%].",
+        "cot_fewshot_answer": "114.14%",
+        "direct_answer": "41.5%",
+        "socratic_hints": [
+            "The total gross liability for AWK at December 31, 2012 was $180,993."
+        ]
+    },
+    {
+        "question": "what portion of cash and cash equivalents on hand are held in u.s . as of december 31 , 2016?",
+        "gt": "43.7%",
+        "socratic_answer": "43.7%",
+        "cot_zeroshot_answer": "143 million].",
+        "cot_fewshot_answer": "143 million",
+        "direct_answer": "$143 million",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "if 2014 underlying operating profit increases at the same pace as 2013 , what would it be , in millions?",
+        "gt": "2186",
+        "socratic_answer": "2186 million",
+        "cot_zeroshot_answer": "2182 million].",
+        "cot_fewshot_answer": "2182",
+        "direct_answer": "2150",
+        "socratic_hints": [
+            "The percentage increase in underlying operating profit from 2012 to 2013 was 4.17%."
+        ]
+    },
+    {
+        "question": "what portion of the long-term debt is due in the next 12 months?",
+        "gt": "3.1%",
+        "socratic_answer": "3.13%",
+        "cot_zeroshot_answer": "$332 million",
+        "cot_fewshot_answer": "332 million",
+        "direct_answer": "$332 million",
+        "socratic_hints": [
+            "The total amount of long-term debt that is due in less than one year is $332 million."
+        ]
+    },
+    {
+        "question": "what portion of the total number of securities approved by security holders is issued?",
+        "gt": "32.0%",
+        "socratic_answer": "31.9%",
+        "cot_zeroshot_answer": "1",
+        "cot_fewshot_answer": "1 (or 100%)",
+        "direct_answer": "1708928",
+        "socratic_hints": [
+            "The total number of securities approved by security holders is 5,338,383."
+        ]
+    },
+    {
+        "question": "what was the percent of the increase in the backlog from 2012 to 2013",
+        "gt": "13.3%",
+        "socratic_answer": "13.26%",
+        "cot_zeroshot_answer": "13.25%].",
+        "cot_fewshot_answer": "13.25%",
+        "direct_answer": "7.2%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what portion of the of unrecognized tax benefits would have an impact in the effective tax rate if recognized?",
+        "gt": "81.4%",
+        "socratic_answer": "81.43%",
+        "cot_zeroshot_answer": "$57 million",
+        "cot_fewshot_answer": "57 million",
+        "direct_answer": "$57 million",
+        "socratic_hints": [
+            "The amount of unrecognized tax benefits that would impact the effective tax rate if recognized is $57 million."
+        ]
+    },
+    {
+        "question": "what is the net effect of adjustment from common shareholders 2019 equity to basel iii cet1?",
+        "gt": "-13048",
+        "socratic_answer": "-13048 million",
+        "cot_zeroshot_answer": "-15816 million",
+        "cot_fewshot_answer": "0",
+        "direct_answer": "$ 13048",
+        "socratic_hints": [
+            "The total amount of deductions and adjustments applied to the common shareholders' equity to arrive at the Basel III CET1 is -13048 million."
+        ]
+    },
+    {
+        "question": "in 2004 what was the percent of the change in the employee liability for employee separations",
+        "gt": "-70.3%",
+        "socratic_answer": "-70.3%",
+        "cot_zeroshot_answer": "-70.4%",
+        "cot_fewshot_answer": "-70.4%",
+        "direct_answer": "-70.4%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what is the minimum yearly depreciation rate that can be used for land improvements?",
+        "gt": "2.5%",
+        "socratic_answer": "2.5%",
+        "cot_zeroshot_answer": "33.33%].",
+        "cot_fewshot_answer": "33.33%",
+        "direct_answer": "33.33%",
+        "socratic_hints": [
+            "The estimated useful life of land improvements is 40 years according to the provided context."
+        ]
+    },
+    {
+        "question": "what was the 2004 rate of decrease in development costs?",
+        "gt": "11.3%",
+        "socratic_answer": "11.35%",
+        "cot_zeroshot_answer": "52.1%].",
+        "cot_fewshot_answer": "-78.2%",
+        "direct_answer": "711",
+        "socratic_hints": [
+            "The percentage change in development costs incurred from 2003 to 2004 was -11.35%."
+        ]
+    },
+    {
+        "question": "what is the percent change in gain on land sales from 2000 to 2001?",
+        "gt": "-44.6%",
+        "socratic_answer": "-44.6%",
+        "cot_zeroshot_answer": "-44.5%",
+        "cot_fewshot_answer": "-44.66%",
+        "direct_answer": "44.5%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what was the percentage decline in the operating loss from 2007 to 2008",
+        "gt": "-83.3%",
+        "socratic_answer": "-83.33%",
+        "cot_zeroshot_answer": "83.33%].",
+        "cot_fewshot_answer": "83.33%",
+        "direct_answer": "83%",
+        "socratic_hints": [
+            "The operating loss for the company was $1.2 billion in 2007, which increased to $2.2 billion in 2008."
+        ]
+    },
+    {
+        "question": "what was the gross proceeds from the sale of the packaging business ( in millions ) if the preliminary closing adjustments are not finalized?",
+        "gt": "298.5",
+        "socratic_answer": "298.5 millions",
+        "cot_zeroshot_answer": "280 million].",
+        "cot_fewshot_answer": "280",
+        "direct_answer": "280",
+        "socratic_hints": [
+            "The gross proceeds from the sale of the packaging business before considering the preliminary closing adjustments was $298.5 million."
+        ]
+    },
+    {
+        "question": "for the quarter ended december 312010 what was percent of the total number of shares attested to upc by employees to pay stock option exercise prices",
+        "gt": "18.4%",
+        "socratic_answer": "18.36%",
+        "cot_zeroshot_answer": "49.6%].",
+        "cot_fewshot_answer": "49.7%",
+        "direct_answer": "1.84%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what is the growth rate in operating expenses in 2013?",
+        "gt": "-2.1%",
+        "socratic_answer": "-2.14%",
+        "cot_zeroshot_answer": "0.807%].",
+        "cot_fewshot_answer": "-0.398%",
+        "direct_answer": "2%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what was the percentage decline in recorded international slot and route authorities to $ 708 million from $ 736 million as of december 31 , 2010 and 2009 , respectively .",
+        "gt": "-3.8%",
+        "socratic_answer": "-3.80%",
+        "cot_zeroshot_answer": "3.80%].",
+        "cot_fewshot_answer": "3.80%",
+        "direct_answer": "3.81%",
+        "socratic_hints": [
+            "The formula to calculate the percentage decline between the two values of $736 million and $708 million is Percentage Change = (708 - 736) / 736 * 100."
+        ]
+    },
+    {
+        "question": "what is the net income-to-capital ratio for bermuda subsidiaries in 2008?",
+        "gt": "9.8%",
+        "socratic_answer": "9.77%",
+        "cot_zeroshot_answer": "0.0977].",
+        "cot_fewshot_answer": "**:\n   The net income-to-capital ratio for Bermuda subsidiaries in 2008 is approximately 0.0977, which can be expressed as a percentage by multiplying by 100, resulting in approximately 9.77%.\n\nThus, the final answer is [",
+        "direct_answer": "0.0976",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what was the percentage change in otti between 2011 and 2012?",
+        "gt": "115%",
+        "socratic_answer": "115.22%",
+        "cot_zeroshot_answer": "-115.22%].",
+        "cot_fewshot_answer": "-115.22%",
+        "direct_answer": "-115.22%",
+        "socratic_hints": [
+            "The formula for calculating the percentage change between the OTTI values for 2011 and 2012 is 115.22%."
+        ]
+    },
+    {
+        "question": "what was the percent of the change in the weighted average cost per share from 2015 to 2016",
+        "gt": "17.32%",
+        "socratic_answer": "17.32%",
+        "cot_zeroshot_answer": "17.3%].",
+        "cot_fewshot_answer": "17.33%",
+        "direct_answer": "17.3%",
+        "socratic_hints": [
+            "The formula for calculating the percent change between two values is Percent Change = (New Value - Old Value) / Old Value * 100."
+        ]
+    },
+    {
+        "question": "what was the percent of the decline in amortization expense for other intangible assets from 2016 to 2017",
+        "gt": "-2.6%",
+        "socratic_answer": "-2.60%",
+        "cot_zeroshot_answer": "2.60%].",
+        "cot_fewshot_answer": "2.60%",
+        "direct_answer": "2.60%",
+        "socratic_hints": [
+            "The formula to calculate the percent change between two values is (New Value - Old Value) / Old Value * 100."
+        ]
+    },
+    {
+        "question": "what were total development costs in millions for the three year period?",
+        "gt": "7231",
+        "socratic_answer": "7231 millions",
+        "cot_zeroshot_answer": "7221].",
+        "cot_fewshot_answer": "7.221 (million)",
+        "direct_answer": "7225",
+        "socratic_hints": [
+            "The sum of the development costs incurred for the years 2011, 2010, and 2009 is $7231 million."
+        ]
+    },
+    {
+        "question": "what was the average basic net income available for common shareholders from 2005 to 2007",
+        "gt": "223990",
+        "socratic_answer": "223990",
+        "cot_zeroshot_answer": "224323.33].",
+        "cot_fewshot_answer": "223.99 (thousand)",
+        "direct_answer": "$ 190323.33",
+        "socratic_hints": [
+            "The total basic net income available for common shareholders for the years 2005, 2006, and 2007 is $671,970."
+        ]
+    },
+    {
+        "question": "what was the difference in percentage five-year cumulative return for intel versus the s&p 500 index for the five years ended 2013?",
+        "gt": "-22%",
+        "socratic_answer": "-22%",
+        "cot_zeroshot_answer": "22%].",
+        "cot_fewshot_answer": "22%",
+        "direct_answer": "22%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "as of december 31 , 2016 what was the percent of the company's significant contractual obligations for the global headquarters operating lease due in 2016",
+        "gt": "29.4%",
+        "socratic_answer": "29.41%",
+        "cot_zeroshot_answer": "3.08%].",
+        "cot_fewshot_answer": "3.08%",
+        "direct_answer": "30.0%",
+        "socratic_hints": [
+            "The formula to calculate the percentage of the global headquarters operating lease due in 2016 relative to the total contractual obligations is Percentage = (40,859 / 138,930) x 100."
+        ]
+    },
+    {
+        "question": "what is the difference between total sales and total payments received during 2013?",
+        "gt": "29.6",
+        "socratic_answer": "29.6 millions",
+        "cot_zeroshot_answer": "Insufficient data to determine the difference between total sales and total payments received during 2013.]",
+        "cot_fewshot_answer": "531.6 (million)",
+        "direct_answer": "The information provided does not include total sales or total payments received during 2013, so the difference cannot be determined.]",
+        "socratic_hints": []
+    },
+    {
+        "question": "what was the difference in billions in hqla from dec . 31 , 2014 to dec . 31 , 2015?",
+        "gt": "-34.1",
+        "socratic_answer": "-34.1 billion",
+        "cot_zeroshot_answer": "34.1 billion].",
+        "cot_fewshot_answer": "34.1 billion",
+        "direct_answer": "$34.1 billion",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what was the net tax positions for 2012",
+        "gt": "22415",
+        "socratic_answer": "22415",
+        "cot_zeroshot_answer": "180993].",
+        "cot_fewshot_answer": "180.993 (thousand)",
+        "direct_answer": "$ 180993",
+        "socratic_hints": [
+            "The total amount of unrecognized tax benefits at December 31, 2012, after accounting for increases and decreases in tax positions during that year was $180,993."
+        ]
+    },
+    {
+        "question": "what is the net effect of the adoption of new accounting standards?",
+        "gt": "85929",
+        "socratic_answer": "85929",
+        "cot_zeroshot_answer": "$341,003,000.\n   - Cumulative effect adjustments:\n     - Revenue from contracts with customers (Topic 606)",
+        "cot_fewshot_answer": "85.929 (million)",
+        "direct_answer": "The net effect of the adoption of new accounting standards is an increase in retained earnings by $85,640,000, resulting in a balance of $426,932,000 as of December 30, 2017, after adjustments.]",
+        "socratic_hints": [
+            "The total cumulative effect adjustment to retained earnings from the adoption of new accounting standards is $85,929."
+        ]
+    },
+    {
+        "question": "excluding derivatives , what are net 2008 trading assets , in millions?",
+        "gt": "305261",
+        "socratic_answer": "305261 millions",
+        "cot_zeroshot_answer": "384102].",
+        "cot_fewshot_answer": "305.261 (million)",
+        "direct_answer": "384102",
+        "socratic_hints": [
+            "unknown"
+        ]
+    }
+]

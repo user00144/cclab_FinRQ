@@ -1,0 +1,26 @@
+[
+    [
+        {
+            "q_no": 4,
+            "main_question": "what was the difference in percentage cumulative total shareholder return on masco common stock versus the s&p 500 index for the five year period ended 2017?",
+            "sub_question": "What were the cumulative total returns of Masco common stock and the S&P 500 index at the end of 2017?",
+            "answer": {
+                "answer": "Masco",
+                "confidence": "high"
+            },
+            "raw_answer": "To answer the question, I will extract the relevant information from the provided context.\n\nFrom the context table, we can see the cumulative total returns for Masco and the S&P 500 index at the end of 2017:\n\n- For Masco, the cumulative total return at the end of 2017 is $318.46.\n- For the S&P 500 index, the cumulative total return at the end of 2017 is $206.49.\n\nThus, the cumulative total returns of Masco common stock and the S&P 500 index at the end of 2017 are $318.46 and $206.49, respectively.\n\nThe final answer is [Answer: \"Masco: $318.46; S&P 500: $206.49\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 5,
+            "main_question": "what was the percentage change in total rental expense under operating leases from july 2 , 2005 to july 1 , 2006?",
+            "sub_question": "What were the total rental expenses under operating leases for July 2, 2005, and July 1, 2006?",
+            "answer": {
+                "answer": "$193,400,000",
+                "confidence": "high"
+            },
+            "raw_answer": "To find the total rental expenses under operating leases for July 2, 2005, and July 1, 2006, we can refer to the provided context. \n\nFrom the context, we see the following information:\n- Total rental expense under operating leases was $100,690,000 in fiscal 2006 (July 1, 2006).\n- Total rental expense under operating leases was $92,710,000 in fiscal 2005 (July 2, 2005).\n\nNow, we can sum these two amounts to get the total rental expenses for both years:\n\nTotal rental expenses = Rental expense for 2005 + Rental expense for 2006\nTotal rental expenses = $92,710,000 + $100,690,000 = $193,400,000\n\nThus, the total rental expenses under operating leases for July 2, 2005, and July 1, 2006, is $193,400,000.\n\nThe final answer is [Answer: \"$193,400,000\"; Used hints: \"(1)\"; Confidence: \"high\"]."
+        }
+    ]
+]

@@ -1,0 +1,724 @@
+[
+    {
+        "question": "in 2010 and 2009 , what was the total fair value in billions of assets segregated for the benefit of securities and futures brokerage customers?",
+        "gt": "68.9",
+        "socratic_answer": "68.9 billion",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "19.9 (billion)",
+        "direct_answer": "34.7 billion",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what is the net change in net revenue for entergy wholesale commodities during 2012?",
+        "gt": "-191",
+        "socratic_answer": "-191 million",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "191 million",
+        "direct_answer": "$191 million",
+        "socratic_hints": [
+            "The primary reasons for the decrease in net revenue from Entergy wholesale commodities in 2012 compared to 2011 were lower pricing in contracts to sell power and lower volume in the nuclear fleet due to increased unplanned and refueling outages."
+        ]
+    },
+    {
+        "question": "what was the ratio of the purchase in december 2012 to the purchase in january 2013",
+        "gt": "6.5",
+        "socratic_answer": "6.48",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "6.39",
+        "direct_answer": "8.53",
+        "socratic_hints": [
+            "The total number of shares repurchased in December 2012 and January 2013 was 118,190."
+        ]
+    },
+    {
+        "question": "what is awk's 2012 unrecognized tax benefit as a percentage of gross liabilities?",
+        "gt": "4.16%",
+        "socratic_answer": "4.16%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "100%",
+        "direct_answer": "41.5%",
+        "socratic_hints": [
+            "The total gross liability for AWK at December 31, 2012 was $180,993."
+        ]
+    },
+    {
+        "question": "what portion of cash and cash equivalents on hand are held in u.s . as of december 31 , 2016?",
+        "gt": "43.7%",
+        "socratic_answer": "43.73%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "143 million",
+        "direct_answer": "$143 million",
+        "socratic_hints": [
+            "The amount of cash and cash equivalents held in the U.S. as of December 31, 2016, is $143 million."
+        ]
+    },
+    {
+        "question": "as of december 31 , 2010 what percentage of the collateral that it was able to sell , repledge , deliver , or otherwise use was actually used for these purposes?",
+        "gt": "79.6",
+        "socratic_answer": "79.6%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "79.7%",
+        "direct_answer": "79.7%",
+        "socratic_hints": [
+            "The ratio of the amount of collateral sold or repledged to the total amount of collateral received as of December 31, 2010 is 0.796."
+        ]
+    },
+    {
+        "question": "what is the percent change in general and administrative expense from 2000 to 2001?",
+        "gt": "-26.1%",
+        "socratic_answer": "-26.07%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "-26.00%",
+        "direct_answer": "26.1%",
+        "socratic_hints": [
+            "The formula for calculating percent change is Percent Change = (New Value - Old Value) / Old Value * 100."
+        ]
+    },
+    {
+        "question": "what portion of the long-term debt is due in the next 12 months?",
+        "gt": "3.1%",
+        "socratic_answer": "3.13%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "332 million",
+        "direct_answer": "$332 million",
+        "socratic_hints": [
+            "The total amount of long-term debt that is due within the next 12 months is $332 million."
+        ]
+    },
+    {
+        "question": "what were average operating profit for mfc in millions between 2014 and 2016?",
+        "gt": "1215",
+        "socratic_answer": "1214.67",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "1.215 (million)",
+        "direct_answer": "1168.67",
+        "socratic_hints": [
+            "The operating profit figures for MFC were $1,344 million in 2014, $1,282 million in 2015, and $1,018 million in 2016."
+        ]
+    },
+    {
+        "question": "what was the percentage change in non-interest revenue from 2007 to 2008?",
+        "gt": "251%",
+        "socratic_answer": "251.24%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "250.5%",
+        "direct_answer": "-250.86%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what was the percent of the total gains that was from the sales of land",
+        "gt": "10.1%",
+        "socratic_answer": "10.10%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "11.1%",
+        "direct_answer": "11.1%",
+        "socratic_hints": [
+            "The formula to calculate the percentage of gain on land sales in relation to the total gains from both depreciable properties and land sales is Percentage = (Gain on land sales / (Gain on sales of depreciable properties + Gain on land sales)) x 100."
+        ]
+    },
+    {
+        "question": "what portion of the total number of securities approved by security holders is issued?",
+        "gt": "32.0%",
+        "socratic_answer": "31.9%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "1 (or 100%)",
+        "direct_answer": "1708928",
+        "socratic_hints": [
+            "The total number of securities approved by security holders is 5,338,383."
+        ]
+    },
+    {
+        "question": "what was the average segment net sales from 2005 to 2007 in millions",
+        "gt": "6055.7",
+        "socratic_answer": "6055.67",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "6.056 (million)",
+        "direct_answer": "6722.33",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what portion of the total full-time employees of mainline operations are flight attendants?",
+        "gt": "24.3%",
+        "socratic_answer": "24.3%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "0.243 (or 24.33%)",
+        "direct_answer": "24.36%",
+        "socratic_hints": [
+            "The ratio of flight attendants to the total number of employees in mainline operations is 1:4.1."
+        ]
+    },
+    {
+        "question": "what percent of total contractual obligations was long-term debt?",
+        "gt": "41%",
+        "socratic_answer": "41.4%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "41.5%",
+        "direct_answer": "41.5%",
+        "socratic_hints": [
+            "The formula to calculate the percentage of long-term debt in relation to total contractual obligations is Percentage of Long-term Debt = (Long-term Debt / Total Contractual Obligations) x 100."
+        ]
+    },
+    {
+        "question": "what was the average total revenue in 1999 , 2000 and 2001?",
+        "gt": "231341.7",
+        "socratic_answer": "231341.67",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "231.34 (thousand)",
+        "direct_answer": "$ 220675",
+        "socratic_hints": [
+            "The total revenue amounts were $206,017 for 1999, $230,323 for 2000, and $257,685 for 2001."
+        ]
+    },
+    {
+        "question": "in 2006 what percentage of capital spending from continuing operations was due to consumer packaging?",
+        "gt": "11%",
+        "socratic_answer": "11.48%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "11.5%",
+        "direct_answer": "11.5%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what was the percent of the increase in the backlog from 2012 to 2013",
+        "gt": "13.3%",
+        "socratic_answer": "13.29%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "13.25%",
+        "direct_answer": "7.2%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what portion of the of unrecognized tax benefits would have an impact in the effective tax rate if recognized?",
+        "gt": "81.4%",
+        "socratic_answer": "81.43%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "57 million",
+        "direct_answer": "$57 million",
+        "socratic_hints": [
+            "The amount of unrecognized tax benefits that would impact the effective tax rate if recognized is $57 million."
+        ]
+    },
+    {
+        "question": "what was the percentage change in total rental expense under operating leases from july 1 , 2006 to july 2 , 2007?",
+        "gt": "9%",
+        "socratic_answer": "8.61%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "-43.85%",
+        "direct_answer": "0%",
+        "socratic_hints": [
+            "The total rental expense under operating leases for the fiscal year ending July 2, 2007 was $100,690,000."
+        ]
+    },
+    {
+        "question": "excluding derivatives , what are net 2009 trading assets , in millions?",
+        "gt": "257839",
+        "socratic_answer": "257839 millions",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "257.839 (million)",
+        "direct_answer": "318063",
+        "socratic_hints": [
+            "The total value of trading assets minus the total value of trading liabilities, excluding derivative receivables and payables, for the year 2009 is $257,839 million."
+        ]
+    },
+    {
+        "question": "what is the net change in the balance of liability related to employee separations during 2006?",
+        "gt": "-13636",
+        "socratic_answer": "-13636",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "-13.636 (million)",
+        "direct_answer": "$-12389 + $496 - $1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + 496 - 1743 = -12389 + ",
+        "socratic_hints": [
+            "The total expenses and cash payments related to employee separations in 2006 were -11893000."
+        ]
+    },
+    {
+        "question": "what would the 2012 shares outstanding in millions have been without the acquisition of smith international?",
+        "gt": "1152",
+        "socratic_answer": "1152 millions",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "1.152 (million)",
+        "direct_answer": "1328",
+        "socratic_hints": [
+            "The acquisition of Smith International initially increased shares outstanding, but by 2012, the total shares outstanding decreased to 1328 due to other transactions."
+        ]
+    },
+    {
+        "question": "what was the total number of shares vested during the three year period?",
+        "gt": "639993",
+        "socratic_answer": "639993",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "640,993 shares",
+        "direct_answer": "250993",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what portion of the total support incentives is expected to be paid in 2009?",
+        "gt": "22.0%",
+        "socratic_answer": "22.0%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "1,088 (million)",
+        "direct_answer": "$1088 million",
+        "socratic_hints": [
+            "The amount of volume and support incentives allocated for the fiscal year 2009 is $1,088 million."
+        ]
+    },
+    {
+        "question": "in 2004 what was the percent of the change in the employee liability for employee separations",
+        "gt": "-70.3%",
+        "socratic_answer": "-70.3%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "-70.4%",
+        "direct_answer": "-70.4%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "hard assets are what percent of net assets acquired for the can and alcan acquisitions?",
+        "gt": "29.8%",
+        "socratic_answer": "29.83%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "29.85%",
+        "direct_answer": "29.88%",
+        "socratic_hints": [
+            "The formula to calculate the percentage of hard assets in relation to total net assets acquired is Percentage of Hard Assets = (Property, Plant, and Equipment / Total Net Assets Acquired) x 100."
+        ]
+    },
+    {
+        "question": "based on the final purchase price allocation what was the sum of the liabilities",
+        "gt": "44055",
+        "socratic_answer": "44055",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "-44.055 (million)",
+        "direct_answer": "$43,055",
+        "socratic_hints": [
+            "The total amount of current liabilities and other non-current liabilities in the final purchase price allocation is $44,055."
+        ]
+    },
+    {
+        "question": "what is the estimated fair value of hologic common stock?",
+        "gt": "27.8",
+        "socratic_answer": "27.81",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "3.6715 (million)",
+        "direct_answer": "$3,671,500",
+        "socratic_hints": [
+            "The weighted average stock price used to value the Hologic common stock during the merger was $27.81."
+        ]
+    },
+    {
+        "question": "what percentage of total contractual obligations is made up long-term debt?",
+        "gt": "41%",
+        "socratic_answer": "41.45%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "41.5%",
+        "direct_answer": "41.5%",
+        "socratic_hints": [
+            "The formula to calculate the percentage of long-term debt in relation to total contractual obligations is Percentage of Long-term Debt = (Long-term Debt / Total Contractual Obligations) x 100."
+        ]
+    },
+    {
+        "question": "what was the percentage decline in the operating loss from 2007 to 2008",
+        "gt": "-83.3%",
+        "socratic_answer": "-83.33%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "83.33%",
+        "direct_answer": "83%",
+        "socratic_hints": [
+            "The operating losses for the company were $1.2 billion in 2007 and $2.2 billion in 2008."
+        ]
+    },
+    {
+        "question": "what is the growth rate in total sales in 2013?",
+        "gt": "-6.8%",
+        "socratic_answer": "-6.84%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "-6.86%",
+        "direct_answer": "The growth rate in total sales in 2013 is -5.2%",
+        "socratic_hints": [
+            "The percentage change in total sales from 2012 to 2013 was -6.84%."
+        ]
+    },
+    {
+        "question": "what portion of the total restricted units will vest in 2011?",
+        "gt": "33.3%",
+        "socratic_answer": "33.33%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "1/3",
+        "direct_answer": "8000",
+        "socratic_hints": [
+            "8000 restricted stock units are scheduled to vest on January 25, 2011."
+        ]
+    },
+    {
+        "question": "what was the change in millions of total assets from 2012 to 2013?",
+        "gt": "-27048",
+        "socratic_answer": "-27048 million",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "27.048 (million)",
+        "direct_answer": "-27050",
+        "socratic_hints": [
+            "The difference in total assets between December 2012 and December 2013 is -$27.045 billion."
+        ]
+    },
+    {
+        "question": "what amount is expected to be paid for support incentives in the next three years?",
+        "gt": "3138",
+        "socratic_answer": "3138 millions",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "3.138 (billion)",
+        "direct_answer": "$ 2,988 million",
+        "socratic_hints": [
+            "The projected volume and support incentive amounts are $1,088 million for 2009, $1,105 million for 2010, and $945 million for 2011."
+        ]
+    },
+    {
+        "question": "for the quarter ended december 312010 what was percent of the total number of shares attested to upc by employees to pay stock option exercise prices",
+        "gt": "18.4%",
+        "socratic_answer": "18.36%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "49.7%",
+        "direct_answer": "1.84%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what is the decrease observed in the operating leases with payments due to 3-5 years and payments due to more than 5 years?",
+        "gt": "9437",
+        "socratic_answer": "9437",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "9.437 (million)",
+        "direct_answer": "$ 6040 - $ 15477 = -$ 9337",
+        "socratic_hints": [
+            "The difference in total payments due for operating leases between the 3-5 year period and the more than 5 year period is $9,437."
+        ]
+    },
+    {
+        "question": "what was the difference in millions of deferral of revenue and recognition of deferred revenue for the fiscal year ended june 30 , 2019?",
+        "gt": "-76",
+        "socratic_answer": "-76 million",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "-8 million",
+        "direct_answer": "6",
+        "socratic_hints": [
+            "The difference between the total deferral of revenue and the total recognition of deferred revenue for the fiscal year ended June 30, 2019, is -$76 million."
+        ]
+    },
+    {
+        "question": "what portion of total long-term obligations are due in 2018?",
+        "gt": "23.15%",
+        "socratic_answer": "23.15%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "23.1%",
+        "direct_answer": "3112.0 million",
+        "socratic_hints": [
+            "The amount of total long-term obligations that is specifically due in the fiscal year 2018 is 3,112.0 million."
+        ]
+    },
+    {
+        "question": "what is the growth rate in operating expenses in 2013?",
+        "gt": "-2.1%",
+        "socratic_answer": "-2.14%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "-0.398%",
+        "direct_answer": "2%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what was the percentage decline in recorded international slot and route authorities to $ 708 million from $ 736 million as of december 31 , 2010 and 2009 , respectively .",
+        "gt": "-3.8%",
+        "socratic_answer": "-3.80%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "3.80%",
+        "direct_answer": "3.8%",
+        "socratic_hints": [
+            "The formula to calculate the percentage decline between the two values of $736 million and $708 million is Percentage Change = (New Value - Original Value) / Original Value * 100."
+        ]
+    },
+    {
+        "question": "what is the net income-to-capital ratio for bermuda subsidiaries in 2008?",
+        "gt": "9.8%",
+        "socratic_answer": "9.77%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "**:\n   The net income-to-capital ratio for Bermuda subsidiaries in 2008 is approximately 0.0977, or 9.77%.\n\nThus, the final answer is [",
+        "direct_answer": "0.0976",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what was the percent change of the principal transactions revenue associated with interest rate risks from 2016 to 2017",
+        "gt": "25.3%",
+        "socratic_answer": "25.3%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "25.4%",
+        "direct_answer": "25.4%",
+        "socratic_hints": [
+            "The principal transactions revenue figures for interest rate risks were $4,229 million in 2016 and $5,301 million in 2017."
+        ]
+    },
+    {
+        "question": "what was the percentage change in otti between 2011 and 2012?",
+        "gt": "115%",
+        "socratic_answer": "115.22%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "-115.22%",
+        "direct_answer": "-115.22%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what was the difference in billions in net outflows from dec . 31 , 2014 to dec . 31 , 2015?",
+        "gt": "-32.1",
+        "socratic_answer": "-32.1 billion",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "32.1 billion",
+        "direct_answer": "$32.1 billion",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what was the average basic net income available for common shareholders from 2005 to 2007",
+        "gt": "223990",
+        "socratic_answer": "223990",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "223.99 (thousands)",
+        "direct_answer": "$ 190323.33",
+        "socratic_hints": [
+            "The total basic net income available for common shareholders from 2005 to 2007 is $671,970."
+        ]
+    },
+    {
+        "question": "considering the years 2011-2013 , what is the average value of settlements?",
+        "gt": "309.67",
+        "socratic_answer": "309.67 million",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "-309.67 (million)",
+        "direct_answer": "-309.67 million",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what is the net change in the balance of unrecognized tax benefits during 2015?",
+        "gt": "-3833",
+        "socratic_answer": "-3833",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "-3.833 (million)",
+        "direct_answer": "$-38,833",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what was the ratio of the pre-tax gain on the securities transferred from held-to-maturity securities to available-for-sale securities \\\\n",
+        "gt": "0.15%",
+        "socratic_answer": "0.1489%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "0.00149",
+        "direct_answer": "1.48%",
+        "socratic_hints": [
+            "The pre-tax gain amount compared to the carrying value of the securities transferred is 0.1489%."
+        ]
+    },
+    {
+        "question": "what is the total equity in 2009 , in millions of dollars?",
+        "gt": "290395",
+        "socratic_answer": "290395 millions",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "290.395 (million)",
+        "direct_answer": "Not provided in the context",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what portion of the total entergy staff is employed at entergy operations?",
+        "gt": "19.6%",
+        "socratic_answer": "19.6%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "0.196 or 19.6%",
+        "direct_answer": "19.66%",
+        "socratic_hints": [
+            "The formula to calculate the percentage of employees at Entergy Operations relative to the total number of employees at Entergy is Percentage = (2902 / 14773) * 100."
+        ]
+    },
+    {
+        "question": "what percentage of net revenue of 2015 is attributed to the growth from to retail electric price?",
+        "gt": "3.2%",
+        "socratic_answer": "3.21%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "1.64%",
+        "direct_answer": "199.05%",
+        "socratic_hints": []
+    },
+    {
+        "question": "what were average net sales for mfc in millions between 2014 and 2016?",
+        "gt": "6823",
+        "socratic_answer": "6823.33",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "6.823 (million)",
+        "direct_answer": "$ 6788.67",
+        "socratic_hints": [
+            "The total net sales for MFC in 2014, 2015, and 2016 were $20,470 million."
+        ]
+    },
+    {
+        "question": "what was the difference in billions in hqla from dec . 31 , 2014 to dec . 31 , 2015?",
+        "gt": "-34.1",
+        "socratic_answer": "-34.1 billion",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "34.1 billion",
+        "direct_answer": "$34.1 billion",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "hard assets were what percent of the brazilian purchase price , as finally determined?",
+        "gt": "14.3%",
+        "socratic_answer": "14.27%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "26.4%",
+        "direct_answer": "83.5%",
+        "socratic_hints": [
+            "The total value of hard assets (property and equipment) acquired in the Brazilian purchase is $83,539,000, which is significantly lower than the final purchase price of $585.3 million."
+        ]
+    },
+    {
+        "question": "what portion of the issued securities is approved by security holders?",
+        "gt": "88.0%",
+        "socratic_answer": "88.0%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "0.879 (or 87.9%)",
+        "direct_answer": "2590898 out of 2943694",
+        "socratic_hints": [
+            "The total number of securities issued under equity compensation plans approved by security holders is 2,590,898."
+        ]
+    },
+    {
+        "question": "what is the net effect of the adoption of new accounting standards?",
+        "gt": "85929",
+        "socratic_answer": "85929",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "85.929 (million)",
+        "direct_answer": "The net effect of the adoption of new accounting standards resulted in a cumulative effect adjustment to retained earnings of $ 83,349,000, which includes a decrease of $ 8.3 million for income taxes related to intra-entity transfers of assets other than inventory.]",
+        "socratic_hints": [
+            "The total cumulative effect adjustment to retained earnings from the adoption of new accounting standards is $85,929."
+        ]
+    },
+    {
+        "question": "relating to the texas securitization bonds , what were the total amounts ( millions ) of the issuance when considering the transaction costs and the related deferred income tax benefits?",
+        "gt": "327",
+        "socratic_answer": "327 millions",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "303.5 (million)",
+        "direct_answer": "329.5 million",
+        "socratic_hints": [
+            "The net amount of the securitization bonds issued after subtracting the deferred income tax benefits from the total reconstruction costs and transaction costs is 327 million."
+        ]
+    },
+    {
+        "question": "what is the difference of between the carrying amount and the fair value of long-term debt and other long-term liabilities in 2014?",
+        "gt": "27",
+        "socratic_answer": "27 millions",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "114 million",
+        "direct_answer": "$114 million",
+        "socratic_hints": []
+    },
+    {
+        "question": "what portion of the total future minimum commitments under operating leases is due in the next 36 months?",
+        "gt": "33.1%",
+        "socratic_answer": "33.06%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "398 (million)",
+        "direct_answer": "$ 397 million",
+        "socratic_hints": [
+            "The total amounts for the years 2016, 2017, and 2018 in the future minimum commitments under operating leases are $398 million."
+        ]
+    },
+    {
+        "question": "what portion of total outstanding term loan is due in the next 12 months as of december 31 , 2016?",
+        "gt": "5.7%",
+        "socratic_answer": "5.68%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "175 (million)",
+        "direct_answer": "$175",
+        "socratic_hints": [
+            "The amount of the term loan that is classified as a current liability on the consolidated balance sheet as of December 31, 2016 is $175."
+        ]
+    },
+    {
+        "question": "in 2008 , how much percent did the board of directors increase the share repurchase program .",
+        "gt": "32.3%",
+        "socratic_answer": "32.26%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "Insufficient data to determine the percentage increase in 2008",
+        "direct_answer": "The percentage increase in the share repurchase program in 2008 is not provided in the context.]",
+        "socratic_hints": [
+            "The initial authorization amount for the stock repurchase program before the $2.0 billion increase approved in 2018 was $6.2 billion."
+        ]
+    },
+    {
+        "question": "what portion of the total long-term borrowings is due in the next 24 months?",
+        "gt": "30.7%",
+        "socratic_answer": "30.70%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "43.86%",
+        "direct_answer": "$2,500 million",
+        "socratic_hints": [
+            "The long-term borrowings due within the next 24 months are the floating rate notes due 2013 and the 3.50% notes due 2014."
+        ]
+    },
+    {
+        "question": "had all four quarters of 2010 had the same number of total shares purchased , how many total shares were purchased in 2010?",
+        "gt": "12255264",
+        "socratic_answer": "12255264",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "12.255 (million)",
+        "direct_answer": "3063816",
+        "socratic_hints": [
+            "The total number of shares purchased in the fourth quarter of 2010 was 3,063,816."
+        ]
+    },
+    {
+        "question": "what is the mathematical range for chemical revenue from 2014-2016 , in millions?",
+        "gt": "190",
+        "socratic_answer": "190 millions",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "121 (million)",
+        "direct_answer": "3664 to 3474",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "in 2015 what was the ratio of the nol carry forward for the federal to the foreign taxes",
+        "gt": "19.3%",
+        "socratic_answer": "19.29%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "0.193",
+        "direct_answer": "0.192857]",
+        "socratic_hints": [
+            "unknown"
+        ]
+    }
+]

@@ -1,0 +1,319 @@
+[
+    {
+        "question": "what was the ratio of the purchase in december 2012 to the purchase in january 2013",
+        "gt": "6.5",
+        "socratic_answer": "6.48",
+        "cot_zeroshot_answer": "6.38].",
+        "cot_fewshot_answer": "38.33",
+        "direct_answer": "8.53",
+        "socratic_hints": [
+            "The total number of shares purchased in December 2012 and January 2013 was 118190."
+        ]
+    },
+    {
+        "question": "what is awk's 2012 unrecognized tax benefit as a percentage of gross liabilities?",
+        "gt": "4.16%",
+        "socratic_answer": "4.16%",
+        "cot_zeroshot_answer": "114.1%].",
+        "cot_fewshot_answer": "100%",
+        "direct_answer": "41.5%",
+        "socratic_hints": [
+            "The total gross liability for AWK at December 31, 2012 was $180,993."
+        ]
+    },
+    {
+        "question": "what is the net change in the balance of accrual related to restructurings during 1999?",
+        "gt": "-8095",
+        "socratic_answer": "-8095 thousands",
+        "cot_zeroshot_answer": "-6081",
+        "cot_fewshot_answer": "-8.095 (million)",
+        "direct_answer": "$-8145",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what portion of cash and cash equivalents on hand are held in u.s . as of december 31 , 2016?",
+        "gt": "43.7%",
+        "socratic_answer": "43.7%",
+        "cot_zeroshot_answer": "143 million].",
+        "cot_fewshot_answer": "143 million",
+        "direct_answer": "$143 million",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what is the net chance in non-vested performance awards in 2012 , ( in thousands ) ?",
+        "gt": "-198",
+        "socratic_answer": "-198 thousands",
+        "cot_zeroshot_answer": "509].",
+        "cot_fewshot_answer": "509 (thousands)",
+        "direct_answer": "509",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what portion of the long-term debt is due in the next 12 months?",
+        "gt": "3.1%",
+        "socratic_answer": "3.13%",
+        "cot_zeroshot_answer": "$332 million",
+        "cot_fewshot_answer": "332 million",
+        "direct_answer": "$332 million",
+        "socratic_hints": [
+            "The total amount of long-term debt that is due within the next 12 months is $332 million."
+        ]
+    },
+    {
+        "question": "assuming the same appreciation as 2007 , what would be the expected 2008 weighted average grant-date fair value for options?",
+        "gt": "11.08",
+        "socratic_answer": "11.08",
+        "cot_zeroshot_answer": "10.59].",
+        "cot_fewshot_answer": "10.59",
+        "direct_answer": "$8.75",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what portion of the total number of securities approved by security holders is issued?",
+        "gt": "32.0%",
+        "socratic_answer": "31.9%",
+        "cot_zeroshot_answer": "1",
+        "cot_fewshot_answer": "1 (or 100%)",
+        "direct_answer": "1708928",
+        "socratic_hints": [
+            "The total number of securities approved by security holders is 5,338,383."
+        ]
+    },
+    {
+        "question": "what portion of the of unrecognized tax benefits would have an impact in the effective tax rate if recognized?",
+        "gt": "81.4%",
+        "socratic_answer": "81.43%",
+        "cot_zeroshot_answer": "57 million].",
+        "cot_fewshot_answer": "57 million",
+        "direct_answer": "$57 million",
+        "socratic_hints": [
+            "The amount of unrecognized tax benefits that would impact the effective tax rate if recognized is $57 million."
+        ]
+    },
+    {
+        "question": "hard assets are what percent of net assets acquired for the can and alcan acquisitions?",
+        "gt": "29.8%",
+        "socratic_answer": "29.8%",
+        "cot_zeroshot_answer": "29.87%].",
+        "cot_fewshot_answer": "29.85%",
+        "direct_answer": "312.5%",
+        "socratic_hints": [
+            "The total value of hard assets for both acquisitions is $239.5 million, which is less than the total net assets acquired of $802.6 million."
+        ]
+    },
+    {
+        "question": "what is the minimum yearly depreciation rate that can be used for land improvements?",
+        "gt": "2.5%",
+        "socratic_answer": "2.5%",
+        "cot_zeroshot_answer": "33.33%].",
+        "cot_fewshot_answer": "33.33%",
+        "direct_answer": "33.33%",
+        "socratic_hints": [
+            "The estimated useful life of land improvements is 40 years according to the provided information."
+        ]
+    },
+    {
+        "question": "what is the percent change in gain on land sales from 2000 to 2001?",
+        "gt": "-44.6%",
+        "socratic_answer": "-44.6%",
+        "cot_zeroshot_answer": "-44.5%",
+        "cot_fewshot_answer": "-44.66%",
+        "direct_answer": "44.5%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what was the percentage decline in the operating loss from 2007 to 2008",
+        "gt": "-83.3%",
+        "socratic_answer": "-83.33%",
+        "cot_zeroshot_answer": "83.33%].",
+        "cot_fewshot_answer": "83.33%",
+        "direct_answer": "83%",
+        "socratic_hints": [
+            "The operating loss for the company in 2007 was $1.2 billion, which increased to $2.2 billion in 2008, indicating a worsening financial situation."
+        ]
+    },
+    {
+        "question": "in 2006 , what percent of unrealized loss did foreign currency translation offset?",
+        "gt": "86.78%",
+        "socratic_answer": "86.78%",
+        "cot_zeroshot_answer": "86.76%].",
+        "cot_fewshot_answer": "86.7%",
+        "direct_answer": "87.0%",
+        "socratic_hints": [
+            "The total unrealized loss in 2006 is -227 million, but the relationship to the foreign currency translation amount is unknown."
+        ]
+    },
+    {
+        "question": "what portion of the total restricted units will vest in 2011?",
+        "gt": "33.3%",
+        "socratic_answer": "33.33%",
+        "cot_zeroshot_answer": "8000 units will vest in 2011",
+        "cot_fewshot_answer": "0.333 (or 33.33%)",
+        "direct_answer": "8000",
+        "socratic_hints": [
+            "8000 restricted stock units are scheduled to vest on January 25, 2011."
+        ]
+    },
+    {
+        "question": "in millions for 2013 and 2012 , what was maximum net derivative liabilities under bilateral agreements?",
+        "gt": "27885",
+        "socratic_answer": "27885 millions",
+        "cot_zeroshot_answer": "2013",
+        "cot_fewshot_answer": "22,176 (2013), 27,885 (2012)",
+        "direct_answer": "$ 22176",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "for the quarter ended december 312010 what was percent of the total number of shares attested to upc by employees to pay stock option exercise prices",
+        "gt": "18.4%",
+        "socratic_answer": "18.36%",
+        "cot_zeroshot_answer": "49.6%].",
+        "cot_fewshot_answer": "49.7%",
+        "direct_answer": "1.84%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what is the growth rate in operating expenses in 2013?",
+        "gt": "-2.1%",
+        "socratic_answer": "-2.14%",
+        "cot_zeroshot_answer": "0.807%].",
+        "cot_fewshot_answer": "0.49%",
+        "direct_answer": "2%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what is the net income-to-capital ratio for bermuda subsidiaries in 2008?",
+        "gt": "9.8%",
+        "socratic_answer": "9.77%",
+        "cot_zeroshot_answer": "0.0977].",
+        "cot_fewshot_answer": "0.0977",
+        "direct_answer": "0.0976",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what was the percentage change in otti between 2011 and 2012?",
+        "gt": "115%",
+        "socratic_answer": "115.22%",
+        "cot_zeroshot_answer": "-115.22%",
+        "cot_fewshot_answer": "-115.22%",
+        "direct_answer": "-115.22%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what was the difference in billions in net outflows from dec . 31 , 2014 to dec . 31 , 2015?",
+        "gt": "-32.1",
+        "socratic_answer": "-32.1 billion",
+        "cot_zeroshot_answer": "32.1 billion].",
+        "cot_fewshot_answer": "32.1 billion",
+        "direct_answer": "$32.1 billion",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what were total development costs in millions for the three year period?",
+        "gt": "7231",
+        "socratic_answer": "7231 millions",
+        "cot_zeroshot_answer": "7221].",
+        "cot_fewshot_answer": "7.221 (million)",
+        "direct_answer": "7225",
+        "socratic_hints": [
+            "The sum of the development costs incurred for the years 2009, 2010, and 2011 is $7231 million."
+        ]
+    },
+    {
+        "question": "what was the average basic net income available for common shareholders from 2005 to 2007",
+        "gt": "223990",
+        "socratic_answer": "223990",
+        "cot_zeroshot_answer": "224323.33].",
+        "cot_fewshot_answer": "223.99 (thousands)",
+        "direct_answer": "$ 190323.33",
+        "socratic_hints": [
+            "The total basic net income available for common shareholders for the years 2005, 2006, and 2007 is $671,970."
+        ]
+    },
+    {
+        "question": "what was the ratio of the pre-tax gain on the securities transferred from held-to-maturity securities to available-for-sale securities \\\\n",
+        "gt": "0.15%",
+        "socratic_answer": "0.1489%",
+        "cot_zeroshot_answer": "0.00149].",
+        "cot_fewshot_answer": "0.00149 (or 0.149%)",
+        "direct_answer": "0.001489",
+        "socratic_hints": [
+            "The pre-tax gain amount compared to the carrying value of the securities transferred is 0.1489%."
+        ]
+    },
+    {
+        "question": "what is the difference between total sales and total payments received during 2013?",
+        "gt": "29.6",
+        "socratic_answer": "29.6 million",
+        "cot_zeroshot_answer": "14.9 million].",
+        "cot_fewshot_answer": "14.9 (million)",
+        "direct_answer": "The information provided does not include total sales or total payments received during 2013, so the difference cannot be determined.]",
+        "socratic_hints": []
+    },
+    {
+        "question": "what was the difference in billions in hqla from dec . 31 , 2014 to dec . 31 , 2015?",
+        "gt": "-34.1",
+        "socratic_answer": "-34.1 billion",
+        "cot_zeroshot_answer": "34.1 billion].",
+        "cot_fewshot_answer": "34.1 billion",
+        "direct_answer": "$34.1 billion",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what was the net tax positions for 2012",
+        "gt": "22415",
+        "socratic_answer": "22415",
+        "cot_zeroshot_answer": "180993].",
+        "cot_fewshot_answer": "180.993 (thousand)",
+        "direct_answer": "$ 180993",
+        "socratic_hints": [
+            "The total amount of unrecognized tax benefits at December 31, 2012, after accounting for increases and decreases in current and prior period tax positions was $180,993."
+        ]
+    },
+    {
+        "question": "what portion of the total future minimum commitments under operating leases is due in the next 36 months?",
+        "gt": "33.1%",
+        "socratic_answer": "33.06%",
+        "cot_zeroshot_answer": "398 million].",
+        "cot_fewshot_answer": "398 million",
+        "direct_answer": "$ 397 million",
+        "socratic_hints": [
+            "The total amounts for the years 2016, 2017, and 2018 in the future minimum commitments under operating leases are $398 million."
+        ]
+    },
+    {
+        "question": "in 2015 what was the ratio of the nol carry forward for the federal to the foreign taxes",
+        "gt": "19.3%",
+        "socratic_answer": "19.29%",
+        "cot_zeroshot_answer": "0.192857].",
+        "cot_fewshot_answer": "0.193",
+        "direct_answer": "0.192857]",
+        "socratic_hints": [
+            "unknown"
+        ]
+    }
+]

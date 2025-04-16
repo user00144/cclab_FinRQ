@@ -1,0 +1,47 @@
+[
+    {
+        "question": "what percentage of lease payments will be paid out in the first year?",
+        "gt": "19.4%",
+        "socratic_answer": "19.3%].",
+        "cot_zeroshot_answer": "19.35%",
+        "cot_fewshot_answer": "19.37%",
+        "direct_answer": "19.37%",
+        "socratic_hints": []
+    },
+    {
+        "question": "as of december 312007 what was the percent of the schedule of the company 2019s future minimum payments to the total future minimum sponsorship and other marketing payments in 2008",
+        "gt": "27.4%",
+        "socratic_answer": "27.3%].",
+        "cot_zeroshot_answer": "27.45%",
+        "cot_fewshot_answer": "27.4%",
+        "direct_answer": "27.4%",
+        "socratic_hints": []
+    },
+    {
+        "question": "what are the pre-tax earnings in 2016 , in billions?",
+        "gt": "1.1",
+        "socratic_answer": "Not available based on provided data].",
+        "cot_zeroshot_answer": "1.136 billion",
+        "cot_fewshot_answer": "1.136 (billion)",
+        "direct_answer": "1.14",
+        "socratic_hints": []
+    },
+    {
+        "question": "as a result of the sales of certain non-core towers and other assets what was the percent of the change in the recorded net losses from 2007 to 2008",
+        "gt": "47.9%",
+        "socratic_answer": "37.18%].",
+        "cot_zeroshot_answer": "47.89%",
+        "cot_fewshot_answer": "47.89%",
+        "direct_answer": "47.89%",
+        "socratic_hints": []
+    },
+    {
+        "question": "what was the change in millions of buildings from 2015 to 2016?",
+        "gt": "-17",
+        "socratic_answer": "17].",
+        "cot_zeroshot_answer": "-17 million",
+        "cot_fewshot_answer": "-17 million",
+        "direct_answer": "-17 million",
+        "socratic_hints": []
+    }
+]

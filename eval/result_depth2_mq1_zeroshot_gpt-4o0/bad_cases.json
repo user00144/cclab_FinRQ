@@ -1,0 +1,167 @@
+[
+    {
+        "question": "what is the percentage change in revenue generated from non-us currencies from 2015 to 2016?",
+        "gt": "42.9%",
+        "socratic_answer": "42.84%",
+        "cot_zeroshot_answer": "42.87%",
+        "cot_fewshot_answer": "42.89%",
+        "direct_answer": "42.89%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what are the nuclear realized price changes as a percentage of the decrease in net revenue from 2011 to 2012?",
+        "gt": "102%",
+        "socratic_answer": "-101.57%",
+        "cot_zeroshot_answer": "101.57%",
+        "cot_fewshot_answer": "101.57%",
+        "direct_answer": "101.57%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what percent of future notes are due by 2017?",
+        "gt": "29.63%",
+        "socratic_answer": "41.18%",
+        "cot_zeroshot_answer": "29.63%",
+        "cot_fewshot_answer": "29.63%",
+        "direct_answer": "29.63%",
+        "socratic_hints": [
+            "The total amount of notes due by 2017 is $700 million, which is less than the total amount of the 2019 notes, which is $1.0 billion."
+        ]
+    },
+    {
+        "question": "what is the percentage change in impairment charges and net losses from 2003 to 2004?",
+        "gt": "-7.3%",
+        "socratic_answer": "16.75%",
+        "cot_zeroshot_answer": "-7.33%",
+        "cot_fewshot_answer": "-7.33%",
+        "direct_answer": "-7.33%",
+        "socratic_hints": [
+            "The total impairment charges and net losses recorded in 2003 and 2004 were $36.8 million."
+        ]
+    },
+    {
+        "question": "what was the change in millions in backlog at year-end between 2013 and 2014?",
+        "gt": "-1600",
+        "socratic_answer": "1600 millions",
+        "cot_zeroshot_answer": "-1600 million",
+        "cot_fewshot_answer": "-1,600 (million)",
+        "direct_answer": "$1,600 million decrease",
+        "socratic_hints": [
+            "The backlog at year-end for 2013 was $20,500 million, and for 2014 it was $18,900 million, indicating a decrease of $1,600 million from 2013 to 2014."
+        ]
+    },
+    {
+        "question": "what is the net change in the balance of employee separations liability during 2004?",
+        "gt": "-1574",
+        "socratic_answer": "665",
+        "cot_zeroshot_answer": "-$1,574",
+        "cot_fewshot_answer": "-1,574",
+        "direct_answer": "-$1,574",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "in millions for 2012 2011 what was the maximum net derivative liabilities under bilateral agreements?",
+        "gt": "35066",
+        "socratic_answer": "2012",
+        "cot_zeroshot_answer": "35,066 million",
+        "cot_fewshot_answer": "35,066 million",
+        "direct_answer": "$35,066 million",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what percent of the total amount outstanding is due to notes payable due at mutually agreed-upon dates within one year of issuance or on demand?",
+        "gt": "81%",
+        "socratic_answer": "59.52%",
+        "cot_zeroshot_answer": "81.37%",
+        "cot_fewshot_answer": "81.38%",
+        "direct_answer": "81.37%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what is the ratio of the office space throughout the us to the office space for the corporate headquarters in bellevue",
+        "gt": "1.9",
+        "socratic_answer": "17:9",
+        "cot_zeroshot_answer": "1.89:1",
+        "cot_fewshot_answer": "1.89",
+        "direct_answer": "1.89",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what was the change in millions of vehicles from 2015 to 2016?",
+        "gt": "-6",
+        "socratic_answer": "6 millions",
+        "cot_zeroshot_answer": "-6 million",
+        "cot_fewshot_answer": "-6 (million)",
+        "direct_answer": "-6",
+        "socratic_hints": [
+            "The values of vehicles are $74 million in 2015 and $68 million in 2016, and the difference between these two values is $6 million."
+        ]
+    },
+    {
+        "question": "the stock repurchase program reduced shares outstanding by how many million shares in the period?",
+        "gt": "78",
+        "socratic_answer": "0.078 million shares",
+        "cot_zeroshot_answer": "78 million shares",
+        "cot_fewshot_answer": "78 million shares",
+        "direct_answer": "78 million shares",
+        "socratic_hints": [
+            "The total reduction in shares outstanding due to the stock repurchase program over the entire period is 78 shares."
+        ]
+    },
+    {
+        "question": "what is the percentage change in impairment charges and net losses from 2004 to 2005?",
+        "gt": "-5.1%",
+        "socratic_answer": "-14.35%",
+        "cot_zeroshot_answer": "-5.08%",
+        "cot_fewshot_answer": "-5.08%",
+        "direct_answer": "-5.08%",
+        "socratic_hints": [
+            "Total impairment charges and net losses recorded by the company were $44.6 million in 2004 and $38.2 million in 2005."
+        ]
+    },
+    {
+        "question": "in 2010 what was the ratio of the non-us pension plans , discretionary contributions to the postretirement benefit plans",
+        "gt": "2.22",
+        "socratic_answer": "20:9",
+        "cot_zeroshot_answer": "2.22",
+        "cot_fewshot_answer": "2.22",
+        "direct_answer": "2.22",
+        "socratic_hints": [
+            "The discretionary contributions for the non-U.S. pension plans in 2010 are approximately $160 million, and the anticipated cash contributions for the non-U.S. postretirement benefit plans are $72 million."
+        ]
+    },
+    {
+        "question": "jkhy's total 5 year return was what percent of the peer group?",
+        "gt": "119%",
+        "socratic_answer": "130.10%",
+        "cot_zeroshot_answer": "118.98%",
+        "cot_fewshot_answer": "119.00%",
+        "direct_answer": "119.02%",
+        "socratic_hints": [
+            "Percentage of JKHY's total 5-year return relative to the peer group's total 5-year return is calculated as (JKHY's total return / Peer group's total return) * 100."
+        ]
+    },
+    {
+        "question": "in 2008 , how much percent did the board of directors increase the share repurchase program .",
+        "gt": "32.3%",
+        "socratic_answer": "No",
+        "cot_zeroshot_answer": "32.26%",
+        "cot_fewshot_answer": "32.26%",
+        "direct_answer": "The board of directors increased the share repurchase program by 32.26% in 2008.",
+        "socratic_hints": [
+            "No, there is no information available about changes to the share repurchase program in 2008, specifically regarding the percentage increase approved by the board of directors."
+        ]
+    }
+]

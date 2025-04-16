@@ -1,0 +1,211 @@
+[
+    {
+        "question": "what is the debt-to-asset ratio?",
+        "gt": "22.4%",
+        "socratic_answer": "22.43%",
+        "cot_zeroshot_answer": "0.2243",
+        "cot_fewshot_answer": "0.2243",
+        "direct_answer": "0.2243",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "for the quarter ended march 312015 what was the percentage change in the share price from the highest to the lowest",
+        "gt": "9.3%",
+        "socratic_answer": "9.30%",
+        "cot_zeroshot_answer": "8.51%",
+        "cot_fewshot_answer": "8.51%",
+        "direct_answer": "8.51%",
+        "socratic_hints": [
+            "The percentage change between the high and low share prices for the quarter ended March 31, 2015, is 9.30%."
+        ]
+    },
+    {
+        "question": "what was total acres expiring in millions for other africa?",
+        "gt": "2983",
+        "socratic_answer": "0.002983 million",
+        "cot_zeroshot_answer": "2.983 million",
+        "cot_fewshot_answer": "2.983 million",
+        "direct_answer": "2.983 million acres",
+        "socratic_hints": [
+            "The sum of net undeveloped acres expiring for \"other Africa\" over the years 2014, 2015, and 2016 is 2983 acres, which is 0.002983 million acres."
+        ]
+    },
+    {
+        "question": "what is the net increase in outstanding shares during the period of 2016 to 2018 , in millions?",
+        "gt": "6",
+        "socratic_answer": "6 millions",
+        "cot_zeroshot_answer": "3 million",
+        "cot_fewshot_answer": "3 million",
+        "direct_answer": "3",
+        "socratic_hints": [
+            "The numbers of shares outstanding were 1214 at the beginning of 2016 and 1220 at the end of 2018."
+        ]
+    },
+    {
+        "question": "what portion of future lease payments are due after 5 years?",
+        "gt": "61%",
+        "socratic_answer": "61.06%",
+        "cot_zeroshot_answer": "$4,214,600",
+        "cot_fewshot_answer": "$4,214,600",
+        "direct_answer": "$4,214,600",
+        "socratic_hints": [
+            "The total amount of lease payments categorized as \"thereafter\" in the provided table is $4,214,600."
+        ]
+    },
+    {
+        "question": "what portion of the of unrecognized tax benefits would have an impact in the effective tax rate if recognized?",
+        "gt": "81.4%",
+        "socratic_answer": "81.43%",
+        "cot_zeroshot_answer": "$57 million",
+        "cot_fewshot_answer": "$57 million",
+        "direct_answer": "$57 million",
+        "socratic_hints": [
+            "The specific amount of unrecognized tax benefits that would impact the effective tax rate if recognized is $57 million."
+        ]
+    },
+    {
+        "question": "what portion of the future minimum lease payments are due in the next 12 months?",
+        "gt": "19.4%",
+        "socratic_answer": "19.36%",
+        "cot_zeroshot_answer": "$11,057",
+        "cot_fewshot_answer": "11,057",
+        "direct_answer": "$11,057",
+        "socratic_hints": [
+            "The amount of future minimum lease payments due for the fiscal year ending May 31, 2014, is $11,057."
+        ]
+    },
+    {
+        "question": "what will be the balance of aggregate carrying value of long-term debt as of december 31 , 2009?",
+        "gt": "4331309",
+        "socratic_answer": "4331309",
+        "cot_zeroshot_answer": "$4,332,089,000",
+        "cot_fewshot_answer": "$4,331,309,000",
+        "direct_answer": "$1,837,000",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what is the nuclear volume as a percentage of the decrease in net revenue from 2011 to 2012?",
+        "gt": "17.3%",
+        "socratic_answer": "17.28%",
+        "cot_zeroshot_answer": "-17.28%",
+        "cot_fewshot_answer": "-17.28%",
+        "direct_answer": "-17.28%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what is the higher pricing as a percentage of the operating companies income increase?",
+        "gt": "92.8%",
+        "socratic_answer": "92.84%",
+        "cot_zeroshot_answer": "92.89%",
+        "cot_fewshot_answer": "92.96%",
+        "direct_answer": "92.9%",
+        "socratic_hints": [
+            "The total increase in operating companies income is $824 million, and $765 million of this increase is attributed to higher pricing."
+        ]
+    },
+    {
+        "question": "what are the deferred fuel cost revisions as a percentage of 2004 net revenue?",
+        "gt": "3.16%",
+        "socratic_answer": "3.16%",
+        "cot_zeroshot_answer": "-3.156%",
+        "cot_fewshot_answer": "-3.16%",
+        "direct_answer": "-3.16%",
+        "socratic_hints": [
+            "The deferred fuel cost revisions amounted to a $29.4 million decrease in net revenue, contributing to the total net revenue of $931.3 million for 2004."
+        ]
+    },
+    {
+        "question": "what was the difference in cumulative total stockholder return percentage for illumina inc . common stock versus the nasdaq pharmaceutical index for the four years end 2003?",
+        "gt": "-30.76%",
+        "socratic_answer": "-30.76%",
+        "cot_zeroshot_answer": "30.76%",
+        "cot_fewshot_answer": "30.76",
+        "direct_answer": "30.76",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what portion of the 1999 accrual balance related to restructurings is comprised of canceled contracts?",
+        "gt": "50%",
+        "socratic_answer": "50%",
+        "cot_zeroshot_answer": "$0.4 million",
+        "cot_fewshot_answer": "0.4 million",
+        "direct_answer": "$0.4 million",
+        "socratic_hints": [
+            "The specific amount attributed to canceled contracts in the accrual balance as of December 3, 1999, is $0.4 million."
+        ]
+    },
+    {
+        "question": "what was the ratio of the pre-tax gain on the securities transferred from held-to-maturity securities to available-for-sale securities \\\\n",
+        "gt": "0.15%",
+        "socratic_answer": "0.1489%",
+        "cot_zeroshot_answer": "0.0014893617",
+        "cot_fewshot_answer": "0.001489",
+        "direct_answer": "The pre-tax gain on the securities transferred was $7 million, and the carrying value of the securities was $4.7 billion, so the ratio is $7 million / $4.7 billion.",
+        "socratic_hints": [
+            "The carrying value of the securities transferred is $4.7 billion, and the pre-tax gain associated with this transfer is $7 million."
+        ]
+    },
+    {
+        "question": "what was the difference in percentage five-year cumulative return for intel versus the s&p 500 index for the five years ended 2013?",
+        "gt": "-22%",
+        "socratic_answer": "-22%",
+        "cot_zeroshot_answer": "22%",
+        "cot_fewshot_answer": "22%",
+        "direct_answer": "Intel's five-year cumulative return was 114% and the S&P 500's was 136%, so the difference is 22 percentage points.",
+        "socratic_hints": [
+            "The formula to calculate the percentage increase in value over a period of time is Percentage Increase = [(Final Value - Initial Value) / Initial Value] * 100."
+        ]
+    },
+    {
+        "question": "what is the difference between total sales and total payments received during 2013?",
+        "gt": "29.6",
+        "socratic_answer": "29.6 millions",
+        "cot_zeroshot_answer": "$33.7 million",
+        "cot_fewshot_answer": "14.9 million",
+        "direct_answer": "$14.9 million",
+        "socratic_hints": [
+            "The increase in trade and other accounts receivable from 2012 to 2013 indicates that a smaller proportion of sales were converted into cash receipts, negatively impacting cash flow from operating activities."
+        ]
+    },
+    {
+        "question": "what was the net tax positions for 2012",
+        "gt": "22415",
+        "socratic_answer": "$22,415",
+        "cot_zeroshot_answer": "$180,993",
+        "cot_fewshot_answer": "180,993",
+        "direct_answer": "$180,993",
+        "socratic_hints": [
+            "The increases and decreases in tax positions throughout 2012 resulted in an increase of $22,415 in the company's tax liability."
+        ]
+    },
+    {
+        "question": "what is the percentage net effect of the cumulative effect adjustments , net of income tax effects , to beginning retained earnings for new accounting standards adopted by cadence on the retained earnings balance as adjusted for december 30 , 2017?",
+        "gt": "25%",
+        "socratic_answer": "25.21%",
+        "cot_zeroshot_answer": "20.13%",
+        "cot_fewshot_answer": "20.13%",
+        "direct_answer": "20.13%",
+        "socratic_hints": [
+            "The formula to calculate the percentage change in retained earnings due to the cumulative effect adjustments is Percentage Change in Retained Earnings = [(Adjusted Retained Earnings - Initial Retained Earnings) / Initial Retained Earnings] * 100."
+        ]
+    },
+    {
+        "question": "what portion of the total long-term borrowings is due in the next 36 months?",
+        "gt": "43.9%",
+        "socratic_answer": "43.86%",
+        "cot_zeroshot_answer": "$2,500 million",
+        "cot_fewshot_answer": "2,500 million",
+        "direct_answer": "$2,500 million",
+        "socratic_hints": [
+            "Floating rate notes due 2013, 3.50% notes due 2014, and 1.375% notes due 2015 from the long-term borrowings table have maturity dates within the next 36 months from the current date."
+        ]
+    }
+]

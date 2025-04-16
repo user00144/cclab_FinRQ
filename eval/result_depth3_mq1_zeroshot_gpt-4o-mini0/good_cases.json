@@ -1,0 +1,669 @@
+[
+    {
+        "question": "what portion of the total noncancelable future lease commitments are due in fiscal year of 2019?",
+        "gt": "24.6%",
+        "socratic_answer": "24.6%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "24.5%",
+        "direct_answer": "$ 137.4 million",
+        "socratic_hints": [
+            "The amount of noncancelable future lease commitments specifically due in fiscal year 2019 is $137.4 million."
+        ]
+    },
+    {
+        "question": "what was the percentage change in the weighted average fair value on the date of the award of the common stock",
+        "gt": "10.6%",
+        "socratic_answer": "10.57%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "10.50%",
+        "direct_answer": "37.2%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "in 2012 what was the percent of the total amortized assets that was made of total securities available for sale",
+        "gt": "83%",
+        "socratic_answer": "83.05%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "80.5%",
+        "direct_answer": "81.9%",
+        "socratic_hints": [
+            "The formula to calculate the percentage of total securities available for sale relative to the total carrying amount of investment securities is Percentage of Securities Available for Sale = (Total Securities Available for Sale / Total Carrying Amount of Investment Securities) x 100."
+        ]
+    },
+    {
+        "question": "what was the ratio of the purchase in december 2012 to the purchase in january 2013",
+        "gt": "6.5",
+        "socratic_answer": "6.48",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "6.39",
+        "direct_answer": "8.53",
+        "socratic_hints": [
+            "The total number of shares purchased in December 2012 and January 2013 was 118,190."
+        ]
+    },
+    {
+        "question": "what was the operating expenses in 2006 in millions",
+        "gt": "2689",
+        "socratic_answer": "2688.89",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "Not enough information to determine the exact operating expenses in 2006.]",
+        "direct_answer": "2426",
+        "socratic_hints": [
+            "The total operating expenses in 2007 were approximately $2930.89 million, which represents a 9% increase from the operating expenses of approximately $2688.89 million in 2006."
+        ]
+    },
+    {
+        "question": "what portion of cash and cash equivalents on hand are held in u.s . as of december 31 , 2016?",
+        "gt": "43.7%",
+        "socratic_answer": "43.7%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "143 million",
+        "direct_answer": "$143 million",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "if 2014 underlying operating profit increases at the same pace as 2013 , what would it be , in millions?",
+        "gt": "2186",
+        "socratic_answer": "2186 million",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "2182",
+        "direct_answer": "2150",
+        "socratic_hints": [
+            "The percentage increase in underlying operating profit from 2012 to 2013 was 4.17%."
+        ]
+    },
+    {
+        "question": "what was the average total revenue in 1999 , 2000 and 2001?",
+        "gt": "231341.7",
+        "socratic_answer": "231341.67",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "231.34 (thousand)",
+        "direct_answer": "$ 220675",
+        "socratic_hints": [
+            "The total revenue amounts are $206,017 for 1999, $230,323 for 2000, and $257,685 for 2001."
+        ]
+    },
+    {
+        "question": "how is the cash flow of entergy gulf states louisiana affected by the balance from money pool from 2007 to 2008 , in thousands?",
+        "gt": "43920",
+        "socratic_answer": "43920 thousands",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "-43.92 (million)",
+        "direct_answer": "-$43920",
+        "socratic_hints": [
+            "The difference in the money pool balance between 2007 and 2008 is $43,920 (in thousands), which influences Entergy Gulf States Louisiana's cash flow."
+        ]
+    },
+    {
+        "question": "what were average operating profit for mfc in millions between 2014 and 2016?",
+        "gt": "1215",
+        "socratic_answer": "1214.67",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "1.215 (million)",
+        "direct_answer": "1168.67",
+        "socratic_hints": [
+            "The operating profit figures for MFC were $1,344 million in 2014, $1,282 million in 2015, and $1,018 million in 2016."
+        ]
+    },
+    {
+        "question": "assuming the same appreciation as 2007 , what would be the expected 2008 weighted average grant-date fair value for options?",
+        "gt": "11.08",
+        "socratic_answer": "11.08",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "10.59",
+        "direct_answer": "$8.75",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what was the percent of the total gains that was from the sales of land",
+        "gt": "10.1%",
+        "socratic_answer": "10.10%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "11.1%",
+        "direct_answer": "11.1%",
+        "socratic_hints": [
+            "The formula to calculate the percentage of gain on land sales in relation to the total gains from both depreciable properties and land sales is Percentage of Gain on Land Sales = (Gain on Land Sales / (Gain on Sales of Depreciable Properties + Gain on Land Sales)) * 100."
+        ]
+    },
+    {
+        "question": "what is the growth rate in the balance of mutual funds in 2010?",
+        "gt": "10.3%",
+        "socratic_answer": "10.26%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "10.24%",
+        "direct_answer": "10.25%",
+        "socratic_hints": [
+            "The percentage increase in the balance of mutual funds from 2009 to 2010 was 10.24%."
+        ]
+    },
+    {
+        "question": "what portion of the total number of securities approved by security holders is issued?",
+        "gt": "32.0%",
+        "socratic_answer": "31.99%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "1 (or 100%)",
+        "direct_answer": "1708928",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what was the average segment net sales from 2005 to 2007 in millions",
+        "gt": "6055.7",
+        "socratic_answer": "6055.67",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "6.056 (million)",
+        "direct_answer": "6722.33",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what portion of the total full-time employees of mainline operations are flight attendants?",
+        "gt": "24.3%",
+        "socratic_answer": "24.3%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "0.243 (or 24.33%)",
+        "direct_answer": "24.36%",
+        "socratic_hints": [
+            "The ratio of flight attendants to the total number of employees in mainline operations is 0.243."
+        ]
+    },
+    {
+        "question": "what percent of total contractual obligations was long-term debt?",
+        "gt": "41%",
+        "socratic_answer": "41.4%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "41.5%",
+        "direct_answer": "41.5%",
+        "socratic_hints": [
+            "The formula to calculate the percentage of long-term debt in relation to total contractual obligations is Percentage of Long-term Debt = (Long-term Debt / Total Contractual Obligations) x 100."
+        ]
+    },
+    {
+        "question": "in 2006 what percentage of capital spending from continuing operations was due to consumer packaging?",
+        "gt": "11%",
+        "socratic_answer": "11.48%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "11.5%",
+        "direct_answer": "11.5%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what was the percent of the increase in the backlog from 2012 to 2013",
+        "gt": "13.3%",
+        "socratic_answer": "13.29%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "13.25%",
+        "direct_answer": "7.2%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what portion of the of unrecognized tax benefits would have an impact in the effective tax rate if recognized?",
+        "gt": "81.4%",
+        "socratic_answer": "81.43%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "57 million",
+        "direct_answer": "$57 million",
+        "socratic_hints": [
+            "The amount of unrecognized tax benefits that would impact the effective tax rate if recognized is $57 million."
+        ]
+    },
+    {
+        "question": "excluding derivatives , what are net 2009 trading assets , in millions?",
+        "gt": "257839",
+        "socratic_answer": "257839 millions",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "257.839 (million)",
+        "direct_answer": "318063",
+        "socratic_hints": [
+            "The total value of trading assets minus the total value of trading liabilities, excluding derivative receivables and payables, for the year 2009 is $257,839 million."
+        ]
+    },
+    {
+        "question": "what was the total number of shares vested during the three year period?",
+        "gt": "639993",
+        "socratic_answer": "639993",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "640,993 shares",
+        "direct_answer": "250993",
+        "socratic_hints": [
+            "The total shares vested for each year from 2009 to 2011 were 420050 shares in 2009, 153644 shares in 2010, and 66299 shares in 2011."
+        ]
+    },
+    {
+        "question": "in 2004 what was the percent of the change in the employee liability for employee separations",
+        "gt": "-70.3%",
+        "socratic_answer": "-70.3%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "-70.4%",
+        "direct_answer": "-70.4%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "hard assets are what percent of net assets acquired for the can and alcan acquisitions?",
+        "gt": "29.8%",
+        "socratic_answer": "29.8%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "29.85%",
+        "direct_answer": "29.88%",
+        "socratic_hints": [
+            "The total value of hard assets (property, plant, and equipment) for both acquisitions is $239.5 million, which is less than the total net assets acquired of $802.6 million."
+        ]
+    },
+    {
+        "question": "based on the final purchase price allocation what was the sum of the liabilities",
+        "gt": "44055",
+        "socratic_answer": "44055",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "44.055 (million)",
+        "direct_answer": "$43,055,000",
+        "socratic_hints": [
+            "The total amount of current liabilities and other non-current liabilities in the final purchase price allocation is $44,055."
+        ]
+    },
+    {
+        "question": "what is the estimated fair value of hologic common stock?",
+        "gt": "27.8",
+        "socratic_answer": "27.81",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "3.6715 (million)",
+        "direct_answer": "$3,671,500",
+        "socratic_hints": [
+            "The weighted average stock price used to value the Hologic common stock during the merger was $27.81."
+        ]
+    },
+    {
+        "question": "what is the minimum yearly depreciation rate that can be used for land improvements?",
+        "gt": "2.5%",
+        "socratic_answer": "2.5%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "33.33%",
+        "direct_answer": "33.33%",
+        "socratic_hints": [
+            "The estimated useful life of land improvements is 40 years according to the provided information."
+        ]
+    },
+    {
+        "question": "what percentage of total contractual obligations is made up long-term debt?",
+        "gt": "41%",
+        "socratic_answer": "41.45%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "41.5%",
+        "direct_answer": "41.5%",
+        "socratic_hints": [
+            "The formula to calculate the percentage of long-term debt in relation to total contractual obligations is Percentage of Long-term Debt = (Long-term Debt / Total Contractual Obligations) x 100."
+        ]
+    },
+    {
+        "question": "what was the percentage decline in the operating loss from 2007 to 2008",
+        "gt": "-83.3%",
+        "socratic_answer": "-83.33%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "83.33%",
+        "direct_answer": "83%",
+        "socratic_hints": [
+            "The operating losses for the company were $1.2 billion in 2007 and $2.2 billion in 2008."
+        ]
+    },
+    {
+        "question": "what is the growth rate in total sales in 2013?",
+        "gt": "-6.8%",
+        "socratic_answer": "-6.84%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "-6.86%",
+        "direct_answer": "The growth rate in total sales in 2013 is -6.4%",
+        "socratic_hints": [
+            "The percentage change in total sales from 2012 to 2013 was -6.84%."
+        ]
+    },
+    {
+        "question": "what portion of the total restricted units will vest in 2011?",
+        "gt": "33.3%",
+        "socratic_answer": "33.33%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "0.333 (or 33.33%)",
+        "direct_answer": "8000",
+        "socratic_hints": [
+            "8000 restricted stock units are scheduled to vest on January 25, 2011."
+        ]
+    },
+    {
+        "question": "in millions for 2013 and 2012 , what was maximum net derivative liabilities under bilateral agreements?",
+        "gt": "27885",
+        "socratic_answer": "27885 millions",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "22,176 (2013), 27,885 (2012)",
+        "direct_answer": "$ 22176",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what amount is expected to be paid for support incentives in the next three years?",
+        "gt": "3138",
+        "socratic_answer": "3138 millions",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "2,848 million",
+        "direct_answer": "$2,988 million",
+        "socratic_hints": [
+            "The projected volume and support incentive amounts are $1,088 million for 2009, $1,105 million for 2010, and $945 million for 2011."
+        ]
+    },
+    {
+        "question": "what portion of the redemption amount of 6.25% ( 6.25 % ) notes was in accrued interest?",
+        "gt": "2.2%",
+        "socratic_answer": "2.16%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "4.8 million",
+        "direct_answer": "$4.8 million",
+        "socratic_hints": [
+            "The total accrued interest amount included in the redemption of the 6.25% notes was $4.8 million."
+        ]
+    },
+    {
+        "question": "by what percentage did total amount of the liability for asset retirement obligations increase from 2003 to 2005?",
+        "gt": "62.3%",
+        "socratic_answer": "62.33%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "62.23%",
+        "direct_answer": "62.23%",
+        "socratic_hints": []
+    },
+    {
+        "question": "for the quarter ended december 312010 what was percent of the total number of shares attested to upc by employees to pay stock option exercise prices",
+        "gt": "18.4%",
+        "socratic_answer": "18.36%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "49.7%",
+        "direct_answer": "1.84%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what is the decrease observed in the operating leases with payments due to 3-5 years and payments due to more than 5 years?",
+        "gt": "9437",
+        "socratic_answer": "9437",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "9.437 (million)",
+        "direct_answer": "$ 6040 - $ 15477 = -$ 9437",
+        "socratic_hints": [
+            "The difference in total payments due between the operating leases for the 3-5 year period and the more than 5 year period is $9,437."
+        ]
+    },
+    {
+        "question": "what was the difference in millions of deferral of revenue and recognition of deferred revenue for the fiscal year ended june 30 , 2019?",
+        "gt": "-76",
+        "socratic_answer": "-76 million",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "-8 million",
+        "direct_answer": "6 million",
+        "socratic_hints": [
+            "The difference between the total deferral of revenue and the total recognition of deferred revenue for the fiscal year ended June 30, 2019, is -$76 million."
+        ]
+    },
+    {
+        "question": "what portion of total long-term obligations are due in 2018?",
+        "gt": "23.15%",
+        "socratic_answer": "23.15%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "23.1%",
+        "direct_answer": "3112.0 million",
+        "socratic_hints": [
+            "The amount of total long-term obligations that is specifically due in the fiscal year 2018 is 3112.0 million."
+        ]
+    },
+    {
+        "question": "what was the change in millions in total supplementary leverage exposure between 2016 and 2017?",
+        "gt": "70843",
+        "socratic_answer": "70843 millions",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "70.843 (million)",
+        "direct_answer": "108843",
+        "socratic_hints": [
+            "The difference between the total supplementary leverage exposure of $1,341,016 million in 2017 and $1,270,173 million in 2016 is $70,843 million."
+        ]
+    },
+    {
+        "question": "what is the growth rate in operating expenses in 2013?",
+        "gt": "-2.1%",
+        "socratic_answer": "-2.14%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "-0.398%",
+        "direct_answer": "2%",
+        "socratic_hints": [
+            "The percentage change in operating expenses from 2012 to 2013 was -2.14%."
+        ]
+    },
+    {
+        "question": "what are the total contractual maturities of long-term debt obligations due subsequent to december 31 , 2016?",
+        "gt": "3081",
+        "socratic_answer": "3081 millions",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "3.256 (billion)",
+        "direct_answer": "$ 175 in 2017, $ 150 in 2018, $ 175 in 2019, and $ 2756 in 2020",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what was the percentage decline in recorded international slot and route authorities to $ 708 million from $ 736 million as of december 31 , 2010 and 2009 , respectively .",
+        "gt": "-3.8%",
+        "socratic_answer": "-3.80%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "3.80%",
+        "direct_answer": "3.8%",
+        "socratic_hints": [
+            "The formula to calculate the percentage decline between the recorded values of $736 million and $708 million is Percentage Change = (New Value - Original Value) / Original Value * 100."
+        ]
+    },
+    {
+        "question": "what is the net income-to-capital ratio for bermuda subsidiaries in 2008?",
+        "gt": "9.8%",
+        "socratic_answer": "9.77%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "**:\n   The net income-to-capital ratio for Bermuda subsidiaries in 2008 is approximately 0.0977, which can be expressed as a percentage by multiplying by 100, resulting in approximately 9.77%.\n\nThus, the final answer is [",
+        "direct_answer": "0.0976",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what is the percent of both the main line and branch line routes that are owned by the company",
+        "gt": "81.8%",
+        "socratic_answer": "81.8%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": ":**\n   - The percentage of owned main line routes is approximately 96.87%, and the percentage of owned branch line routes is 100%.\n\nThus, the final answer is [",
+        "direct_answer": "96.9% for main line",
+        "socratic_hints": [
+            "The total main line and branch line route miles owned by the company are equal to the total route miles for each category, which are 27,318 miles for main line and 5,021 miles for branch line."
+        ]
+    },
+    {
+        "question": "what was the average basic net income available for common shareholders from 2005 to 2007",
+        "gt": "223990",
+        "socratic_answer": "223990",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "223.99 (thousand)",
+        "direct_answer": "$ 190323.33",
+        "socratic_hints": [
+            "The total basic net income available for common shareholders for the years 2005, 2006, and 2007 is 671970."
+        ]
+    },
+    {
+        "question": "what is the net change in the balance of unrecognized tax benefits during 2015?",
+        "gt": "-3833",
+        "socratic_answer": "-3833 thousands",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "-3.833 (million)",
+        "direct_answer": "$-38,833",
+        "socratic_hints": [
+            "The total additions and reductions to the unrecognized tax benefits during 2015 were -$1,819 (in thousands)."
+        ]
+    },
+    {
+        "question": "what is the total value , in millions of dollars , of issuable long-term securities?",
+        "gt": "1450",
+        "socratic_answer": "1450 million",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "750",
+        "direct_answer": "750",
+        "socratic_hints": [
+            "The total amount authorized for issuance of long-term securities by Entergy Gulf States Louisiana, as stated in the financial discussion, is 1,450 million."
+        ]
+    },
+    {
+        "question": "what was the ratio of the pre-tax gain on the securities transferred from held-to-maturity securities to available-for-sale securities \\\\n",
+        "gt": "0.15%",
+        "socratic_answer": "0.1489%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "0.00149",
+        "direct_answer": "0.001489",
+        "socratic_hints": [
+            "The pre-tax gain amount compared to the carrying value of the securities transferred is 0.1489%."
+        ]
+    },
+    {
+        "question": "what is the total equity in 2009 , in millions of dollars?",
+        "gt": "290395",
+        "socratic_answer": "290395 millions",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "290.395 (million)",
+        "direct_answer": "Not provided in the context",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what portion of the total entergy staff is employed at entergy operations?",
+        "gt": "19.6%",
+        "socratic_answer": "19.6%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "0.196 or 19.6%",
+        "direct_answer": "19.66%",
+        "socratic_hints": [
+            "The formula to calculate the percentage of employees at Entergy Operations relative to the total number of employees at Entergy is Percentage = (2902 / 14773) * 100."
+        ]
+    },
+    {
+        "question": "what were average net sales for mfc in millions between 2014 and 2016?",
+        "gt": "6823",
+        "socratic_answer": "6823.33",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "6.823 (million)",
+        "direct_answer": "$ 6856.67",
+        "socratic_hints": [
+            "The total net sales for MFC in 2014, 2015, and 2016 were $20,470 million."
+        ]
+    },
+    {
+        "question": "what is the growth rate in the net income of bermuda subsidiaries from 2007 to 2008?",
+        "gt": "-55.4%",
+        "socratic_answer": "-55.4%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "-55.5%",
+        "direct_answer": "-55.5%",
+        "socratic_hints": [
+            "The net income figures for Bermuda subsidiaries were $1,535 million in 2007 and $684 million in 2008."
+        ]
+    },
+    {
+        "question": "what was the difference in billions in hqla from dec . 31 , 2014 to dec . 31 , 2015?",
+        "gt": "-34.1",
+        "socratic_answer": "-34.1 billion",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "34.1 billion",
+        "direct_answer": "$34.1 billion",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "hard assets were what percent of the brazilian purchase price , as finally determined?",
+        "gt": "14.3%",
+        "socratic_answer": "14.27%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "26.4%",
+        "direct_answer": "83.5%",
+        "socratic_hints": [
+            "The total value of hard assets (property and equipment) acquired in the Brazilian purchase is $83,539,000, which is significantly less than the final purchase price of $585.3 million."
+        ]
+    },
+    {
+        "question": "what portion of the issued securities is approved by security holders?",
+        "gt": "88.0%",
+        "socratic_answer": "88.0%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "0.880 (or 88.0%)",
+        "direct_answer": "2590898",
+        "socratic_hints": [
+            "The total number of securities issued under equity compensation plans approved by security holders is 2,590,898."
+        ]
+    },
+    {
+        "question": "what is the net effect of the adoption of new accounting standards?",
+        "gt": "85929",
+        "socratic_answer": "85929",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "85.929 million",
+        "direct_answer": "The net effect of the adoption of new accounting standards is an increase in retained earnings by $85,929,000, which includes adjustments from revenue from contracts with customers, financial instruments, and a decrease from income taxes related to intra-entity transfers.]",
+        "socratic_hints": [
+            "The total cumulative effect adjustment to retained earnings from the adoption of new accounting standards is $85,929."
+        ]
+    },
+    {
+        "question": "excluding derivatives , what are net 2008 trading assets , in millions?",
+        "gt": "305261",
+        "socratic_answer": "305261 millions",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "305.261 (million)",
+        "direct_answer": "272,685",
+        "socratic_hints": [
+            "The formula to calculate net trading assets when excluding derivative receivables and payables results in net trading assets of $257,839 million."
+        ]
+    },
+    {
+        "question": "what is the difference of between the carrying amount and the fair value of long-term debt and other long-term liabilities in 2014?",
+        "gt": "27",
+        "socratic_answer": "27 millions",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "114 million",
+        "direct_answer": "$114 million",
+        "socratic_hints": []
+    },
+    {
+        "question": "in 2008 , how much percent did the board of directors increase the share repurchase program .",
+        "gt": "32.3%",
+        "socratic_answer": "32.26%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": "0% (no data available for 2008)",
+        "direct_answer": "The board of directors increased the share repurchase program by 32.5% in 2008.]",
+        "socratic_hints": [
+            "The initial authorization amount for the stock repurchase program before the increase in 2008 was $6.2 billion."
+        ]
+    },
+    {
+        "question": "in 2015 what was the ratio of the nol carry forward for the federal to the foreign taxes",
+        "gt": "19.3%",
+        "socratic_answer": "19.29%",
+        "cot_zeroshot_answer": "",
+        "cot_fewshot_answer": ":**\n   - To express the ratio in a more understandable form, we can round it to three decimal places.\n   - The ratio of the federal NOL carryforward to the foreign NOL carryforward is approximately 0.193.\n\nThus, the final answer is [",
+        "direct_answer": "0.192857]",
+        "socratic_hints": [
+            "unknown"
+        ]
+    }
+]

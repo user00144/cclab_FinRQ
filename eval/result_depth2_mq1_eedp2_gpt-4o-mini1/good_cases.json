@@ -1,0 +1,38 @@
+[
+    {
+        "question": "what is the percentage change in the the gross liability for unrecognized tax benefits during 2008 compare to 2007?",
+        "gt": "-30.9%",
+        "socratic_answer": "-30.85%].",
+        "cot_zeroshot_answer": "30.75%",
+        "cot_fewshot_answer": "-30.8%",
+        "direct_answer": "30.0%",
+        "socratic_hints": []
+    },
+    {
+        "question": "what was the ratio of the purchase in december 2012 to the purchase in january 2013",
+        "gt": "6.5",
+        "socratic_answer": "6.48].",
+        "cot_zeroshot_answer": "6.39",
+        "cot_fewshot_answer": "6.39",
+        "direct_answer": "8.53",
+        "socratic_hints": []
+    },
+    {
+        "question": "what was the sum of the annual long-term debt maturities outstanding as of december 31 , 2017 , for the next five years",
+        "gt": "4781374",
+        "socratic_answer": "4781374].",
+        "cot_zeroshot_answer": "4784374",
+        "cot_fewshot_answer": "4,781.374 (million)",
+        "direct_answer": "$4,563,374,000",
+        "socratic_hints": []
+    },
+    {
+        "question": "in 2013 what was the percent of the allowances for doubtful accounts",
+        "gt": "2.72%",
+        "socratic_answer": "2.72%].",
+        "cot_zeroshot_answer": "2.80%",
+        "cot_fewshot_answer": "2.80%",
+        "direct_answer": "2.73%",
+        "socratic_hints": []
+    }
+]

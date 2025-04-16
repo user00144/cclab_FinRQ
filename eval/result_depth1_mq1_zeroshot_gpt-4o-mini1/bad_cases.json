@@ -1,0 +1,209 @@
+[
+    {
+        "question": "by how much more is the net gains from sales of available-for-sale securities in 2009 compare to 2008?",
+        "gt": "300",
+        "socratic_answer": "**:\n   - The net gains from sales of available-for-sale securities in 2009 are $300 million more than in 2008.\n\nThus, the final answer is [",
+        "cot_zeroshot_answer": "300 million].",
+        "cot_fewshot_answer": "300 million",
+        "direct_answer": "$300 million",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what percent did minimum pension liability increase between 2004 and 2006?",
+        "gt": "615.4%",
+        "socratic_answer": "-615.38%",
+        "cot_zeroshot_answer": "615.38%",
+        "cot_fewshot_answer": "615.38%",
+        "direct_answer": "615.38%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what is the percent of the square foot in millions owned facilities in the us to the to owned facilities",
+        "gt": "64.1%",
+        "socratic_answer": "64.01%",
+        "cot_zeroshot_answer": "64.1%].",
+        "cot_fewshot_answer": "64.1%",
+        "direct_answer": "64.1%",
+        "socratic_hints": [
+            "The formula to calculate the percentage of owned facilities in the U.S. relative to total owned facilities is 64.1%."
+        ]
+    },
+    {
+        "question": "without the impact of settlements , what would the december 31 2008 amount of unrecognized tax benefits have been , in $ millions?",
+        "gt": "120",
+        "socratic_answer": "100 millions",
+        "cot_zeroshot_answer": "120 million].",
+        "cot_fewshot_answer": "120 million",
+        "direct_answer": "$120 million",
+        "socratic_hints": [
+            "The balance of unrecognized tax benefits at December 31, 2008 before accounting for settlements was $120 million."
+        ]
+    },
+    {
+        "question": "at december 31 2009 what was the ratio of the aggregate cost to the fair value of the loans held-for-sale that are carried at locom",
+        "gt": "1.56",
+        "socratic_answer": "156.25%",
+        "cot_zeroshot_answer": "1.5625].",
+        "cot_fewshot_answer": "1.5625",
+        "direct_answer": "1.56",
+        "socratic_hints": [
+            "The formula to calculate the ratio of aggregate cost to fair value is Ratio = Aggregate Cost / Fair Value."
+        ]
+    },
+    {
+        "question": "without employee severance costs in 2004 and 2005 , what would have been the increase in net income in millions?\\\\n\\\\n",
+        "gt": "18.7",
+        "socratic_answer": "**:\n   - The increase in net income without the employee severance costs in 2004 and 2005 would be $18.7 million.\n\nThus, the final answer is [",
+        "cot_zeroshot_answer": "18.7 million].",
+        "cot_fewshot_answer": "18.7 (million)",
+        "direct_answer": "18.7 million",
+        "socratic_hints": []
+    },
+    {
+        "question": "as of december 31 , 2008 , what percentage of authorized repurchase capacity remained under the current stock repurchase program ?:",
+        "gt": "62%",
+        "socratic_answer": "100%",
+        "cot_zeroshot_answer": "62%].",
+        "cot_fewshot_answer": "62%",
+        "direct_answer": "62%",
+        "socratic_hints": [
+            "The total authorized repurchase capacity for the stock repurchase program as of December 31, 2008 was $6.2 billion."
+        ]
+    },
+    {
+        "question": "for 2011 and 2012 , what were average commercial mortgage recourse obligations in millions?",
+        "gt": "45",
+        "socratic_answer": "3950 millions",
+        "cot_zeroshot_answer": "45 million].",
+        "cot_fewshot_answer": "45 million",
+        "direct_answer": "$ 45 million",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "in 2004 what was the ratio of the snap-on incorporated to the peer group perfomance",
+        "gt": "0.86",
+        "socratic_answer": "85.6%",
+        "cot_zeroshot_answer": "0.856].",
+        "cot_fewshot_answer": "0.856",
+        "direct_answer": "0.856",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what percent of the total amount outstanding is due to notes payable due at mutually agreed-upon dates within one year of issuance or on demand?",
+        "gt": "81%",
+        "socratic_answer": "59.5%",
+        "cot_zeroshot_answer": "81.3%].",
+        "cot_fewshot_answer": "81.3%",
+        "direct_answer": "81.3%",
+        "socratic_hints": [
+            "The total outstanding amount as of May 31, 2009, including all liabilities, is $576.2 million."
+        ]
+    },
+    {
+        "question": "what percentage of total expected cash outflow to satisfy contractual obligations and commitments as of december 31 , 2010 are due in 2013?",
+        "gt": "15%",
+        "socratic_answer": "11.11%",
+        "cot_zeroshot_answer": "14.93%].",
+        "cot_fewshot_answer": "14.93%",
+        "direct_answer": "14.93%",
+        "socratic_hints": [
+            "The total expected cash outflow for 2013 is $2,615 million, which is approximately 11.1% of the overall total expected cash outflow of $23,556 million."
+        ]
+    },
+    {
+        "question": "what percent of total contractual obligations is due 2012 or after?",
+        "gt": "76%",
+        "socratic_answer": "52.05%",
+        "cot_zeroshot_answer": "76.0%].",
+        "cot_fewshot_answer": "76.1%",
+        "direct_answer": "76.1%",
+        "socratic_hints": [
+            "The total amount of contractual obligations due in 2012 and thereafter is $532.8 million."
+        ]
+    },
+    {
+        "question": "what were the average tax penalties from 2014 to 2016 in millions",
+        "gt": "6.3",
+        "socratic_answer": "6.63 million",
+        "cot_zeroshot_answer": "6.3 million].",
+        "cot_fewshot_answer": "6.3 (million)",
+        "direct_answer": "6.3 million",
+        "socratic_hints": [
+            "The total amount of tax penalties recorded for the years 2014, 2015, and 2016 is $18.9 million."
+        ]
+    },
+    {
+        "question": "in 2010 what was the ratio of the cumulative return for intel , to the the dow jones u.s . technology index*",
+        "gt": "0.82",
+        "socratic_answer": "82.25%",
+        "cot_zeroshot_answer": "0.8225",
+        "cot_fewshot_answer": "0.823",
+        "direct_answer": "0.8225",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what was the percent change in operating leases between 2011/12 and 2013/4?",
+        "gt": "-44%",
+        "socratic_answer": "-44.96%",
+        "cot_zeroshot_answer": "-44.03%",
+        "cot_fewshot_answer": "-44.1%",
+        "direct_answer": "-44.1%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what was the anticipated percentage increase in the global cruise fleet berths from 2017 to 2021",
+        "gt": "34.4%",
+        "socratic_answer": "34.45%",
+        "cot_zeroshot_answer": "34.4%].",
+        "cot_fewshot_answer": "34.4%",
+        "direct_answer": "approximately 34.4%",
+        "socratic_hints": [
+            "The total number of berths expected to be in service by the end of 2021 is 676,000, which is an increase of 173,000 berths compared to the 503,000 berths at the end of 2016."
+        ]
+    },
+    {
+        "question": "what is the net change in the balance of employee separations liability during 2005?",
+        "gt": "-364",
+        "socratic_answer": "-364000",
+        "cot_zeroshot_answer": "-364].",
+        "cot_fewshot_answer": "-364",
+        "direct_answer": "$-364",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what was the percentage change in the losses on debt extinguishment from 2017 to 2018",
+        "gt": "78.1%",
+        "socratic_answer": "-78.08%",
+        "cot_zeroshot_answer": "78.08%].",
+        "cot_fewshot_answer": "78.08%",
+        "direct_answer": "78.08%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what was the ratio of the total property and equipment net in 2006 to 2005",
+        "gt": "1.13",
+        "socratic_answer": "112.8%",
+        "cot_zeroshot_answer": "1.128].",
+        "cot_fewshot_answer": "1.128",
+        "direct_answer": "1.13",
+        "socratic_hints": [
+            "unknown"
+        ]
+    }
+]

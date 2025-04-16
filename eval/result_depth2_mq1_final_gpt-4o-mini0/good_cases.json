@@ -1,0 +1,242 @@
+[
+    {
+        "question": "what are the nuclear realized price changes as a percentage of the decrease in net revenue from 2011 to 2012?",
+        "gt": "102%",
+        "socratic_answer": "101.57%",
+        "cot_zeroshot_answer": "-101.57%",
+        "cot_fewshot_answer": "-101.57%",
+        "direct_answer": "-10.16%",
+        "socratic_hints": [
+            "The percentage of the decrease in net revenue attributed to nuclear realized price changes compared to the total decrease in net revenue from 2011 to 2012 is 101.57%."
+        ]
+    },
+    {
+        "question": "what portion of cash and cash equivalents on hand are held in u.s . as of december 31 , 2016?",
+        "gt": "43.7%",
+        "socratic_answer": "43.7%",
+        "cot_zeroshot_answer": "$143 million",
+        "cot_fewshot_answer": "143 million",
+        "direct_answer": "$143 million",
+        "socratic_hints": [
+            "The amount of cash and cash equivalents held in the U.S. as of December 31, 2016, is $143 million."
+        ]
+    },
+    {
+        "question": "if 2014 underlying operating profit increases at the same pace as 2013 , what would it be , in millions?",
+        "gt": "2186",
+        "socratic_answer": "2186 millions",
+        "cot_zeroshot_answer": "2187.43 million",
+        "cot_fewshot_answer": "2182",
+        "direct_answer": "2150",
+        "socratic_hints": [
+            "The percentage increase in underlying operating profit from 2012 to 2013 was 4.17%."
+        ]
+    },
+    {
+        "question": "what was total acres expiring in millions for other africa?",
+        "gt": "2983",
+        "socratic_answer": "0.002983 million",
+        "cot_zeroshot_answer": "2.983 million acres",
+        "cot_fewshot_answer": "2.983 (million)",
+        "direct_answer": "2.605 million acres",
+        "socratic_hints": [
+            "The total number of net undeveloped acres expiring in \"other Africa\" for the years 2014, 2015, and 2016 is 2983 acres."
+        ]
+    },
+    {
+        "question": "what was the percent of the total gains that was from the sales of land",
+        "gt": "10.1%",
+        "socratic_answer": "10.05%",
+        "cot_zeroshot_answer": "11.11%",
+        "cot_fewshot_answer": "11.1%",
+        "direct_answer": "11.1%",
+        "socratic_hints": [
+            "The formula to calculate the percentage of gain on land sales in relation to the total gains from both depreciable properties and land sales is Percentage of Gain on Land Sales = (Gain on Land Sales / Total Gains) x 100."
+        ]
+    },
+    {
+        "question": "what is the total amount expected to be paid for pensions and retiree medical and other in the next 12 months?",
+        "gt": "747",
+        "socratic_answer": "747 millions",
+        "cot_zeroshot_answer": "899 million",
+        "cot_fewshot_answer": "5.948 (million)",
+        "direct_answer": "1,043 million",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what portion of the of unrecognized tax benefits would have an impact in the effective tax rate if recognized?",
+        "gt": "81.4%",
+        "socratic_answer": "81.43%",
+        "cot_zeroshot_answer": "$57 million",
+        "cot_fewshot_answer": "57 million",
+        "direct_answer": "$57 million",
+        "socratic_hints": [
+            "The amount of unrecognized tax benefits that would impact the effective tax rate if recognized is $57 million."
+        ]
+    },
+    {
+        "question": "what is the estimated fair value of hologic common stock?",
+        "gt": "27.8",
+        "socratic_answer": "27.81",
+        "cot_zeroshot_answer": "$3,671,500",
+        "cot_fewshot_answer": "3.6715 (million)",
+        "direct_answer": "$3,671,500",
+        "socratic_hints": [
+            "The weighted average stock price used to value the Hologic common stock during the merger was $27.81."
+        ]
+    },
+    {
+        "question": "what is the minimum yearly depreciation rate that can be used for land improvements?",
+        "gt": "2.5%",
+        "socratic_answer": "2.5%",
+        "cot_zeroshot_answer": "33.33%",
+        "cot_fewshot_answer": "33.33%",
+        "direct_answer": "33.33%",
+        "socratic_hints": [
+            "The estimated useful life of land improvements is 40 years according to the provided context."
+        ]
+    },
+    {
+        "question": "what was the 2004 rate of decrease in development costs?",
+        "gt": "11.3%",
+        "socratic_answer": "11.35%",
+        "cot_zeroshot_answer": "-11.30%",
+        "cot_fewshot_answer": "-78.2%",
+        "direct_answer": "711",
+        "socratic_hints": [
+            "The percentage change in development costs incurred from 2003 to 2004 was -11.35%."
+        ]
+    },
+    {
+        "question": "what was the change in millions of total assets from 2012 to 2013?",
+        "gt": "-27048",
+        "socratic_answer": "-27048",
+        "cot_zeroshot_answer": "27,048 million",
+        "cot_fewshot_answer": "27.048 (million)",
+        "direct_answer": "$27.05 billion",
+        "socratic_hints": [
+            "The difference in total assets between December 2012 and December 2013 is -$27.045 billion."
+        ]
+    },
+    {
+        "question": "for the quarter ended december 312010 what was percent of the total number of shares attested to upc by employees to pay stock option exercise prices",
+        "gt": "18.4%",
+        "socratic_answer": "18.36%",
+        "cot_zeroshot_answer": "49.6%",
+        "cot_fewshot_answer": "49.7%",
+        "direct_answer": "1.84%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what is the growth rate in operating expenses in 2013?",
+        "gt": "-2.1%",
+        "socratic_answer": "-2.14%",
+        "cot_zeroshot_answer": "2.12%",
+        "cot_fewshot_answer": "-0.398%",
+        "direct_answer": "2%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what are the total contractual maturities of long-term debt obligations due subsequent to december 31 , 2016?",
+        "gt": "3081",
+        "socratic_answer": "3081 millions",
+        "cot_zeroshot_answer": "3256",
+        "cot_fewshot_answer": "3.256 (million)",
+        "direct_answer": "$ 175 in 2019, $ 2756 in 2020",
+        "socratic_hints": []
+    },
+    {
+        "question": "what was the percentage decline in recorded international slot and route authorities to $ 708 million from $ 736 million as of december 31 , 2010 and 2009 , respectively .",
+        "gt": "-3.8%",
+        "socratic_answer": "-3.8%",
+        "cot_zeroshot_answer": "3.80%",
+        "cot_fewshot_answer": "3.81%",
+        "direct_answer": "3.8%",
+        "socratic_hints": [
+            "The formula for calculating the percentage decline between two values is Percentage Change = (New Value - Original Value) / Original Value * 100."
+        ]
+    },
+    {
+        "question": "what portion of the 1999 accrual balance related to restructurings is comprised of canceled contracts?",
+        "gt": "50%",
+        "socratic_answer": "50%",
+        "cot_zeroshot_answer": "$400,000",
+        "cot_fewshot_answer": "0.518 (or 51.8%)",
+        "direct_answer": "$0.4 million",
+        "socratic_hints": [
+            "The amount of the accrued balance at December 3, 1999, that is specifically attributed to canceled contracts is $0.4 million."
+        ]
+    },
+    {
+        "question": "what was the percent of the change in the weighted average cost per share from 2015 to 2016",
+        "gt": "17.32%",
+        "socratic_answer": "17.32%",
+        "cot_zeroshot_answer": "17.3%",
+        "cot_fewshot_answer": "17.33%",
+        "direct_answer": "17.3%",
+        "socratic_hints": [
+            "The formula for calculating the percent change between two values is Percent Change = (Final Value - Initial Value) / Initial Value * 100."
+        ]
+    },
+    {
+        "question": "what was the average basic net income available for common shareholders from 2005 to 2007",
+        "gt": "223990",
+        "socratic_answer": "223990",
+        "cot_zeroshot_answer": "224323.33",
+        "cot_fewshot_answer": "223.99 (thousands)",
+        "direct_answer": "$ 190323.33",
+        "socratic_hints": [
+            "The total basic net income available for common shareholders for the years 2005, 2006, and 2007 is 671970."
+        ]
+    },
+    {
+        "question": "as of december 31 , 2016 what was the percent of the company's significant contractual obligations for the global headquarters operating lease due in 2016",
+        "gt": "29.4%",
+        "socratic_answer": "29.41%",
+        "cot_zeroshot_answer": "3.08%",
+        "cot_fewshot_answer": "3.08%",
+        "direct_answer": "30.0%",
+        "socratic_hints": [
+            "The formula to calculate the percentage of the global headquarters operating lease due in 2016 relative to the total contractual obligations is Percentage = (40,859 / 138,930) x 100."
+        ]
+    },
+    {
+        "question": "what is the net effect of the adoption of new accounting standards?",
+        "gt": "85929",
+        "socratic_answer": "85929",
+        "cot_zeroshot_answer": "100,929,000",
+        "cot_fewshot_answer": "85.929 (million)",
+        "direct_answer": "The net effect of the adoption of new accounting standards resulted in an increase of retained earnings by $85,640,000, after accounting for the cumulative effect adjustments.]",
+        "socratic_hints": [
+            "The total cumulative effect adjustment to retained earnings from the adoption of new accounting standards is $85,929."
+        ]
+    },
+    {
+        "question": "what portion of the total future minimum commitments under operating leases is due in the next 36 months?",
+        "gt": "33.1%",
+        "socratic_answer": "33.06%",
+        "cot_zeroshot_answer": "643 million",
+        "cot_fewshot_answer": "398 (million)",
+        "direct_answer": "$ 397 million",
+        "socratic_hints": [
+            "The total amounts for the years 2016, 2017, and 2018 in the future minimum commitments under operating leases are $398 million."
+        ]
+    },
+    {
+        "question": "in 2015 what was the ratio of the nol carry forward for the federal to the foreign taxes",
+        "gt": "19.3%",
+        "socratic_answer": "19.29%",
+        "cot_zeroshot_answer": "0.192857",
+        "cot_fewshot_answer": "0.193",
+        "direct_answer": "0.192857]",
+        "socratic_hints": [
+            "unknown"
+        ]
+    }
+]

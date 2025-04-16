@@ -1,0 +1,110 @@
+[
+    {
+        "question": "what is the percent change in general and administrative expense from 2000 to 2001?",
+        "gt": "-26.1%",
+        "socratic_answer": "-26.06%",
+        "cot_zeroshot_answer": "-26.02%",
+        "cot_fewshot_answer": "-26.00%",
+        "direct_answer": "26.06%",
+        "socratic_hints": []
+    },
+    {
+        "question": "what portion of the total number of securities approved by security holders is issued?",
+        "gt": "32.0%",
+        "socratic_answer": "31.94%",
+        "cot_zeroshot_answer": "100%",
+        "cot_fewshot_answer": "1 (or 100%)",
+        "direct_answer": "1708928",
+        "socratic_hints": []
+    },
+    {
+        "question": "what was the sum of the annual long-term debt maturities outstanding as of december 31 , 2017 , for the next five years",
+        "gt": "4781374",
+        "socratic_answer": "4,781,374",
+        "cot_zeroshot_answer": "4774374",
+        "cot_fewshot_answer": "4,375.374 (million)",
+        "direct_answer": "$4,563,374,000",
+        "socratic_hints": []
+    },
+    {
+        "question": "what was the percentage change in total rental expense under operating leases from july 1 , 2006 to july 2 , 2007?",
+        "gt": "9%",
+        "socratic_answer": "8.61%",
+        "cot_zeroshot_answer": "43.82%",
+        "cot_fewshot_answer": "-43.85%",
+        "direct_answer": "0%",
+        "socratic_hints": []
+    },
+    {
+        "question": "what percent lower is the carrying value than the fair value?",
+        "gt": "9.37%",
+        "socratic_answer": "9.37%",
+        "cot_zeroshot_answer": "9.36%",
+        "cot_fewshot_answer": "9.36%",
+        "direct_answer": "9.34%",
+        "socratic_hints": []
+    },
+    {
+        "question": "what is the total interest expense incurred by the senior unsecured notes that was redeemed in august 2005?",
+        "gt": "7.2",
+        "socratic_answer": "$7.2 million",
+        "cot_zeroshot_answer": "$21.0875 million",
+        "cot_fewshot_answer": "8.6 (million)",
+        "direct_answer": "$258.6 million",
+        "socratic_hints": []
+    },
+    {
+        "question": "what was the tax rate applied to the company recorded sales of the mastercard shares in 2007 , the company recorded a $ 367 million after-tax gain ( $ 581 million pretax )",
+        "gt": "36.83%",
+        "socratic_answer": "36.83%",
+        "cot_zeroshot_answer": "36.7%",
+        "cot_fewshot_answer": "36.7%",
+        "direct_answer": "37.5%",
+        "socratic_hints": []
+    },
+    {
+        "question": "if mr . oppenheimer's rsus vest , how many total shares would he then have?",
+        "gt": "599768",
+        "socratic_answer": "599,768",
+        "cot_zeroshot_answer": "549,768",
+        "cot_fewshot_answer": "149,768",
+        "direct_answer": "149768",
+        "socratic_hints": []
+    },
+    {
+        "question": "what is the percent of both the main line and branch line routes that are owned by the company",
+        "gt": "81.8%",
+        "socratic_answer": "81.83%",
+        "cot_zeroshot_answer": "Main Line",
+        "cot_fewshot_answer": "97.36%",
+        "direct_answer": "96.9%",
+        "socratic_hints": []
+    },
+    {
+        "question": "what is the total return if $ 100000 are invested in fidelity national information system in 12/11 and sold in 12/16?",
+        "gt": "211810",
+        "socratic_answer": "$211,810",
+        "cot_zeroshot_answer": "211.81%",
+        "cot_fewshot_answer": "311.81 (thousand)",
+        "direct_answer": "$311,810]",
+        "socratic_hints": []
+    },
+    {
+        "question": "what is the net change in the gross liability for unrecognized tax benefits during 2008?",
+        "gt": "-62259",
+        "socratic_answer": "-$62,259",
+        "cot_zeroshot_answer": "139,549",
+        "cot_fewshot_answer": "62.259 (million)",
+        "direct_answer": "$-62,259,000",
+        "socratic_hints": []
+    },
+    {
+        "question": "what was the difference in the increase in the cash in working capital in 2006 compared with the increase in 2005 in millions",
+        "gt": "-204",
+        "socratic_answer": "-204 million",
+        "cot_zeroshot_answer": "204 million",
+        "cot_fewshot_answer": "204",
+        "direct_answer": "200 million",
+        "socratic_hints": []
+    }
+]

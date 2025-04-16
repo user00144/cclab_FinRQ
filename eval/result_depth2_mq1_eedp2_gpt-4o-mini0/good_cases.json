@@ -1,0 +1,119 @@
+[
+    {
+        "question": "what is the percent change in general and administrative expense from 2000 to 2001?",
+        "gt": "-26.1%",
+        "socratic_answer": "-26.07%].",
+        "cot_zeroshot_answer": "26.02%",
+        "cot_fewshot_answer": "-26.00%",
+        "direct_answer": "26.1%",
+        "socratic_hints": []
+    },
+    {
+        "question": "how is the cash flow of entergy gulf states louisiana affected by the balance from money pool from 2007 to 2008 , in thousands?",
+        "gt": "43920",
+        "socratic_answer": "43,920].",
+        "cot_zeroshot_answer": "-$43,920",
+        "cot_fewshot_answer": "-43.92 (million)",
+        "direct_answer": "-$43920",
+        "socratic_hints": []
+    },
+    {
+        "question": "what portion of the total number of securities approved by security holders is issued?",
+        "gt": "32.0%",
+        "socratic_answer": "31.9%].",
+        "cot_zeroshot_answer": "100%",
+        "cot_fewshot_answer": "0.320 (or 32.0%)",
+        "direct_answer": "1708928",
+        "socratic_hints": []
+    },
+    {
+        "question": "what was the sum of the annual long-term debt maturities outstanding as of december 31 , 2017 , for the next five years",
+        "gt": "4781374",
+        "socratic_answer": "4781374].",
+        "cot_zeroshot_answer": "4774374",
+        "cot_fewshot_answer": "4,781.374 (million)",
+        "direct_answer": "$4,563,374",
+        "socratic_hints": []
+    },
+    {
+        "question": "in 2013 what was the percent of the allowances for doubtful accounts",
+        "gt": "2.72%",
+        "socratic_answer": "2.72%].",
+        "cot_zeroshot_answer": "2.80%",
+        "cot_fewshot_answer": "2.80%",
+        "direct_answer": "2.7%",
+        "socratic_hints": []
+    },
+    {
+        "question": "what is the estimated fair value of hologic common stock?",
+        "gt": "27.8",
+        "socratic_answer": "27.81].",
+        "cot_zeroshot_answer": "$3,671,500",
+        "cot_fewshot_answer": "3.6715 (million)",
+        "direct_answer": "$3,671,500",
+        "socratic_hints": []
+    },
+    {
+        "question": "what is the total interest expense incurred by the senior unsecured notes that was redeemed in august 2005?",
+        "gt": "7.2",
+        "socratic_answer": "7.2 million].",
+        "cot_zeroshot_answer": "$19.6875 million",
+        "cot_fewshot_answer": "8.6 (million)",
+        "direct_answer": "$258.6",
+        "socratic_hints": []
+    },
+    {
+        "question": "what was the percent change of the principal transactions revenue associated with interest rate risks from 2016 to 2017",
+        "gt": "25.3%",
+        "socratic_answer": "25.3%].",
+        "cot_zeroshot_answer": "25.35%",
+        "cot_fewshot_answer": "25.4%",
+        "direct_answer": "25.4%",
+        "socratic_hints": []
+    },
+    {
+        "question": "what percentage of the total expected cash outflow to satisfy contractual obligations and commitments as of december 31 , 2007 , is pension fundings?",
+        "gt": "12%",
+        "socratic_answer": "12.07%].",
+        "cot_zeroshot_answer": "32.91%",
+        "cot_fewshot_answer": "11.29%",
+        "direct_answer": "11.29%",
+        "socratic_hints": []
+    },
+    {
+        "question": "what was the average basic net income available for common shareholders from 2005 to 2007",
+        "gt": "223990",
+        "socratic_answer": "223990].",
+        "cot_zeroshot_answer": "224323.33",
+        "cot_fewshot_answer": "223.99 (thousands)",
+        "direct_answer": "$ 190323.33",
+        "socratic_hints": []
+    },
+    {
+        "question": "how satisfied will customers be in 2010 if the 2008 satisfaction index increase occurs again in 2009?",
+        "gt": "92",
+        "socratic_answer": "92].",
+        "cot_zeroshot_answer": "93",
+        "cot_fewshot_answer": "93",
+        "direct_answer": "93",
+        "socratic_hints": []
+    },
+    {
+        "question": "what was the percent of the jpmorgan chase income before income tax expense/ ( benefit ) and extraordinary gain that was us sourced",
+        "gt": "66.6%",
+        "socratic_answer": "66.6%].",
+        "cot_zeroshot_answer": "66.65%",
+        "cot_fewshot_answer": "66.66%",
+        "direct_answer": "66.67%",
+        "socratic_hints": []
+    },
+    {
+        "question": "what is the net effect of the adoption of new accounting standards?",
+        "gt": "85929",
+        "socratic_answer": "85929].",
+        "cot_zeroshot_answer": "$85,929,000",
+        "cot_fewshot_answer": "85.929 (million)",
+        "direct_answer": "The net effect of the adoption of new accounting standards is an increase in retained earnings by $85,640,000, resulting in a balance of $426,932,000 as of December 30, 2017, after adjustments.]",
+        "socratic_hints": []
+    }
+]

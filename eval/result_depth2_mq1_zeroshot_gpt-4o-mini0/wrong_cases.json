@@ -1,0 +1,29 @@
+[
+    {
+        "question": "what was the difference in percentage cumulative total shareholder return on masco common stock versus the s&p 500 index for the five year period ended 2017?",
+        "gt": "",
+        "program": "subtract(318.46, const_100), divide(#0, const_100), subtract(206.49, const_100), divide(#2, const_100), subtract(#1, #3)",
+        "gold_inds": {
+            "table_1": "the masco of 2013 is $ 138.48 ; the masco of 2014 is $ 155.26 ; the masco of 2015 is $ 200.79 ; the masco of 2016 is $ 227.08 ; the masco of 2017 is $ 318.46 ;",
+            "table_2": "the s&p 500 index of 2013 is $ 132.04 ; the s&p 500 index of 2014 is $ 149.89 ; the s&p 500 index of 2015 is $ 151.94 ; the s&p 500 index of 2016 is $ 169.82 ; the s&p 500 index of 2017 is $ 206.49 ;"
+        },
+        "answer": "111.97%",
+        "hints": [
+            "unknown"
+        ],
+        "log": "To calculate the difference in percentage cumulative total shareholder return on Masco common stock versus the S&P 500 index for the five-year period ended 2017, we will follow these steps:\n\n1. **Identify the values at the end of the period (2017)**:\n   - Masco common stock value in 2017: $318.46\n   - S&P 500 index value in 2017: $206.49\n\n2. **Calculate the cumulative total return for each investment**:\n   - For Masco: \n     \\[\n     \\text{Cumulative Return (Masco)} = \\left(\\frac{318.46 - 100}{100}\\right) \\times 100 = 218.46\\%\n     \\]\n   - For S&P 500:\n     \\[\n     \\text{Cumulative Return (S&P 500)} = \\left(\\frac{206.49 - 100}{100}\\right) \\times 100 = 106.49\\%\n     \\]\n\n3. **Calculate the difference in cumulative total returns**:\n   \\[\n   \\text{Difference} = \\text{Cumulative Return (Masco)} - \\text{Cumulative Return (S&P 500)} = 218.46\\% - 106.49\\% = 111.97\\%\n   \\]\n\nThus, the difference in percentage cumulative total shareholder return on Masco common stock versus the S&P 500 index for the five-year period ended 2017 is 111.97%.\n\nThe final answer is [Answer: \"111.97%\";]."
+    },
+    {
+        "question": "what was the percentage change in total rental expense under operating leases from july 2 , 2005 to july 1 , 2006?",
+        "gt": "7%",
+        "program": "subtract(92710000, 86842000), divide(#0, 86842000)",
+        "gold_inds": {
+            "text_8": "total rental expense under operating leases was $ 100690000 , $ 92710000 , and $ 86842000 in fiscal 2006 , 2005 and 2004 , respectively ."
+        },
+        "answer": "8.60%",
+        "hints": [
+            "The total rental expenses under operating leases for July 2, 2005, and July 1, 2006, were $193,400,000."
+        ],
+        "log": "To calculate the percentage change in total rental expense under operating leases from July 2, 2005, to July 1, 2006, we can follow these steps:\n\n1. **Identify the rental expenses for both years**:\n   - For July 1, 2006: $100,690,000\n   - For July 2, 2005: $92,710,000\n\n2. **Calculate the change in rental expense**:\n   \\[\n   \\text{Change} = \\text{Expense in 2006} - \\text{Expense in 2005} = 100,690,000 - 92,710,000 = 7,980,000\n   \\]\n\n3. **Calculate the percentage change**:\n   \\[\n   \\text{Percentage Change} = \\left( \\frac{\\text{Change}}{\\text{Expense in 2005}} \\right) \\times 100 = \\left( \\frac{7,980,000}{92,710,000} \\right) \\times 100\n   \\]\n\n4. **Perform the calculation**:\n   \\[\n   \\text{Percentage Change} = \\left( \\frac{7,980,000}{92,710,000} \\right) \\times 100 \\approx 8.60\\%\n   \\]\n\nThus, the percentage change in total rental expense under operating leases from July 2, 2005, to July 1, 2006, is approximately 8.60%.\n\nThe final answer is [Answer: \"8.60%\";]."
+    }
+]

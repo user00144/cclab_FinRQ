@@ -1,0 +1,299 @@
+[
+    {
+        "question": "what is the percentage change in revenue generated from non-us currencies from 2015 to 2016?",
+        "gt": "42.9%",
+        "socratic_answer": "42.8%",
+        "cot_zeroshot_answer": "42.9%].",
+        "cot_fewshot_answer": "42.9%",
+        "direct_answer": "42.9%",
+        "socratic_hints": [
+            "The total revenues generated from non-U.S. currencies for the years 2015 and 2016 were $3,245 million."
+        ]
+    },
+    {
+        "question": "what was the percentage decrease in cash flows from operations from 2009 to 2010?",
+        "gt": "8.0%",
+        "socratic_answer": "0%",
+        "cot_zeroshot_answer": "7.95%].",
+        "cot_fewshot_answer": "7.95%",
+        "direct_answer": "8.0%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "by what percentage did protect carrying values of excess inventories increase from 2002 to 2003?",
+        "gt": "39.0%",
+        "socratic_answer": "-39.02%",
+        "cot_zeroshot_answer": "39.02%].",
+        "cot_fewshot_answer": "39.02%",
+        "direct_answer": "39.02%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "in millions for 2012 and 2011 , what was the maximum tier 2 capital?",
+        "gt": "39",
+        "socratic_answer": "39 million, 6 million",
+        "cot_zeroshot_answer": "39].",
+        "cot_fewshot_answer": "39 (million)",
+        "direct_answer": "$39 million",
+        "socratic_hints": [
+            "The tier 2 capital amounts for GS Bank USA were $39 million in 2012 and $6 million in 2011."
+        ]
+    },
+    {
+        "question": "what percent did minimum pension liability increase between 2004 and 2006?",
+        "gt": "615.4%",
+        "socratic_answer": "-615.38%",
+        "cot_zeroshot_answer": "615.38%].",
+        "cot_fewshot_answer": "615.38%",
+        "direct_answer": "615.38%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what was the net change in millions of asset retirement liability in the year ended september 27 2003?",
+        "gt": "1.7",
+        "socratic_answer": "7.2 million",
+        "cot_zeroshot_answer": "1.7 million].",
+        "cot_fewshot_answer": "1.7 (million)",
+        "direct_answer": "1.7",
+        "socratic_hints": [
+            "The formula to calculate the net change in asset retirement liability, considering the recorded liability at the beginning of the year, additional obligations recognized, and any accretion recognized, results in a net change of $7.2 million."
+        ]
+    },
+    {
+        "question": "at december 31 , 2006 , what percentage of total future minimum commitments under existing non-cancelable leases and purchase obligations from lease obligations is due in 2007?",
+        "gt": "6%",
+        "socratic_answer": "2.76%",
+        "cot_zeroshot_answer": "5.82%].",
+        "cot_fewshot_answer": "5.82%",
+        "direct_answer": "5.82%",
+        "socratic_hints": [
+            "The total amount of future minimum commitments under existing non-cancelable leases and purchase obligations as of December 31, 2006 is $5219 million."
+        ]
+    },
+    {
+        "question": "without the impact of settlements , what would the december 31 2008 amount of unrecognized tax benefits have been , in $ millions?",
+        "gt": "120",
+        "socratic_answer": "104 millions",
+        "cot_zeroshot_answer": "120 million].",
+        "cot_fewshot_answer": "120 million",
+        "direct_answer": "$120 million",
+        "socratic_hints": [
+            "The balance at December 31, 2008 before accounting for settlements was $104 million."
+        ]
+    },
+    {
+        "question": "at december 31 2009 what was the ratio of the aggregate cost to the fair value of the loans held-for-sale that are carried at locom",
+        "gt": "1.56",
+        "socratic_answer": "156.25%",
+        "cot_zeroshot_answer": "1.5625",
+        "cot_fewshot_answer": "1.5625",
+        "direct_answer": "1.56",
+        "socratic_hints": [
+            "The formula to calculate the ratio of aggregate cost to fair value is Ratio = Aggregate Cost / Fair Value."
+        ]
+    },
+    {
+        "question": "for 2011 and 2012 , what were average commercial mortgage recourse obligations in millions?",
+        "gt": "45",
+        "socratic_answer": "3950 millions",
+        "cot_zeroshot_answer": "45 million].",
+        "cot_fewshot_answer": "45 million",
+        "direct_answer": "$ 45 million",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what was the change in millions of company contributions to the employee benefit plans retirement plan between 2007 and 2008?",
+        "gt": "1.2",
+        "socratic_answer": "**:\n   - The change in company contributions to the employee benefit plans retirement plan between 2007 and 2008 is $1.2 million.\n\nThus, the final answer is [",
+        "cot_zeroshot_answer": "1.2 million].",
+        "cot_fewshot_answer": "1.2 (million)",
+        "direct_answer": "1.2 million",
+        "socratic_hints": [
+            "The total company contributions to the employee benefit plans retirement plan for the years 2007 and 2008 were $4.0 million."
+        ]
+    },
+    {
+        "question": "what is the minimum depreciation rate that can be used for furniture fixtures and equipment?",
+        "gt": "10%",
+        "socratic_answer": "33.33%",
+        "cot_zeroshot_answer": "10%",
+        "cot_fewshot_answer": "10%",
+        "direct_answer": "10%",
+        "socratic_hints": [
+            "The estimated useful life range for furniture, fixtures, and equipment according to the company's accounting policies is 3 to 10 years."
+        ]
+    },
+    {
+        "question": "what is the approximate size of each data center leased in square feet",
+        "gt": "83333",
+        "socratic_answer": "500000",
+        "cot_zeroshot_answer": "83,333 square feet].",
+        "cot_fewshot_answer": "approximately 83,333 square feet",
+        "direct_answer": "83333.33 square feet",
+        "socratic_hints": [
+            "The total approximate size of all data centers is 3,000,000 square feet and there are 6 data centers."
+        ]
+    },
+    {
+        "question": "what were the average tax penalties from 2014 to 2016 in millions",
+        "gt": "6.3",
+        "socratic_answer": "6.63 million",
+        "cot_zeroshot_answer": "6.3 million].",
+        "cot_fewshot_answer": "6.3 (million)",
+        "direct_answer": "6.3 million",
+        "socratic_hints": [
+            "The total amount of tax penalties recorded for the years 2014, 2015, and 2016 is $18.9 million."
+        ]
+    },
+    {
+        "question": "what was the percentage cumulative total shareholder return on discb from september 18 , 2008 to december 31 , 2011?",
+        "gt": "117.56%",
+        "socratic_answer": "177.2%",
+        "cot_zeroshot_answer": "117.56%].",
+        "cot_fewshot_answer": "117.56%",
+        "direct_answer": "117.56%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what percentage of approximate number of active full-time equivalent employees consist of u.s airways employees?",
+        "gt": "28.9%",
+        "socratic_answer": "29.8%",
+        "cot_zeroshot_answer": "28.95%].",
+        "cot_fewshot_answer": "28.94%",
+        "direct_answer": "28.94%",
+        "socratic_hints": [
+            "The total number of active full-time equivalent employees for U.S. Airways is 33,900 compared to the overall total of 113,300."
+        ]
+    },
+    {
+        "question": "what was the percent of the change in the net sales from 2017 to 2018",
+        "gt": "1.7%",
+        "socratic_answer": "-4.03%",
+        "cot_zeroshot_answer": "1.695%].",
+        "cot_fewshot_answer": "1.695%",
+        "direct_answer": "1.70%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "in 2014 what was the ratio of the estimated future benefit payments due in 2015 compared to the amount after 2020",
+        "gt": "0.15",
+        "socratic_answer": "15.4%",
+        "cot_zeroshot_answer": "0.154].",
+        "cot_fewshot_answer": "0.154",
+        "direct_answer": "0.154",
+        "socratic_hints": [
+            "The total amount of estimated future benefit payments from 2020 to 2024 is $13,430 million."
+        ]
+    },
+    {
+        "question": "what is the growth rate for the ifs segment in 2016?",
+        "gt": "18.7%",
+        "socratic_answer": "18.77%",
+        "cot_zeroshot_answer": "18.7%].",
+        "cot_fewshot_answer": "18.7%",
+        "direct_answer": "18.7%",
+        "socratic_hints": [
+            "The percentage increase in revenue for the ifs segment from 2015 to 2016 was 18.7%."
+        ]
+    },
+    {
+        "question": "what was the total impact on dva of a 1 basis point increase in jpmorgan chase credit spread for 2008 and 2007?",
+        "gt": "70000000",
+        "socratic_answer": "\n   - The total impact on DVA of a 1 basis point increase in JPMorgan Chase's credit spread for 2008 and 2007 is $70 million.\n\nThus, the final answer is [",
+        "cot_zeroshot_answer": "70 million].",
+        "cot_fewshot_answer": "70 million",
+        "direct_answer": "$70 million",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what is the decrease observed in the additions for tax positions of prior years , in millions?",
+        "gt": "2",
+        "socratic_answer": "-2 million",
+        "cot_zeroshot_answer": "2 million].",
+        "cot_fewshot_answer": "2",
+        "direct_answer": "2 million",
+        "socratic_hints": [
+            "The difference between the additions for tax positions of prior years in 2018 and 2017 is -$2 million."
+        ]
+    },
+    {
+        "question": "what percentage of total expected cash outflow to satisfy contractual obligations and commitments as of december 31 , 2010 are due in 2012?",
+        "gt": "6%",
+        "socratic_answer": "14.3%",
+        "cot_zeroshot_answer": "5.67%].",
+        "cot_fewshot_answer": "5.67%",
+        "direct_answer": "5.67%",
+        "socratic_hints": [
+            "The total cash outflow for 2012 is $3368 million, which is approximately 14.3% of the overall total cash outflow of $23556 million."
+        ]
+    },
+    {
+        "question": "in 2010 what was the ratio of the cumulative return for intel , to the the dow jones u.s . technology index*",
+        "gt": "0.82",
+        "socratic_answer": "82.25%",
+        "cot_zeroshot_answer": "0.8225",
+        "cot_fewshot_answer": "0.823",
+        "direct_answer": "0.8225",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what is the difference of between the carrying amount and the fair value of notes and other long-term assets in 2004?",
+        "gt": "68",
+        "socratic_answer": "38 million",
+        "cot_zeroshot_answer": "68 million].",
+        "cot_fewshot_answer": "68 million",
+        "direct_answer": "$68 million",
+        "socratic_hints": [
+            "The specific calculation needed to find the difference between the carrying amount and the fair value for notes and other long-term assets in 2004 is $38 million."
+        ]
+    },
+    {
+        "question": "what is the net change in the balance of employee separations liability during 2005?",
+        "gt": "-364",
+        "socratic_answer": "-364000",
+        "cot_zeroshot_answer": "-364",
+        "cot_fewshot_answer": "-364",
+        "direct_answer": "$-364",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what was the percentage change in the losses on debt extinguishment from 2017 to 2018",
+        "gt": "78.1%",
+        "socratic_answer": "-78.08%",
+        "cot_zeroshot_answer": "78.08%].",
+        "cot_fewshot_answer": "78.08%",
+        "direct_answer": "78.08%",
+        "socratic_hints": [
+            "The losses on debt extinguishment were $-73 million for 2017 and $-16 million for 2018."
+        ]
+    },
+    {
+        "question": "what was the ratio of the total property and equipment net in 2006 to 2005",
+        "gt": "1.13",
+        "socratic_answer": "112.8%",
+        "cot_zeroshot_answer": "1.128].",
+        "cot_fewshot_answer": "1.128",
+        "direct_answer": "1.13",
+        "socratic_hints": [
+            "unknown"
+        ]
+    }
+]

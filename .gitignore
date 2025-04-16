@@ -1,0 +1,12 @@
+test.json
+train.json
+__pycache__/
+api.py
+*.out
+*.sbatch
+olds/
+exp_logs/
+logs/
+out/
+archive/
+node/

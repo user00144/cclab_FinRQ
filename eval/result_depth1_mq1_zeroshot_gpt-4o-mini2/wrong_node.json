@@ -1,0 +1,1574 @@
+[
+    [
+        {
+            "q_no": 4,
+            "main_question": "what was the difference in percentage cumulative total shareholder return on masco common stock versus the s&p 500 index for the five year period ended 2017?",
+            "sub_question": "What were the cumulative total returns of Masco common stock and the S&P 500 index at the end of 2017?",
+            "answer": {
+                "answer": "Masco",
+                "confidence": "high"
+            },
+            "raw_answer": "To answer the question regarding the cumulative total returns of Masco common stock and the S&P 500 index at the end of 2017, I will extract the relevant data from the provided context.\n\nFrom the context table, we can see the values for both Masco and the S&P 500 index at the end of 2017:\n\n- Masco: $318.46\n- S&P 500 index: $206.49\n\nThese values represent the cumulative total returns on a $100 investment made on December 31, 2012, including the reinvestment of dividends.\n\nThus, the cumulative total returns at the end of 2017 are:\n- Masco common stock: $318.46\n- S&P 500 index: $206.49\n\nThe final answer is [Answer: \"Masco: $318.46; S&P 500 index: $206.49\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 5,
+            "main_question": "what was the percentage change in total rental expense under operating leases from july 2 , 2005 to july 1 , 2006?",
+            "sub_question": "What were the total rental expenses under operating leases for July 2, 2005, and July 1, 2006?",
+            "answer": {
+                "answer": "Total rental expenses for July 1, 2006",
+                "confidence": "high"
+            },
+            "raw_answer": "To determine the total rental expenses under operating leases for July 2, 2005, and July 1, 2006, we can extract the relevant information from the context provided.\n\nFrom the context, we see the following details regarding rental expenses under operating leases:\n\n- For fiscal 2006 (which corresponds to July 1, 2006), the total rental expense was $100,690,000.\n- For fiscal 2005 (which corresponds to July 2, 2005), the total rental expense was $92,710,000.\n\nNow, we can summarize the total rental expenses for both years:\n\n- Total rental expense for July 1, 2006: $100,690,000\n- Total rental expense for July 2, 2005: $92,710,000\n\nThus, the total rental expenses under operating leases for the specified dates are:\n\n- July 1, 2006: $100,690,000\n- July 2, 2005: $92,710,000\n\nThe final answer is [Answer: \"Total rental expenses for July 1, 2006: $100,690,000; July 2, 2005: $92,710,000\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 12,
+            "main_question": "what portion of the total noncancelable future lease commitments are due in fiscal year of 2019?",
+            "sub_question": "What is the amount of noncancelable future lease commitments specifically for fiscal year 2019?",
+            "answer": {
+                "answer": "$137.4 million",
+                "confidence": "high"
+            },
+            "raw_answer": "To determine the amount of noncancelable future lease commitments specifically for fiscal year 2019, we can refer to the provided context, particularly the table that outlines the noncancelable future lease commitments for each fiscal year.\n\nFrom the context (Context(table)), we see that for fiscal year 2019, the amount of noncancelable future lease commitments for operating leases is $137.4 million. \n\nThus, the final answer is [Answer: \"$137.4 million\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 20,
+            "main_question": "what was the percentage change in the commercial mortgage loans designated for sale at fair value from 2008 to 2009",
+            "sub_question": "What was the fair value of commercial mortgage loans held for sale designated at fair value at the end of 2008 and 2009?",
+            "answer": {
+                "answer": "Insufficient information to determine the fair value for 2008 and 2009",
+                "confidence": "low"
+            },
+            "raw_answer": "To answer the question regarding the fair value of commercial mortgage loans held for sale designated at fair value at the end of 2008 and 2009, we need to analyze the provided context.\n\n1. The context mentions that the company stopped originating commercial mortgage loans held for sale designated at fair value in 2008. This indicates that there may not be any new data for 2009 regarding the fair value of these loans.\n2. The context provides the fair value of commercial mortgages at December 31, 2012, which is $772 million, and at December 31, 2011, which is $843 million. However, it does not provide any specific figures for the years 2008 or 2009.\n3. Since the context does not include any information about the fair value of commercial mortgage loans held for sale designated at fair value for the years 2008 and 2009, I cannot derive an answer from the provided information.\n\nBased on this analysis, I conclude that there is insufficient evidence to answer the question.\n\nThe final answer is [Answer: \"Insufficient information to determine the fair value for 2008 and 2009\"; Used hints: \"None\"; Confidence: \"low\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 26,
+            "main_question": "in 2010 what was the percent of the income tax benefit to the stock based compensation cost",
+            "sub_question": "What is the formula to calculate the percentage of the income tax benefit relative to the stock-based compensation cost?",
+            "answer": {
+                "answer": "-34.8%",
+                "confidence": "high"
+            },
+            "raw_answer": "To calculate the percentage of the income tax benefit relative to the stock-based compensation cost, we can use the following formula:\n\n\\[\n\\text{Percentage} = \\left( \\frac{\\text{Income Tax Benefit}}{\\text{Share-Based Compensation Cost}} \\right) \\times 100\n\\]\n\nFrom the context, we have the following data for the year 2010:\n\n- Share-based compensation cost: $18.1 million\n- Income tax benefit: -$6.3 million (the negative sign indicates a benefit)\n\nUsing the formula:\n\n\\[\n\\text{Percentage} = \\left( \\frac{-6.3}{18.1} \\right) \\times 100\n\\]\n\nCalculating this gives:\n\n\\[\n\\text{Percentage} = -34.8\\%\n\\]\n\nThis indicates that the income tax benefit is approximately 34.8% of the share-based compensation cost, but since it is a benefit, it is expressed as a negative percentage.\n\nThe final answer is [Answer: \"-34.8%\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 27,
+            "main_question": "what is the percentage change in the the gross liability for unrecognized tax benefits during 2008 compare to 2007?",
+            "sub_question": "What was the gross liability for unrecognized tax benefits at the end of fiscal year 2007?",
+            "answer": {
+                "answer": "$201,808",
+                "confidence": "high"
+            },
+            "raw_answer": "To determine the gross liability for unrecognized tax benefits at the end of fiscal year 2007, we need to look at the provided context. The relevant information is found in the table section of the context, which states:\n\n- The beginning balance as of December 1, 2007, was $201,808.\n\nThis amount represents the gross liability for unrecognized tax benefits at the end of fiscal year 2007, as it is the starting point before any changes occurred during fiscal 2008.\n\nTherefore, the gross liability for unrecognized tax benefits at the end of fiscal year 2007 is $201,808.\n\nThe final answer is [Answer: \"$201,808\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 28,
+            "main_question": "what was the total impairment costs recorded from 2003 to 2005 in millions",
+            "sub_question": "What were the impairment charges recorded for each year from 2003 to 2005?",
+            "answer": {
+                "answer": "2003",
+                "confidence": "high"
+            },
+            "raw_answer": "To answer the question regarding the impairment charges recorded for each year from 2003 to 2005, I will extract the relevant information from the provided context.\n\n1. **2003**: The context states that the company recorded impairment charges of approximately $4.7 million prior to 2003.\n2. **2004**: The context mentions impairment charges of approximately $0.6 million.\n3. **2005**: The context indicates impairment charges of approximately $0.6 million.\n\nNow, summarizing the impairment charges for each year:\n- **2003**: $4.7 million\n- **2004**: $0.6 million\n- **2005**: $0.6 million\n\nThus, the final answer is:\nThe final answer is [Answer: \"2003: $4.7 million; 2004: $0.6 million; 2005: $0.6 million\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 29,
+            "main_question": "what is the borrowing under the term loan facility as a percentage of the total contractual maturities of long-term debt obligations due subsequent to december 31 , 2016?",
+            "sub_question": "What is the total amount of contractual maturities of long-term debt obligations due after December 31, 2016?",
+            "answer": {
+                "answer": "$3,081 million",
+                "confidence": "high"
+            },
+            "raw_answer": "To determine the total amount of contractual maturities of long-term debt obligations due after December 31, 2016, we can refer to the provided context, specifically the \"Context(table)\" section. \n\nFrom the table, the contractual maturities of long-term debt obligations are as follows:\n- 2017: $0 (not explicitly mentioned, but inferred from the context)\n- 2018: $150 million\n- 2019: $175 million\n- 2020: $2,756 million\n\nNow, we will sum these amounts to find the total contractual maturities due after December 31, 2016:\n\nTotal = $150 million (2018) + $175 million (2019) + $2,756 million (2020) = $3,081 million.\n\nThus, the total amount of contractual maturities of long-term debt obligations due after December 31, 2016, is $3,081 million.\n\nThe final answer is [Answer: \"$3,081 million\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 34,
+            "main_question": "what would the fair value of total securities available for sale be without the fair value of securities classified as corporate stocks as of december 31 , 2012?",
+            "sub_question": "What is the fair value of the corporate stocks included in the total securities available for sale as of December 31, 2012?",
+            "answer": {
+                "answer": "$367 million",
+                "confidence": "high"
+            },
+            "raw_answer": "To determine the fair value of the corporate stocks included in the total securities available for sale as of December 31, 2012, we can refer to the context provided. \n\nFrom the context, we see that:\n\n- The total securities available for sale (a) includes $367 million of both amortized cost and fair value of securities classified as corporate stocks and other at December 31, 2012.\n- The fair value of total securities available for sale is $51,052 million.\n\nSince the context specifies that the $367 million represents both the amortized cost and fair value of corporate stocks, we can conclude that the fair value of corporate stocks is also $367 million.\n\nThus, the fair value of the corporate stocks included in the total securities available for sale as of December 31, 2012, is $367 million.\n\nThe final answer is [Answer: \"$367 million\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 35,
+            "main_question": "assuming the same level of settlements as in fiscal 2007 , what would be the ending balance at march 31 2008 in millions for unrecognized tax benefits?\\\\n",
+            "sub_question": "What was the initial balance of unrecognized tax benefits at April 1, 2007, and what adjustments were made during the fiscal year?",
+            "answer": {
+                "answer": "Initial balance",
+                "confidence": "high"
+            },
+            "raw_answer": "To answer the question regarding the initial balance of unrecognized tax benefits at April 1, 2007, and the adjustments made during the fiscal year, we can extract the relevant information from the provided context.\n\n1. **Initial Balance**: The context states that the balance at April 1, 2007, was $224,000. This is the initial balance of unrecognized tax benefits.\n\n2. **Adjustments Made**: The context also mentions a reduction for tax positions due to the closing of the applicable statute of limitations, which amounted to -$56,000. This reduction indicates that the unrecognized tax benefits were decreased during the fiscal year.\n\n3. **Ending Balance**: After the adjustment, the balance at March 31, 2008, was $168,000, which confirms the adjustments made.\n\nThus, the initial balance of unrecognized tax benefits at April 1, 2007, was $224,000, and the adjustment made during the fiscal year was a reduction of $56,000.\n\nThe final answer is [Answer: \"Initial balance: $224,000; Adjustments: -$56,000\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 36,
+            "main_question": "as of december 2012 what is the percent of the square footage not leased to the total square footage in alpharetta , georgia",
+            "sub_question": "What is the total square footage of the facility in Alpharetta, Georgia, and how much of that is not leased?",
+            "answer": {
+                "answer": "Total square footage",
+                "confidence": "high"
+            },
+            "raw_answer": "To answer the question, we need to extract the relevant information from the provided context. \n\nFrom the Context(pre-text), we see that the facility in Alpharetta, Georgia has a total square footage of 254,000. The Context also states that \"all facilities are leased, except for 165,000 square feet of our office in Alpharetta, Georgia.\" This indicates that the portion of the facility that is not leased is 165,000 square feet.\n\nNow, we can summarize the findings:\n- Total square footage of the facility in Alpharetta, Georgia: 254,000 square feet\n- Square footage that is not leased: 165,000 square feet\n\nThus, the final answer is:\nThe total square footage of the facility in Alpharetta, Georgia is 254,000 square feet, and the amount that is not leased is 165,000 square feet. \n\nThe final answer is [Answer: \"Total square footage: 254,000 square feet; Not leased: 165,000 square feet\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 38,
+            "main_question": "what is the total amount of stock options cancelled in millions during 2017 , 2016 and 2015?",
+            "sub_question": "What were the total values of stock options cancelled in millions for each year (2017, 2016, and 2015)?",
+            "answer": {
+                "answer": "2017",
+                "confidence": "high"
+            },
+            "raw_answer": "To answer the question regarding the total values of stock options cancelled in millions for each year (2017, 2016, and 2015), I will extract the relevant information from the provided context.\n\nFrom the context, specifically in the post-text section, it states:\n- For 2017, the total value of stock options cancelled was $1.09 billion.\n- For 2016, the total value of stock options cancelled was $1.11 billion.\n- For 2015, the total value of stock options cancelled was $406 million.\n\nNow, converting these values into millions:\n- 2017: $1.09 billion = 1,090 million\n- 2016: $1.11 billion = 1,110 million\n- 2015: $406 million = 406 million\n\nThus, the total values of stock options cancelled in millions for each year are:\n- 2017: 1,090 million\n- 2016: 1,110 million\n- 2015: 406 million\n\nThe final answer is [Answer: \"2017: 1,090 million; 2016: 1,110 million; 2015: 406 million\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 42,
+            "main_question": "as of december 31 , 2017 what was the value of the granted share awards",
+            "sub_question": "What is the total value of the performance share awards granted in 2017 based on the weighted-average grant-date fair value?",
+            "answer": {
+                "answer": "$9,296,000",
+                "confidence": "high"
+            },
+            "raw_answer": "To find the total value of the performance share awards granted in 2017, we need to multiply the number of performance share awards granted by the weighted-average grant-date fair value.\n\nFrom the context, we have the following information:\n- Number of performance share awards granted in 2017: 160,196\n- Weighted-average grant-date fair value: $58.02\n\nNow, we can calculate the total value:\n\nTotal value = Number of awards granted × Weighted-average grant-date fair value\nTotal value = 160,196 × $58.02 = $9,295,999.92\n\nRounding this to the nearest dollar gives us $9,296,000.\n\nThe final answer is [Answer: \"$9,296,000\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 43,
+            "main_question": "what percent of total contractual obligations is categorized as long term debt?",
+            "sub_question": "What is the formula to calculate the percentage of long-term debt in relation to total contractual obligations?",
+            "answer": {
+                "answer": "45.1%",
+                "confidence": "high"
+            },
+            "raw_answer": "To calculate the percentage of long-term debt in relation to total contractual obligations, we can use the following formula:\n\n\\[\n\\text{Percentage of Long-term Debt} = \\left( \\frac{\\text{Long-term Debt}}{\\text{Total Contractual Obligations}} \\right) \\times 100\n\\]\n\nFrom the provided context, we can extract the following values:\n\n- Long-term Debt = $460.1 million\n- Total Contractual Obligations = $1020.1 million\n\nNow, substituting these values into the formula:\n\n\\[\n\\text{Percentage of Long-term Debt} = \\left( \\frac{460.1}{1020.1} \\right) \\times 100\n\\]\n\nCalculating this gives:\n\n\\[\n\\text{Percentage of Long-term Debt} \\approx 45.1\\%\n\\]\n\nThus, the final answer is [Answer: \"45.1%\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 44,
+            "main_question": "what was the average cash flow from 2004 to 2006",
+            "sub_question": "What are the cash flow values for the years 2004, 2005, and 2006?",
+            "answer": {
+                "answer": "Cash flow values are 2004",
+                "confidence": "high"
+            },
+            "raw_answer": "To answer the question regarding the cash flow values for the years 2004, 2005, and 2006, I will extract the relevant information from the provided context.\n\nFrom the Context(table), the cash flow values are as follows:\n- For 2004: $950.4 million\n- For 2005: $769.1 million\n- For 2006: $957.4 million\n\nThese values are clearly stated in the table provided in the context.\n\nThe final answer is [Answer: \"Cash flow values are 2004: $950.4 million, 2005: $769.1 million, 2006: $957.4 million\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 47,
+            "main_question": "what was the percentage decrease in cash flows from operations from 2009 to 2010?",
+            "sub_question": "What were the cash flows from operations for 2009 and 2010?",
+            "answer": {
+                "answer": "2009",
+                "confidence": "high"
+            },
+            "raw_answer": "To answer the question regarding the cash flows from operations for 2009 and 2010, I will extract the relevant information from the provided context.\n\nFrom the context, specifically the \"Context(table)\" section, we can see the cash flows provided by operating activities for the years 2009 and 2010:\n\n- For 2010, the cash flows provided by operating activities were $515.2 million.\n- For 2009, the cash flows provided by operating activities were $559.7 million.\n\nAdditionally, the \"Context(post-text)\" section clarifies that excluding the impact of the accounting change, the cash flows provided by operations in 2010 were actually $765.2 million. However, since the question specifically asks for the cash flows as presented in the table, we will use the figures from the table.\n\nThus, the cash flows from operations for the years in question are:\n- 2009: $559.7 million\n- 2010: $515.2 million\n\nThe final answer is [Answer: \"2009: $559.7 million; 2010: $515.2 million\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 51,
+            "main_question": "as of december 31 , 2010 , what was the ratio of collateral pledged to the bank by its derivatives counterparties to overnight and other short-term borrowings",
+            "sub_question": "What were the total amounts of collateral pledged by derivatives counterparties and overnight/short-term borrowings as of December 31, 2010?",
+            "answer": {
+                "answer": "$19.8 million",
+                "confidence": "high"
+            },
+            "raw_answer": "To determine the total amounts of collateral pledged by derivatives counterparties and overnight/short-term borrowings as of December 31, 2010, we can extract the relevant information from the provided context.\n\n1. **Collateral pledged by derivatives counterparties**: As of December 31, 2010, the amount was $19.3 million.\n2. **Overnight and other short-term borrowings**: As of December 31, 2010, this included $0.5 million.\n\nNow, we will sum these two amounts to find the total:\n\n- Total collateral = Collateral from derivatives counterparties + Overnight/short-term borrowings\n- Total collateral = $19.3 million + $0.5 million = $19.8 million\n\nThus, the total amounts of collateral pledged by derivatives counterparties and overnight/short-term borrowings as of December 31, 2010, is $19.8 million.\n\nThe final answer is [Answer: \"$19.8 million\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 52,
+            "main_question": "what is the total value , in dollars , of the shares purchasable under the warrant?",
+            "sub_question": "What is the exercise price per share and how many shares can be purchased under the warrant?",
+            "answer": {
+                "answer": "Exercise price per share",
+                "confidence": "high"
+            },
+            "raw_answer": "To answer the question regarding the exercise price per share and the number of shares that can be purchased under the warrant, we can extract the relevant information from the context provided.\n\nFrom the context, it states: \"we issued 20000 shares of our series b fixed-rate cumulative perpetual preferred stock, $ 100000 liquidation preference per share, and a warrant to purchase 5576208 shares of our common stock at an exercise price of $ 53.80 per share.\"\n\nThis gives us the following key pieces of information:\n- The exercise price per share is $53.80.\n- The number of shares that can be purchased under the warrant is 5,576,208 shares.\n\nThus, the final answer is:\nThe final answer is [Answer: \"Exercise price per share: $53.80; Number of shares: 5,576,208\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 53,
+            "main_question": "during 2008 what was the share price of the warrants exercised\\\\n",
+            "sub_question": "What was the exercise price of the warrants that were exercised in 2008?",
+            "answer": {
+                "answer": "Cannot determine the exercise price",
+                "confidence": "low"
+            },
+            "raw_answer": "To determine the exercise price of the warrants that were exercised in 2008, we need to analyze the information provided in the context. \n\nFrom the context, we know that during the year ended December 28, 2008, there were 401,362 warrants exercised, resulting in cash proceeds of $3.0 million. However, the context does not specify which specific warrants were exercised or their corresponding exercise prices.\n\nLooking at the summary of outstanding warrants as of December 28, 2008, we see the following exercise prices:\n\n- 238,510 warrants at $7.27\n- 864,040 warrants at $7.27\n- 809,246 warrants at $10.91\n- 1,125,734 warrants at $10.91\n- 18,322,320 warrants at $31.44\n\nSince the total number of warrants exercised (401,362) could potentially come from any of these categories, we cannot definitively determine the exercise price without additional information specifying which warrants were exercised.\n\nTherefore, based on the available context, I cannot provide a specific exercise price for the warrants exercised in 2008.\n\nThe final answer is [Answer: \"Cannot determine the exercise price\"; Used hints: \"None\"; Confidence: \"low\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 56,
+            "main_question": "what was the percentage change in the weighted average fair value on the date of the award of the common stock",
+            "sub_question": "What were the weighted average fair values of the common stock awards for the years 2015, 2016, and 2017?",
+            "answer": {
+                "answer": "2015",
+                "confidence": "high"
+            },
+            "raw_answer": "To determine the weighted average fair values of the common stock awards for the years 2015, 2016, and 2017, we can extract the relevant information from the context provided.\n\nFrom the context, we have the following data regarding the weighted average fair values of stock awards to outside directors:\n\n- For 2015: $46.21\n- For 2016: $57.37\n- For 2017: $63.43\n\nThese values are explicitly mentioned in the context under the section discussing director awards.\n\nThus, the weighted average fair values of the common stock awards for the years 2015, 2016, and 2017 are as follows:\n\n- 2015: $46.21\n- 2016: $57.37\n- 2017: $63.43\n\nThe final answer is [Answer: \"2015: $46.21, 2016: $57.37, 2017: $63.43\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 59,
+            "main_question": "what was the average number of shares issued to employees from 2013 to 2015",
+            "sub_question": "What is the total number of shares issued to employees from 2013 to 2015?",
+            "answer": {
+                "answer": "1,406,636",
+                "confidence": "high"
+            },
+            "raw_answer": "To find the total number of shares issued to employees from 2013 to 2015, we need to extract the relevant data from the context provided.\n\nFrom the context, we have the following information regarding shares issued under the employee share purchase plan:\n\n- In 2013, 556,000 shares were issued.\n- In 2014, 439,000 shares were issued.\n- In 2015, 411,636 shares were issued.\n\nNow, we can calculate the total number of shares issued over these three years:\n\nTotal shares = Shares in 2013 + Shares in 2014 + Shares in 2015\nTotal shares = 556,000 + 439,000 + 411,636\nTotal shares = 1,406,636\n\nThus, the total number of shares issued to employees from 2013 to 2015 is 1,406,636.\n\nThe final answer is [Answer: \"1,406,636\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 60,
+            "main_question": "what was the percentage change in receivables from brokers with in other current assets from 2009 to 2010?",
+            "sub_question": "What were the values of receivables from brokers for the years 2009 and 2010?",
+            "answer": {
+                "answer": "2010",
+                "confidence": "high"
+            },
+            "raw_answer": "To answer the question regarding the values of receivables from brokers for the years 2009 and 2010, I will refer to the provided context, specifically the table that lists various current assets.\n\nFrom the table in the context, the values for receivables from brokers are as follows:\n- For 2010: $11.2 million\n- For 2009: $8.8 million\n\nThis information directly answers the question about the values of receivables from brokers for the specified years.\n\nThe final answer is [Answer: \"2010: $11.2 million; 2009: $8.8 million\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 62,
+            "main_question": "assuming all options in the compensation plans approved by security holders were exercised , what would be the deemed proceeds to the company?",
+            "sub_question": "What is the total deemed proceeds calculated by multiplying the number of securities to be issued (1,211,143) by the weighted-average exercise price ($308.10)?",
+            "answer": {
+                "answer": "$373,000,000.30",
+                "confidence": "high"
+            },
+            "raw_answer": "To calculate the total deemed proceeds, we need to multiply the number of securities to be issued (1,211,143) by the weighted-average exercise price ($308.10). \n\nHere are the steps:\n\n1. Identify the number of securities to be issued: 1,211,143 (from the table under \"equity compensation plans approved by security holders\").\n2. Identify the weighted-average exercise price: $308.10 (also from the same table).\n3. Multiply these two values: \n\n   Total deemed proceeds = 1,211,143 * $308.10.\n\nNow, performing the multiplication:\n\nTotal deemed proceeds = 1,211,143 * 308.10 = $373,000,000.30 (approximately).\n\nThus, the final answer is [Answer: \"$373,000,000.30\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 63,
+            "main_question": "what is the net change in aon 2019s unpaid restructuring liabilities during 2006?",
+            "sub_question": "What were the total expenses and cash payments related to restructuring liabilities in 2006?",
+            "answer": {
+                "answer": "296 million",
+                "confidence": "high"
+            },
+            "raw_answer": "To determine the total expenses and cash payments related to restructuring liabilities in 2006, we can extract the relevant figures from the provided context.\n\nFrom the context, we see the following information for the year 2006:\n- Expensed in 2006: $155 million\n- Cash payments in 2006: -$141 million (which indicates cash outflow)\n\nNow, we can calculate the total expenses and cash payments for 2006:\n- Total expenses = $155 million\n- Total cash payments = $141 million (considering the negative sign indicates a payment)\n\nThus, the total expenses and cash payments related to restructuring liabilities in 2006 would be:\nTotal = Total expenses + Total cash payments = $155 million + $141 million = $296 million.\n\nThe final answer is [Answer: \"296 million\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 67,
+            "main_question": "in 2012 what was the percent of the total amortized assets that was made of total securities available for sale",
+            "sub_question": "What is the formula to calculate the percentage of total securities available for sale relative to the total carrying amount of investment securities?",
+            "answer": {
+                "answer": "83.0%",
+                "confidence": "high"
+            },
+            "raw_answer": "To calculate the percentage of total securities available for sale relative to the total carrying amount of investment securities, we can use the following formula:\n\n\\[\n\\text{Percentage of Securities Available for Sale} = \\left( \\frac{\\text{Total Securities Available for Sale}}{\\text{Total Carrying Amount of Investment Securities}} \\right) \\times 100\n\\]\n\nFrom the context, we can extract the following key evidence:\n\n1. The total carrying amount of investment securities at December 31, 2012, is $61.4 billion (Context post-text).\n2. The total securities available for sale at December 31, 2012, is $51.0 billion (Context post-text).\n\nNow, substituting these values into the formula:\n\n\\[\n\\text{Percentage of Securities Available for Sale} = \\left( \\frac{51.0 \\text{ billion}}{61.4 \\text{ billion}} \\right) \\times 100\n\\]\n\nCalculating this gives:\n\n\\[\n\\text{Percentage of Securities Available for Sale} \\approx 83.0\\%\n\\]\n\nThus, the final answer is:\n\nThe final answer is [Answer: \"83.0%\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 70,
+            "main_question": "in 2017 what was the percent of the total future estimated cash payments under existing contractual obligations associated with long-term debt that was due in 2018",
+            "sub_question": "What is the formula to calculate the percentage of long-term debt due in 2018 relative to the total long-term debt obligations?",
+            "answer": {
+                "answer": "4.49%",
+                "confidence": "high"
+            },
+            "raw_answer": "To calculate the percentage of long-term debt due in 2018 relative to the total long-term debt obligations, we can use the following formula:\n\n\\[\n\\text{Percentage of Long-Term Debt Due in 2018} = \\left( \\frac{\\text{Long-Term Debt Due in 2018}}{\\text{Total Long-Term Obligations}} \\right) \\times 100\n\\]\n\nFrom the context, we can extract the following values:\n\n- Long-term debt due in 2018: $604.2 million (from the Context(table))\n- Total long-term obligations: $13,440.0 million (from the Context(post-text))\n\nNow, substituting these values into the formula:\n\n\\[\n\\text{Percentage of Long-Term Debt Due in 2018} = \\left( \\frac{604.2}{13440.0} \\right) \\times 100\n\\]\n\nCalculating this gives:\n\n\\[\n\\text{Percentage of Long-Term Debt Due in 2018} \\approx 4.49\\%\n\\]\n\nThus, the final answer is [Answer: \"4.49%\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 78,
+            "main_question": "in millions for the fourth quarters of 2017 and 2016 , what was the total tier 1 capital?",
+            "sub_question": "What were the tier 1 capital amounts for the fourth quarters of 2017 and 2016 as stated in the financial data?",
+            "answer": {
+                "answer": "Tier 1 capital for Q4 2017 was $78,227 million and for Q4 2016 was $81,808 million",
+                "confidence": "high"
+            },
+            "raw_answer": "To answer the question regarding the tier 1 capital amounts for the fourth quarters of 2017 and 2016, I will extract the relevant information from the provided context.\n\nFrom the Context(table), the tier 1 capital amounts are as follows:\n- For the three months ended or as of December 2017: $78,227 million\n- For the three months ended or as of December 2016: $81,808 million\n\nThis information directly answers the question about the tier 1 capital amounts for the specified periods.\n\nThe final answer is [Answer: \"Tier 1 capital for Q4 2017 was $78,227 million and for Q4 2016 was $81,808 million\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 79,
+            "main_question": "the five year total return for the period ending 12/31/2012 on ball corporation stock was how much greater than the same return on the s&p 500?",
+            "sub_question": "What was the total return for Ball Corporation and the S&P 500 at the end of the five-year period?",
+            "answer": {
+                "answer": "Ball Corporation",
+                "confidence": "high"
+            },
+            "raw_answer": "To determine the total return for Ball Corporation and the S&P 500 at the end of the five-year period, we can refer to the provided table in the context.\n\nFrom the table:\n- For Ball Corporation, the total return at the end of the five-year period (12/31/2012) is $207.62.\n- For the S&P 500, the total return at the end of the same period (12/31/2012) is $97.13.\n\nNow, we can summarize the total returns:\n- Ball Corporation: $207.62\n- S&P 500: $97.13\n\nThe final answer is [Answer: \"Ball Corporation: $207.62; S&P 500: $97.13\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 80,
+            "main_question": "the five year total return for the period ending 12/31/2012 on ball corporation stock was how much greater than the same return on the dj us containers & packaging index?",
+            "sub_question": "What was the total return for Ball Corporation and the DJ US Containers & Packaging Index on 12/31/2012?",
+            "answer": {
+                "answer": "Ball Corporation",
+                "confidence": "high"
+            },
+            "raw_answer": "To determine the total return for Ball Corporation and the DJ US Containers & Packaging Index on 12/31/2012, we can refer to the provided table in the context.\n\nFrom the table:\n- For Ball Corporation on 12/31/2012, the total return is $207.62.\n- For the DJ US Containers & Packaging Index on 12/31/2012, the total return is $107.76.\n\nThus, the total returns are:\n- Ball Corporation: $207.62\n- DJ US Containers & Packaging Index: $107.76\n\nThe final answer is [Answer: \"Ball Corporation: $207.62; DJ US Containers & Packaging Index: $107.76\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 83,
+            "main_question": "what percentage of the company's gross liabilities are classified as other long-term liabilities in the accompanying consolidated balance sheets in 2012?",
+            "sub_question": "What is the total gross liability amount for the company as of December 31, 2012?",
+            "answer": {
+                "answer": "$180,993",
+                "confidence": "high"
+            },
+            "raw_answer": "To determine the total gross liability amount for the company as of December 31, 2012, we can refer to the provided context, specifically the table summarizing the changes in the company's gross liability for unrecognized tax benefits.\n\nFrom the table, we see the following relevant information:\n- The balance at December 31, 2012, is $180,993.\n\nAdditionally, the context mentions that the liability balance includes amounts reflected as other long-term liabilities totaling $74,360 as of December 31, 2012. However, the question specifically asks for the total gross liability amount, which is represented by the balance in the table.\n\nTherefore, the total gross liability amount for the company as of December 31, 2012, is $180,993.\n\nThe final answer is [Answer: \"$180,993\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 84,
+            "main_question": "what was the percentage change in the cash dividends paid per common share from 2006 to 2007",
+            "sub_question": "What were the cash dividends paid per common share for 2006 and 2007?",
+            "answer": {
+                "answer": "2006",
+                "confidence": "high"
+            },
+            "raw_answer": "To answer the question regarding the cash dividends paid per common share for 2006 and 2007, I will extract the relevant information from the provided context.\n\nFrom the **Context(table)**, we can see the following data:\n- For 2007, the cash dividends paid per common share were **$1.11**.\n- For 2006, the cash dividends paid per common share were **$1.08**.\n\nThus, the cash dividends paid per common share for 2006 and 2007 are:\n- 2006: $1.08\n- 2007: $1.11\n\nThe final answer is [Answer: \"2006: $1.08, 2007: $1.11\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 87,
+            "main_question": "what is the average share price for the shares issued to employees in 2015 in u.k.?",
+            "sub_question": "What was the total cash received from the shares issued to employees under the U.K. employee share purchase plan in 2015?",
+            "answer": {
+                "answer": "Insufficient information to determine cash received",
+                "confidence": "low"
+            },
+            "raw_answer": "To determine the total cash received from the shares issued to employees under the U.K. employee share purchase plan in 2015, we need to analyze the information provided in the context.\n\n1. The context mentions that the U.K. employee share purchase plan allows for the purchase of shares after a 3-year period, and in 2015, 2,779 shares were issued under this plan.\n2. However, the context does not provide the price at which these shares were sold to employees under the U.K. plan, nor does it specify the fair market value of the shares at the time of purchase.\n3. Without this critical information, we cannot calculate the total cash received from the shares issued.\n\nSince the necessary details to answer the question are missing from the context, I have to conclude that I cannot provide a definitive answer.\n\nThe final answer is [Answer: \"Insufficient information to determine cash received\"; Used hints: \"None\"; Confidence: \"low\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 89,
+            "main_question": "as of december 31 , 2018 what was the percentage decline in the allowance for doubtful accounts",
+            "sub_question": "What was the formula used to calculate the percentage change in the allowance for doubtful accounts from 2017 to 2018?",
+            "answer": {
+                "answer": "Percentage Change = (New Value - Old Value) / Old Value * 100",
+                "confidence": "high"
+            },
+            "raw_answer": "To calculate the percentage change in the allowance for doubtful accounts from 2017 to 2018, we can use the following formula:\n\n\\[\n\\text{Percentage Change} = \\frac{\\text{New Value} - \\text{Old Value}}{\\text{Old Value}} \\times 100\n\\]\n\nIn this context:\n- The \"New Value\" is the allowance for doubtful accounts at the end of 2018, which is $34.3 million.\n- The \"Old Value\" is the allowance for doubtful accounts at the end of 2017, which is $38.9 million.\n\nNow, substituting these values into the formula:\n\n\\[\n\\text{Percentage Change} = \\frac{34.3 - 38.9}{38.9} \\times 100\n\\]\n\nCalculating this gives:\n\n\\[\n\\text{Percentage Change} = \\frac{-4.6}{38.9} \\times 100 \\approx -11.82\\%\n\\]\n\nThus, the formula used to calculate the percentage change in the allowance for doubtful accounts from 2017 to 2018 is the standard percentage change formula.\n\nThe final answer is [Answer: \"Percentage Change = (New Value - Old Value) / Old Value * 100\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 90,
+            "main_question": "what percentage of total number of shares purchased were repurchased in open-market transactions?",
+            "sub_question": "What is the total number of shares purchased and how many of those were repurchased in open-market transactions?",
+            "answer": {
+                "answer": "Total shares purchased",
+                "confidence": "high"
+            },
+            "raw_answer": "To answer the question, I will analyze the provided context step by step.\n\n1. **Total Number of Shares Purchased**: From the Context(table), the total number of shares purchased during the fourth quarter ended December 31, 2004, is 45,686 shares.\n\n2. **Shares Repurchased in Open-Market Transactions**: According to the Context(post-text), 42,749 shares were repurchased in open-market transactions under the Marathon Oil Corporation dividend reinvestment and direct stock purchase plan.\n\nNow, I will summarize the findings:\n\n- Total shares purchased: 45,686\n- Shares repurchased in open-market transactions: 42,749\n\nThe final answer is [Answer: \"Total shares purchased: 45686; Shares repurchased in open-market transactions: 42749\"; Used hints: \"1\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 92,
+            "main_question": "considering the years 2014-2016 , what is the average operating income?",
+            "sub_question": "What is the total operating income for the years 2014, 2015, and 2016?",
+            "answer": {
+                "answer": "$2466.2 million",
+                "confidence": "high"
+            },
+            "raw_answer": "To find the total operating income for the years 2014, 2015, and 2016, we can extract the operating income values from the provided context.\n\nFrom the Context(table):\n- Operating income for 2014: $762.6\n- Operating income for 2015: $808.4\n- Operating income for 2016: $895.2\n\nNow, we will sum these values:\nTotal operating income = 762.6 + 808.4 + 895.2 = 2466.2\n\nThus, the total operating income for the years 2014, 2015, and 2016 is $2466.2 million.\n\nThe final answer is [Answer: \"$2466.2 million\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 95,
+            "main_question": "counting indirect shares , how many shares would arthur d . levinson own in total?",
+            "sub_question": "What is the total number of indirect shares owned by Arthur D. Levinson?",
+            "answer": {
+                "answer": "2000",
+                "confidence": "high"
+            },
+            "raw_answer": "To determine the total number of indirect shares owned by Arthur D. Levinson, we can refer to the provided context. \n\nFrom the context, we see that Arthur D. Levinson has:\n- 2000 shares of common stock that he holds indirectly.\n- Additionally, he has 100,000 shares of common stock that he has the right to acquire by exercise of stock options.\n\nHowever, the question specifically asks for the total number of indirect shares. Therefore, we only consider the 2000 shares that he holds indirectly.\n\nThus, the total number of indirect shares owned by Arthur D. Levinson is 2000.\n\nThe final answer is [Answer: \"2000\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 97,
+            "main_question": "what is the amount of credit lines that has been drawn in millions as of year-end 2016?",
+            "sub_question": "What was the total amount drawn from the available credit lines as of December 31, 2016?",
+            "answer": {
+                "answer": "0",
+                "confidence": "high"
+            },
+            "raw_answer": "To determine the total amount drawn from the available credit lines as of December 31, 2016, we can analyze the provided context. \n\n1. The context states that as of December 31, 2016, there were no borrowings under the credit facility or the commercial paper programs. Specifically, it mentions: \"there were no borrowings under our credit facility as of December 31, 2016 or 2015\" and \"as of December 31, 2016, we had no amount outstanding under either our U.S. or European commercial paper programs.\"\n\n2. Additionally, it mentions that there were other committed and uncommitted credit lines of $746 million with major international banks and financial institutions, but it does not indicate that any of these lines were drawn upon.\n\n3. Therefore, since there were no borrowings under the credit facility or commercial paper programs, and no indication of any amounts drawn from the other credit lines, we can conclude that the total amount drawn from the available credit lines as of December 31, 2016, is $0.\n\nThe final answer is [Answer: \"0\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 98,
+            "main_question": "what is the percentage decrease in receivables from the money pool from 2010 to 2011?",
+            "sub_question": "What were the receivables from the money pool for 2010 and 2011?",
+            "answer": {
+                "answer": "2010",
+                "confidence": "high"
+            },
+            "raw_answer": "To answer the question regarding the receivables from the money pool for 2010 and 2011, I will extract the relevant data from the provided context.\n\nFrom the context, specifically the table section, the receivables from the money pool as of December 31 for the years 2010 and 2011 are as follows:\n\n- For 2010: $63,003 (in thousands)\n- For 2011: $23,596 (in thousands)\n\nThus, the receivables from the money pool for 2010 and 2011 are $63,003,000 and $23,596,000 respectively.\n\nThe final answer is [Answer: \"2010: $63,003, 2011: $23,596\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 103,
+            "main_question": "what is the percentage change in the total fair value of non-vested shares from 2009 to 2010?",
+            "sub_question": "What is the total fair value of non-vested shares for the years ended May 31, 2009, and May 31, 2010?",
+            "answer": {
+                "answer": "$61,830,000",
+                "confidence": "high"
+            },
+            "raw_answer": "To calculate the total fair value of non-vested shares for the years ended May 31, 2009, and May 31, 2010, we need to use the number of non-vested shares and their weighted average grant-date fair value for each year.\n\nFrom the context, we have the following information:\n\n1. For the year ended May 31, 2009:\n   - Non-vested shares: 762,000\n   - Weighted average grant-date fair value: $42\n\n   Total fair value for 2009 = 762,000 shares * $42 = $31,944,000\n\n2. For the year ended May 31, 2010:\n   - Non-vested shares: 713,000\n   - Weighted average grant-date fair value: $42\n\n   Total fair value for 2010 = 713,000 shares * $42 = $29,886,000\n\nNow, we can sum the total fair values for both years:\n\nTotal fair value for 2009 and 2010 = $31,944,000 + $29,886,000 = $61,830,000\n\nThus, the total fair value of non-vested shares for the years ended May 31, 2009, and May 31, 2010, is $61,830,000.\n\nThe final answer is [Answer: \"$61,830,000\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 105,
+            "main_question": "considering the years 2016-2018 , what is the average ending balance for valuation allowances for deferred income tax assets?",
+            "sub_question": "What are the ending balances for valuation allowances for deferred income tax assets for the years 2016, 2017, and 2018?",
+            "answer": {
+                "answer": "2016",
+                "confidence": "high"
+            },
+            "raw_answer": "To answer the question regarding the ending balances for valuation allowances for deferred income tax assets for the years 2016, 2017, and 2018, I will extract the relevant information from the provided context.\n\nFrom the context table, the ending balances for the years are as follows:\n- For 2016: $383,221\n- For 2017: $466,421\n- For 2018: $167,142\n\nThese values are directly taken from the \"ending balance\" row of the table provided in the context.\n\nThe final answer is [Answer: \"2016: $383,221; 2017: $466,421; 2018: $167,142\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 106,
+            "main_question": "what is the estimated percentage of revolving credit facility in relation with the total senior credit facility in millions?",
+            "sub_question": "What is the total amount of the senior credit facility and how much of that is allocated to the revolving credit facility?",
+            "answer": {
+                "answer": "Total senior credit facility",
+                "confidence": "high"
+            },
+            "raw_answer": "To determine the total amount of the senior credit facility and the allocation to the revolving credit facility, we can extract the relevant information from the provided context.\n\n1. The context states that the company maintained a $1.4 billion senior credit facility, which includes a $420.5 million term loan and a $945.5 million revolving credit facility. \n2. The total amount of the senior credit facility is therefore $1.4 billion.\n3. The amount allocated to the revolving credit facility is $945.5 million.\n\nThus, the total amount of the senior credit facility is $1.4 billion, and the amount allocated to the revolving credit facility is $945.5 million.\n\nThe final answer is [Answer: \"Total senior credit facility: $1.4 billion; Revolving credit facility: $945.5 million\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 108,
+            "main_question": "what was the operating expenses in 2006 in millions",
+            "sub_question": "What was the total operating expenses in 2007, and how does it relate to the 9% increase compared to 2006?",
+            "answer": {
+                "answer": "Approximately $2930.89 million in total operating expenses for 2007, reflecting a 9% increase compared to 2006",
+                "confidence": "high"
+            },
+            "raw_answer": "To determine the total operating expenses in 2007 and how it relates to the 9% increase compared to 2006, we can analyze the provided context.\n\n1. **Operating Expenses in 2007**: The context states that the average fuel price increased by 9% in 2007, which added $242 million to operating expenses compared to 2006. This indicates that the increase in operating expenses due to fuel prices was $242 million.\n\n2. **Calculating Total Operating Expenses**: However, the context does not provide the total operating expenses for 2006 directly. We can infer that if the increase of $242 million represents a 9% increase, we can set up the following equation to find the total operating expenses for 2006 (let's denote it as X):\n   \\[\n   0.09X = 242 \\text{ million}\n   \\]\n   Solving for X gives:\n   \\[\n   X = \\frac{242}{0.09} \\approx 2688.89 \\text{ million}\n   \\]\n   Therefore, the total operating expenses for 2006 were approximately $2688.89 million.\n\n3. **Total Operating Expenses for 2007**: To find the total operating expenses for 2007, we add the increase to the 2006 total:\n   \\[\n   \\text{Total Operating Expenses in 2007} = 2688.89 + 242 \\approx 2930.89 \\text{ million}\n   \\]\n\n4. **Relation to the 9% Increase**: The 9% increase in operating expenses is directly related to the increase in fuel prices, which added $242 million to the previous year's expenses.\n\nIn summary, the total operating expenses in 2007 were approximately $2930.89 million, reflecting a 9% increase from the previous year due to rising fuel costs.\n\nThe final answer is [Answer: \"Approximately $2930.89 million in total operating expenses for 2007, reflecting a 9% increase compared to 2006\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 109,
+            "main_question": "what was the decrease in rental expense ( millions ) for operating leases in continuing operations from 2003 to 2003?",
+            "sub_question": "What were the rental expenses for operating leases in continuing operations for the years 2003 and 2002?",
+            "answer": {
+                "answer": "2002",
+                "confidence": "high"
+            },
+            "raw_answer": "To answer the question regarding the rental expenses for operating leases in continuing operations for the years 2003 and 2002, we can extract relevant information from the provided context.\n\n1. **Rental Expenses for 2002**: The context states that the rental expense for operating leases (excluding amounts related to the sale/leaseback) was $31 million in 2002. This is found in the pre-text section of the context.\n\n2. **Rental Expenses for 2003**: The context table provides future minimum lease commitments, but it does not explicitly state the rental expense for 2003. However, it does indicate that the total commitment for 2003 is $30 million, which can be interpreted as the expected rental expense for that year.\n\nThus, the rental expenses for operating leases in continuing operations are:\n- For 2002: $31 million\n- For 2003: $30 million\n\nThe final answer is [Answer: \"2002: $31 million; 2003: $30 million\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 110,
+            "main_question": "what is the growth rate in the price of shares from the highest value during the quarter ended december 31 , 2016 and the closing price on february 17 , 2017?",
+            "sub_question": "What was the highest share price during the quarter ended December 31, 2016?",
+            "answer": {
+                "answer": "$118.09",
+                "confidence": "high"
+            },
+            "raw_answer": "To determine the highest share price during the quarter ended December 31, 2016, I will refer to the provided table in the context. \n\nFrom the table, for the year 2016, the data for the quarter ended December 31 shows:\n- High: $118.09\n- Low: $99.72\n\nThe highest share price during that quarter is clearly indicated as $118.09.\n\nTherefore, the final answer is [Answer: \"$118.09\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 112,
+            "main_question": "what percentage of net assets acquired was considered goodwill?",
+            "sub_question": "What is the formula to calculate the percentage of goodwill relative to the total net assets acquired?",
+            "answer": {
+                "answer": "81.5%",
+                "confidence": "high"
+            },
+            "raw_answer": "To calculate the percentage of goodwill relative to the total net assets acquired, we can use the following formula:\n\n\\[\n\\text{Percentage of Goodwill} = \\left( \\frac{\\text{Goodwill}}{\\text{Total Net Assets Acquired}} \\right) \\times 100\n\\]\n\nFrom the provided context, we have the following values:\n- Goodwill = $13,536 (thousands)\n- Total Net Assets Acquired = $16,594 (thousands)\n\nNow, substituting these values into the formula:\n\n\\[\n\\text{Percentage of Goodwill} = \\left( \\frac{13,536}{16,594} \\right) \\times 100\n\\]\n\nCalculating this gives:\n\n\\[\n\\text{Percentage of Goodwill} \\approx 81.5\\%\n\\]\n\nThus, the final answer is [Answer: \"81.5%\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 113,
+            "main_question": "by what percentage did total residential mortgages increase from 2011 to 2012?",
+            "sub_question": "What is the formula for calculating the percentage increase between two values?",
+            "answer": {
+                "answer": "Percentage Increase = ((New Value - Old Value) / Old Value) * 100",
+                "confidence": "high"
+            },
+            "raw_answer": "To calculate the percentage increase between two values, the formula is:\n\n\\[\n\\text{Percentage Increase} = \\left( \\frac{\\text{New Value} - \\text{Old Value}}{\\text{Old Value}} \\right) \\times 100\n\\]\n\nThis formula allows you to determine how much a value has increased in relation to its original value.\n\nThe final answer is [Answer: \"Percentage Increase = ((New Value - Old Value) / Old Value) * 100\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 114,
+            "main_question": "what was average worldwide net acreage expiring in the total three year period , in millions?",
+            "sub_question": "What is the total net undeveloped acreage expiring worldwide over the three years?",
+            "answer": {
+                "answer": "3879",
+                "confidence": "high"
+            },
+            "raw_answer": "To find the total net undeveloped acreage expiring worldwide over the three years (2014, 2015, and 2016), we need to sum the values from the provided table for each year.\n\nFrom the table:\n- For 2014, the total worldwide net undeveloped acres expiring is 586.\n- For 2015, the total worldwide net undeveloped acres expiring is 3057.\n- For 2016, the total worldwide net undeveloped acres expiring is 236.\n\nNow, we will add these values together:\n\nTotal = 586 (2014) + 3057 (2015) + 236 (2016) = 3879\n\nThus, the total net undeveloped acreage expiring worldwide over the three years is 3879.\n\nThe final answer is [Answer: \"3879\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 115,
+            "main_question": "what was the total after-tax gains in millions for the sale so mastercard shares from 2006 to 2007?",
+            "sub_question": "What were the after-tax gains from the sale of Mastercard shares in 2006 and 2007?",
+            "answer": {
+                "answer": "$445 million",
+                "confidence": "high"
+            },
+            "raw_answer": "To determine the after-tax gains from the sale of Mastercard shares in 2006 and 2007, we can extract the relevant information from the provided context.\n\nFrom the **Context(table)**, we see the following after-tax totals:\n- For 2007, the after-tax gain from the sale of Mastercard shares was **$367 million**.\n- For 2006, the after-tax gain was **$78 million**.\n\nNow, we can summarize the after-tax gains:\n- 2006: $78 million\n- 2007: $367 million\n\nAdding these together gives us the total after-tax gains from the sale of Mastercard shares for both years.\n\nThe final answer is [Answer: \"$445 million\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 116,
+            "main_question": "what is the total in millions of expected cash outflow to satisfy contractual obligations and commitments as of december 31 , 2007?",
+            "sub_question": "What is the sum of capital leases, operating leases, debt principal, debt interest, purchase commitments, pension fundings, and other liabilities for the year 2008?",
+            "answer": {
+                "answer": "$5726 million",
+                "confidence": "high"
+            },
+            "raw_answer": "To find the sum of capital leases, operating leases, debt principal, debt interest, purchase commitments, pension fundings, and other liabilities for the year 2008, we can refer to the provided table in the context.\n\nFrom the table for the year 2008, we have the following values:\n- Capital leases: $108 million\n- Operating leases: $378 million\n- Debt principal: $3,426 million\n- Debt interest: $329 million\n- Purchase commitments: $1,306 million\n- Pension fundings: $101 million\n- Other liabilities: $78 million\n\nNow, we will sum these amounts:\n\n\\[\n\\text{Total} = 108 + 378 + 3426 + 329 + 1306 + 101 + 78\n\\]\n\nCalculating this step-by-step:\n1. \\(108 + 378 = 486\\)\n2. \\(486 + 3426 = 3912\\)\n3. \\(3912 + 329 = 4241\\)\n4. \\(4241 + 1306 = 5547\\)\n5. \\(5547 + 101 = 5648\\)\n6. \\(5648 + 78 = 5726\\)\n\nThus, the total sum for the year 2008 is $5,726 million.\n\nThe final answer is [Answer: \"$5726 million\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 118,
+            "main_question": "by how much did the high of mktx stock increase from 2011 to march 2012?",
+            "sub_question": "What was the highest closing price of MKTX stock in 2011, and what was the highest closing price in the first quarter of 2012?",
+            "answer": {
+                "answer": "Highest closing price in 2011",
+                "confidence": "high"
+            },
+            "raw_answer": "To answer the question, I will extract the relevant information from the provided context.\n\n1. **Highest closing price of MKTX stock in 2011**: \n   - From the table for 2011, the highest closing price is found in the third quarter (July 1, 2011 to September 30, 2011), which is $30.75.\n\n2. **Highest closing price in the first quarter of 2012**: \n   - From the table for 2012, the highest closing price in the first quarter (January 1, 2012 to March 31, 2012) is $37.79.\n\nCombining these findings, the highest closing price of MKTX stock in 2011 was $30.75, and the highest closing price in the first quarter of 2012 was $37.79.\n\nThe final answer is [Answer: \"Highest closing price in 2011: $30.75; Highest closing price in Q1 2012: $37.79\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 119,
+            "main_question": "for equity investment balances including unfunded commitments what was the change in millions between december 31 , 2014 and december 31 , 2013/",
+            "sub_question": "What were the total equity investment balances including unfunded commitments for December 31, 2014, and December 31, 2013?",
+            "answer": {
+                "answer": "Total equity investment balances including unfunded commitments for December 31, 2014",
+                "confidence": "high"
+            },
+            "raw_answer": "To determine the total equity investment balances including unfunded commitments for December 31, 2014, and December 31, 2013, we can extract the relevant figures from the provided context.\n\nFrom the context, we see the following information:\n- For December 31, 2014:\n  - Total equity investments: $10,728 million\n  - Unfunded commitments related to tax credit investments: $717 million\n  - Unfunded commitments related to private equity: $140 million\n\n- For December 31, 2013:\n  - Total equity investments: $10,560 million\n  - Unfunded commitments related to tax credit investments: $802 million\n  - Unfunded commitments related to private equity: $164 million\n\nNow, we can calculate the total equity investment balances including unfunded commitments for both years:\n\n1. **For December 31, 2014:**\n   - Total equity investments: $10,728 million\n   - Total unfunded commitments: $717 million (tax credit) + $140 million (private equity) = $857 million\n   - Total including unfunded commitments: $10,728 million + $857 million = $11,585 million\n\n2. **For December 31, 2013:**\n   - Total equity investments: $10,560 million\n   - Total unfunded commitments: $802 million (tax credit) + $164 million (private equity) = $966 million\n   - Total including unfunded commitments: $10,560 million + $966 million = $11,526 million\n\nThus, the total equity investment balances including unfunded commitments are:\n- December 31, 2014: $11,585 million\n- December 31, 2013: $11,526 million\n\nThe final answer is [Answer: \"Total equity investment balances including unfunded commitments for December 31, 2014: $11,585 million; December 31, 2013: $11,526 million\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 120,
+            "main_question": "what was the net change in tax positions in 2014",
+            "sub_question": "What is the sum of the increases and decreases in current and prior period tax positions for the year 2014?",
+            "answer": {
+                "answer": "$17,290",
+                "confidence": "high"
+            },
+            "raw_answer": "To find the sum of the increases and decreases in current and prior period tax positions for the year 2014, we can extract the relevant figures from the provided context.\n\nFrom the Context(table):\n- Increases in current period tax positions for 2014: $53,818\n- Decreases in prior period measurement of tax positions for 2014: -$36,528\n\nNow, we can calculate the total for 2014:\nTotal = Increases + Decreases\nTotal = $53,818 + (-$36,528) = $53,818 - $36,528 = $17,290\n\nThus, the sum of the increases and decreases in current and prior period tax positions for the year 2014 is $17,290.\n\nThe final answer is [Answer: \"$17,290\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 122,
+            "main_question": "what portion of cash and cash equivalents on hand are held in u.s . as of december 31 , 2016?",
+            "sub_question": "What is the total amount of cash and cash equivalents held in the U.S. as of December 31, 2016?",
+            "answer": {
+                "answer": "$143 million",
+                "confidence": "high"
+            },
+            "raw_answer": "To determine the total amount of cash and cash equivalents held in the U.S. as of December 31, 2016, we need to analyze the provided context for relevant information.\n\nFrom the context, we see that as of December 31, 2016, the company had a total of $327 million in cash and cash equivalents, of which $184 million was held outside of the U.S. \n\nTo find the cash and cash equivalents held in the U.S., we can subtract the amount held outside the U.S. from the total amount:\n\nTotal cash and cash equivalents: $327 million  \nCash held outside the U.S.: $184 million  \n\nCash held in the U.S. = Total cash - Cash held outside the U.S.  \nCash held in the U.S. = $327 million - $184 million = $143 million\n\nThus, the total amount of cash and cash equivalents held in the U.S. as of December 31, 2016, is $143 million.\n\nThe final answer is [Answer: \"$143 million\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 123,
+            "main_question": "as of december 31 , 2010 what percentage of the collateral that it was able to sell , repledge , deliver , or otherwise use was actually used for these purposes?",
+            "sub_question": "What is the ratio of the amount of collateral sold or repledged to the total amount of collateral received as of December 31, 2010?",
+            "answer": {
+                "answer": "0.796",
+                "confidence": "high"
+            },
+            "raw_answer": "To find the ratio of the amount of collateral sold or repledged to the total amount of collateral received as of December 31, 2010, we can extract the relevant figures from the provided context.\n\n1. **Total collateral received**: According to the context, the firm accepted assets as collateral with a fair value of approximately $655.0 billion as of December 31, 2010.\n2. **Total collateral sold or repledged**: The context states that approximately $521.3 billion of the collateral received was sold or repledged.\n\nNow, we can calculate the ratio:\n\n\\[\n\\text{Ratio} = \\frac{\\text{Total collateral sold or repledged}}{\\text{Total collateral received}} = \\frac{521.3 \\text{ billion}}{655.0 \\text{ billion}}\n\\]\n\nCalculating this gives:\n\n\\[\n\\text{Ratio} \\approx 0.796\n\\]\n\nThis means that approximately 79.6% of the collateral received was sold or repledged.\n\nThe final answer is [Answer: \"0.796\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 124,
+            "main_question": "what is the anualized return for s&p 500 from 2012 to 2017?",
+            "sub_question": "What formula should be used to calculate the compound annual growth rate (CAGR) for the S&P 500 over the five-year period?",
+            "answer": {
+                "answer": "CAGR = ((208.14/100)^(1/5)) - 1",
+                "confidence": "high"
+            },
+            "raw_answer": "To calculate the Compound Annual Growth Rate (CAGR) for the S&P 500 over the five-year period, we can use the following formula:\n\n\\[ \\text{CAGR} = \\left( \\frac{\\text{Ending Value}}{\\text{Beginning Value}} \\right)^{\\frac{1}{n}} - 1 \\]\n\nWhere:\n- **Ending Value** is the value of the investment at the end of the period.\n- **Beginning Value** is the value of the investment at the start of the period.\n- **n** is the number of years.\n\nFrom the context provided, we can extract the following values for the S&P 500:\n- **Beginning Value (12/31/2012)**: $100 (as per the assumption in the context)\n- **Ending Value (12/31/2017)**: $208.14 (as per the table)\n\nNow, substituting these values into the CAGR formula:\n\n\\[ \\text{CAGR} = \\left( \\frac{208.14}{100} \\right)^{\\frac{1}{5}} - 1 \\]\n\nThis formula will give us the CAGR for the S&P 500 over the specified five-year period.\n\nThe final answer is [Answer: \"CAGR = ((208.14/100)^(1/5)) - 1\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 129,
+            "main_question": "pursuant to the agreement , on march 30 , 2012 , what was the approximate price for each site the company purchased in thousands",
+            "sub_question": "What is the total purchase price for the 800 communications sites, and how do you calculate the price per site?",
+            "answer": {
+                "answer": "Total purchase price",
+                "confidence": "high"
+            },
+            "raw_answer": "To determine the total purchase price for the 800 communications sites and calculate the price per site, we can extract the relevant information from the context provided.\n\nFrom the context, we see that on March 30, 2012, the company purchased 800 communications sites for an aggregate purchase price of $151.7 million. \n\nTo find the price per site, we can use the following formula:\n\nPrice per site = Total purchase price / Number of sites\n\nSubstituting the values we have:\n\nPrice per site = $151.7 million / 800 sites\n\nNow, let's calculate the price per site:\n\nPrice per site = $151,700,000 / 800 = $189,625\n\nThus, the total purchase price for the 800 communications sites is $151.7 million, and the price per site is $189,625.\n\nThe final answer is [Answer: \"Total purchase price: $151.7 million; Price per site: $189,625\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 131,
+            "main_question": "what is the percent change in total acquisition integration and other expenses from 2006 to 2007?",
+            "sub_question": "What were the total acquisition integration and other expenses for 2006 and 2007?",
+            "answer": {
+                "answer": "31.3 million",
+                "confidence": "high"
+            },
+            "raw_answer": "To find the total acquisition integration and other expenses for 2006 and 2007, we can refer to the provided table in the context. \n\nFrom the table:\n- For 2006, the acquisition integration and other expenses are $6.1 million.\n- For 2007, the acquisition integration and other expenses are $25.2 million.\n\nNow, we can calculate the total for both years:\nTotal for 2006 and 2007 = 6.1 + 25.2 = 31.3 million.\n\nThus, the total acquisition integration and other expenses for 2006 and 2007 is $31.3 million.\n\nThe final answer is [Answer: \"31.3 million\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 135,
+            "main_question": "at december 31 , 2006 , what percentage of total future minimum commitments under existing non-cancelable leases and purchase obligations from lease obligations is due in 2008?",
+            "sub_question": "What is the total amount of future minimum commitments for 2008, and how does it compare to the total future minimum commitments for all years combined?",
+            "answer": {
+                "answer": "Total future minimum commitments for 2008",
+                "confidence": "high"
+            },
+            "raw_answer": "To determine the total amount of future minimum commitments for 2008 and how it compares to the total future minimum commitments for all years combined, we can extract the relevant figures from the provided context.\n\n1. **Future Minimum Commitments for 2008**:\n   - From the context table, the total future minimum commitments for 2008 are:\n     - Lease obligations: $117 million\n     - Purchase obligations: $462 million\n   - Therefore, the total for 2008 is:\n     \\[\n     117 + 462 = 579 \\text{ million}\n     \\]\n\n2. **Total Future Minimum Commitments for All Years Combined**:\n   - The total future minimum commitments for all years (2007, 2008, 2009, 2010, 2011, thereafter) are:\n     - 2007: $2473 million\n     - 2008: $579 million\n     - 2009: $456 million\n     - 2010: $426 million\n     - 2011: $383 million\n     - Thereafter: $1904 million\n   - Adding these amounts together gives:\n     \\[\n     2473 + 579 + 456 + 426 + 383 + 1904 = 5771 \\text{ million}\n     \\]\n\n3. **Comparison**:\n   - The total future minimum commitments for 2008 ($579 million) compared to the total for all years combined ($5771 million) shows that 2008 represents a small fraction of the total commitments.\n\nIn summary, the total amount of future minimum commitments for 2008 is $579 million, and it is significantly less than the total future minimum commitments for all years combined, which is $5771 million.\n\nThe final answer is [Answer: \"Total future minimum commitments for 2008: $579 million; Total for all years combined: $5771 million\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 139,
+            "main_question": "if 2014 underlying operating profit increases at the same pace as 2013 , what would it be , in millions?",
+            "sub_question": "What was the percentage increase in underlying operating profit from 2012 to 2013?",
+            "answer": {
+                "answer": "4.17%",
+                "confidence": "high"
+            },
+            "raw_answer": "To calculate the percentage increase in underlying operating profit from 2012 to 2013, we need to extract the underlying operating profit figures for both years from the provided context.\n\nFrom the Context(table):\n- Underlying operating profit in 2012: $2014 million\n- Underlying operating profit in 2013: $2098 million\n\nNow, we can calculate the percentage increase using the formula:\n\n\\[\n\\text{Percentage Increase} = \\left( \\frac{\\text{New Value} - \\text{Old Value}}{\\text{Old Value}} \\right) \\times 100\n\\]\n\nSubstituting the values:\n\n\\[\n\\text{Percentage Increase} = \\left( \\frac{2098 - 2014}{2014} \\right) \\times 100\n\\]\n\nCalculating the difference:\n\n\\[\n2098 - 2014 = 84\n\\]\n\nNow, substituting back into the formula:\n\n\\[\n\\text{Percentage Increase} = \\left( \\frac{84}{2014} \\right) \\times 100 \\approx 4.17\\%\n\\]\n\nThus, the percentage increase in underlying operating profit from 2012 to 2013 is approximately 4.17%.\n\nThe final answer is [Answer: \"4.17%\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 143,
+            "main_question": "for 2007 and 2006 in millions , what was average residential mortgage loan balance?",
+            "sub_question": "What were the total residential mortgage loans outstanding for 2007 and 2006?",
+            "answer": {
+                "answer": "2007",
+                "confidence": "high"
+            },
+            "raw_answer": "To find the total residential mortgage loans outstanding for 2007 and 2006, I will refer to the provided table in the context. \n\nFrom the table:\n- For December 31, 2007, the residential mortgage loans outstanding were $9,557 million.\n- For December 31, 2006, the residential mortgage loans outstanding were $6,337 million.\n\nThus, the total residential mortgage loans outstanding for the years in question are:\n- 2007: $9,557 million\n- 2006: $6,337 million\n\nThe final answer is [Answer: \"2007: $9,557 million; 2006: $6,337 million\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 144,
+            "main_question": "what would 2015 net revenue have been in millions assuming there was no impact from both the retail electric price change and the impact of volume/weather in the year?",
+            "sub_question": "What was the total impact on 2015 net revenue from the retail electric price changes and volume/weather adjustments combined?",
+            "answer": {
+                "answer": "$282 million",
+                "confidence": "high"
+            },
+            "raw_answer": "To determine the total impact on 2015 net revenue from the retail electric price changes and volume/weather adjustments combined, we can analyze the provided context.\n\nFrom the Context(table), we see the following relevant figures for 2015 net revenue:\n\n- Retail electric price: $187 million\n- Volume/weather: $95 million\n\nNow, we can combine these two figures to find the total impact:\n\nTotal impact = Retail electric price + Volume/weather\nTotal impact = $187 million + $95 million = $282 million\n\nThus, the total impact on 2015 net revenue from the retail electric price changes and volume/weather adjustments combined is $282 million.\n\nThe final answer is [Answer: \"$282 million\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 150,
+            "main_question": "what is the current portion of the present value of lease obligations?",
+            "sub_question": "What is the amount listed as the current portion of the lease obligations in the financial data provided?",
+            "answer": {
+                "answer": "1336",
+                "confidence": "high"
+            },
+            "raw_answer": "To determine the current portion of the lease obligations, we can refer to the financial data provided in the context. Specifically, the context states:\n\n- \"less current portion|-1336 ( 1336 )|\"\n\nThis indicates that the current portion of the lease obligations is $1,336,000.\n\nThus, the final answer is [Answer: \"1336\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 151,
+            "main_question": "what is the total return if 100000 are invested in s&p500 in 2008 and sold in 2011?",
+            "sub_question": "What was the cumulative return of the S&P 500 index from October 26, 2008, to October 30, 2011?",
+            "answer": {
+                "answer": "38.29%",
+                "confidence": "high"
+            },
+            "raw_answer": "To determine the cumulative return of the S&P 500 index from October 26, 2008, to October 30, 2011, we can refer to the provided table in the context. \n\nFrom the table, we see the following values for the S&P 500 index:\n- On October 26, 2008: $100.00\n- On October 30, 2011: $138.29\n\nTo calculate the cumulative return, we can use the formula:\n\n\\[\n\\text{Cumulative Return} = \\left( \\frac{\\text{Ending Value}}{\\text{Beginning Value}} - 1 \\right) \\times 100\n\\]\n\nSubstituting the values:\n\n\\[\n\\text{Cumulative Return} = \\left( \\frac{138.29}{100.00} - 1 \\right) \\times 100 = (1.3829 - 1) \\times 100 = 38.29\\%\n\\]\n\nThus, the cumulative return of the S&P 500 index from October 26, 2008, to October 30, 2011, is 38.29%.\n\nThe final answer is [Answer: \"38.29%\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 156,
+            "main_question": "what was the value in thousands of unvested restricted stock and performance awards at the weighted-averagegrant-datefair value as of december 31 , 2017?\\\\n",
+            "sub_question": "What is the total number of unvested shares and their weighted-average grant-date fair value as of December 31, 2017?",
+            "answer": {
+                "answer": "Total unvested shares",
+                "confidence": "high"
+            },
+            "raw_answer": "To determine the total number of unvested shares and their weighted-average grant-date fair value as of December 31, 2017, we can refer to the provided context.\n\nFrom the \"Context(table)\", we see the following information for December 31, 2017:\n- Unvested shares at December 31, 2017: 1226 (in thousands)\n- Weighted-average grant-date fair value: $78.29\n\nThus, the total number of unvested shares as of December 31, 2017, is 1226 thousand shares, and the weighted-average grant-date fair value is $78.29.\n\nPutting this together, we can conclude:\n\nThe final answer is [Answer: \"Total unvested shares: 1226 thousand; Weighted-average grant-date fair value: $78.29\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 157,
+            "main_question": "what percent of future notes are due by 2017?",
+            "sub_question": "What is the total principal amount of notes due by 2017 compared to the total principal amount of all notes issued?",
+            "answer": {
+                "answer": "The total principal amount of notes due by 2017 is $700 million compared to the total principal amount of all notes issued of $2.2 billion.",
+                "confidence": "high"
+            },
+            "raw_answer": "To determine the total principal amount of notes due by 2017 compared to the total principal amount of all notes issued, we need to extract the relevant information from the provided context.\n\n1. **Identify the notes due by 2017:**\n   - **2017 notes:** $700 million (due in 2017)\n   - **2019 notes:** $1.0 billion (due in 2019, not included in the 2017 total)\n   - **2021 notes:** $0.0 billion (due in 2021, not included in the 2017 total)\n\n   Therefore, the only notes due by 2017 are the 2017 notes, which total $700 million.\n\n2. **Identify the total principal amount of all notes issued:**\n   - **2013 notes:** Not mentioned in the context, so we will not include them.\n   - **2019 notes:** $2.5 billion (aggregate principal amount)\n   - **2017 notes:** $700 million\n   - **2021 notes:** Not included as they are due after 2017.\n\n   The total principal amount of all notes issued is:\n   - 2019 notes: $1.0 billion\n   - 2017 notes: $0.7 billion\n   - Total = $1.0 billion + $0.7 billion = $2.2 billion\n\n3. **Calculate the total principal amount of notes due by 2017 compared to the total principal amount of all notes issued:**\n   - Notes due by 2017: $700 million\n   - Total notes issued: $2.2 billion\n\n4. **Express the comparison:**\n   - The total principal amount of notes due by 2017 is $700 million, while the total principal amount of all notes issued is $2.2 billion.\n\nThe final answer is [Answer: \"The total principal amount of notes due by 2017 is $700 million compared to the total principal amount of all notes issued of $2.2 billion.\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 160,
+            "main_question": "as of december 31 , 2004 , how many shares of common stock were outstanding?",
+            "sub_question": "What was the total number of common shares issued and outstanding before the reverse stock split on November 1, 2004?",
+            "answer": {
+                "answer": "Insufficient information to determine the total number of common shares issued and outstanding before the reverse stock split",
+                "confidence": "low"
+            },
+            "raw_answer": "To determine the total number of common shares issued and outstanding before the reverse stock split on November 1, 2004, we need to analyze the information provided in the context.\n\n1. The context mentions that as of December 31, 2003, the company had 120,000,000 authorized shares of common stock. However, it does not specify the number of shares that were issued and outstanding at that time.\n2. It also states that in 2004, the company had 1,939,734 shares of common stock issued to employees. This figure is for the year 2004, and we need to consider the situation before the reverse stock split.\n3. The reverse stock split was a one-for-three split, which means that for every three shares held, shareholders would receive one share after the split. Therefore, to find the number of shares before the split, we would need to multiply the number of shares after the split by three.\n\nHowever, the context does not provide the total number of shares issued and outstanding before the reverse stock split, nor does it specify the total number of shares outstanding as of November 1, 2004. \n\nGiven this lack of specific information, I cannot definitively calculate the total number of common shares issued and outstanding before the reverse stock split.\n\nThe final answer is [Answer: \"Insufficient information to determine the total number of common shares issued and outstanding before the reverse stock split\"; Used hints: \"None\"; Confidence: \"low\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 163,
+            "main_question": "what was the difference in the companies high compared to its low sales price for the second quarter of 2001?",
+            "sub_question": "What are the high and low sale prices for the company's common stock in the second quarter of 2001?",
+            "answer": {
+                "answer": "High",
+                "confidence": "high"
+            },
+            "raw_answer": "To answer the question regarding the high and low sale prices for the company's common stock in the second quarter of 2001, I will refer to the provided context.\n\nFrom the context, specifically the table section, the high and low sale prices for the second quarter of 2001 are clearly stated:\n\n- High: $52.25\n- Low: $39.95\n\nThus, the high and low sale prices for the company's common stock in the second quarter of 2001 are $52.25 and $39.95, respectively.\n\nThe final answer is [Answer: \"High: $52.25; Low: $39.95\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 165,
+            "main_question": "what was the average total revenue in 1999 , 2000 and 2001?",
+            "sub_question": "What were the total revenue amounts for the years 1999, 2000, and 2001?",
+            "answer": {
+                "answer": "Total revenue for 1999",
+                "confidence": "high"
+            },
+            "raw_answer": "To determine the total revenue amounts for the years 1999, 2000, and 2001, I will extract the relevant information from the provided context.\n\nFrom the context, specifically in the segment information section, the total revenues for the years are as follows:\n- For the year 1999: $206,017\n- For the year 2000: $230,323\n- For the year 2001: $257,685\n\nNow, I will summarize the total revenue amounts for each year:\n\n- 1999: $206,017\n- 2000: $230,323\n- 2001: $257,685\n\nThe final answer is [Answer: \"Total revenue for 1999: $206,017; 2000: $230,323; 2001: $257,685\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 170,
+            "main_question": "what was the percentage change in the minority interest from 2005 to 2006",
+            "sub_question": "What were the minority interest values for 2005 and 2006?",
+            "answer": {
+                "answer": "2005",
+                "confidence": "high"
+            },
+            "raw_answer": "To answer the question regarding the minority interest values for 2005 and 2006, I will extract the relevant information from the provided context.\n\nFrom the context table, we can see the following values for minority interests:\n\n- For 2006: $ -3.7 million\n- For 2005: $ -3.5 million\n\nThese values indicate the minority interests for the respective years.\n\nThus, the final answer is:\nThe final answer is [Answer: \"2005: -3.5 million; 2006: -3.7 million\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 171,
+            "main_question": "what is the percentage decrease in total contingent acquisition payments from 2018-2019?",
+            "sub_question": "What are the total contingent acquisition payments for 2018 and 2019?",
+            "answer": {
+                "answer": "$132.9 million",
+                "confidence": "high"
+            },
+            "raw_answer": "To determine the total contingent acquisition payments for 2018 and 2019, we can refer to the provided table in the context. The table lists the contingent acquisition payments for each year, and we can simply add the amounts for 2018 and 2019.\n\nFrom the table:\n- Total contingent acquisition payments for 2018: $79.0 million\n- Total contingent acquisition payments for 2019: $53.9 million\n\nNow, we add these two amounts together:\n$79.0 million + $53.9 million = $132.9 million\n\nThus, the total contingent acquisition payments for 2018 and 2019 is $132.9 million.\n\nThe final answer is [Answer: \"$132.9 million\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 173,
+            "main_question": "how is the cash flow of entergy gulf states louisiana affected by the balance from money pool from 2007 to 2008 , in thousands?",
+            "sub_question": "What was the change in the money pool balance from 2007 to 2008, and how does this change reflect on the cash flow of Entergy Gulf States Louisiana?",
+            "answer": {
+                "answer": "The change in the money pool balance from 2007 to 2008 was a decrease of $43,920 (in thousands), reflecting tighter cash flow conditions for Entergy Gulf States Louisiana.",
+                "confidence": "high"
+            },
+            "raw_answer": "To determine the change in the money pool balance from 2007 to 2008, we can extract the relevant figures from the provided context. \n\nFrom the Context(table), the money pool balances are as follows:\n- 2007: $55,509 (in thousands)\n- 2008: $11,589 (in thousands)\n\nNow, we can calculate the change in the money pool balance:\nChange = Balance in 2008 - Balance in 2007\nChange = $11,589 - $55,509 = -$43,920 (in thousands)\n\nThis indicates a decrease in the money pool balance of $43,920 (in thousands) from 2007 to 2008.\n\nRegarding how this change reflects on the cash flow of Entergy Gulf States Louisiana, a significant decrease in the money pool balance suggests that the company may have utilized its cash reserves or borrowed funds to meet its capital requirements or operational expenses. This could indicate tighter cash flow conditions, as the company had less cash available in the money pool in 2008 compared to 2007.\n\nThe final answer is [Answer: \"The change in the money pool balance from 2007 to 2008 was a decrease of $43,920 (in thousands), reflecting tighter cash flow conditions for Entergy Gulf States Louisiana.\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 174,
+            "main_question": "what was total acres expiring in millions for other africa?",
+            "sub_question": "What is the sum of net undeveloped acres expiring in 2014 and 2015 for other Africa?",
+            "answer": {
+                "answer": "2794",
+                "confidence": "high"
+            },
+            "raw_answer": "To find the sum of net undeveloped acres expiring in 2014 and 2015 for \"other Africa,\" we can refer to the provided table in the context. \n\nFrom the table:\n- Net undeveloped acres expiring in 2014 for other Africa: 189\n- Net undeveloped acres expiring in 2015 for other Africa: 2605\n\nNow, we will add these two values together:\n189 (2014) + 2605 (2015) = 2794\n\nThus, the sum of net undeveloped acres expiring in 2014 and 2015 for other Africa is 2794.\n\nThe final answer is [Answer: \"2794\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 178,
+            "main_question": "what were total distillates sales in millions for the three year period ? 365 346 345",
+            "sub_question": "What is the sum of the distillate sales volumes for the years 2003, 2002, and 2001?",
+            "answer": {
+                "answer": "1056 thousand barrels per day",
+                "confidence": "high"
+            },
+            "raw_answer": "To find the sum of the distillate sales volumes for the years 2003, 2002, and 2001, we can refer to the provided table in the context. The table shows the following distillate sales volumes:\n\n- 2003: 365 thousand barrels per day\n- 2002: 346 thousand barrels per day\n- 2001: 345 thousand barrels per day\n\nNow, we will sum these values:\n\n365 + 346 + 345 = 1056 thousand barrels per day\n\nThus, the sum of the distillate sales volumes for the years 2003, 2002, and 2001 is 1056 thousand barrels per day.\n\nThe final answer is [Answer: \"1056 thousand barrels per day\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 182,
+            "main_question": "based on the total average price paid per share , what was the total cost of the share repurchases during the 4th quarter of 2004?",
+            "sub_question": "What is the formula to calculate the total cost of share repurchases based on the total number of shares purchased and the average price paid per share?",
+            "answer": {
+                "answer": "$1,724,186.58",
+                "confidence": "high"
+            },
+            "raw_answer": "To calculate the total cost of share repurchases, you can use the formula:\n\n**Total Cost of Share Repurchases = Total Number of Shares Purchased × Average Price Paid Per Share**\n\nFrom the context provided, we can see that the total number of shares purchased during the fourth quarter of 2004 was 45,686 shares, and the average price paid per share was $37.73.\n\nUsing the formula:\nTotal Cost = 45,686 shares × $37.73/share = $1,724,186.58\n\nThis calculation is based on the information provided in the context, specifically from the \"Context(table)\" section where the total number of shares purchased and the average price paid per share are listed.\n\nThe final answer is [Answer: \"$1,724,186.58\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 185,
+            "main_question": "by how much did changes in the company 2019s gross liability increase from 2011 to 2012?",
+            "sub_question": "What was the balance of the company's gross liability at December 31, 2011, and what was it at December 31, 2012?",
+            "answer": {
+                "answer": "The balance of the company's gross liability at December 31, 2011, was $158,578, and at December 31, 2012, it was $180,993.",
+                "confidence": "high"
+            },
+            "raw_answer": "To answer the question regarding the balance of the company's gross liability at December 31, 2011, and December 31, 2012, I will extract the relevant information from the provided context.\n\nFrom the **Context(table)**, we can see the following balances:\n- Balance at December 31, 2011: $158,578\n- Balance at December 31, 2012: $180,993\n\nThis information directly answers the question about the gross liability balances for the specified dates.\n\nThe final answer is [Answer: \"The balance of the company's gross liability at December 31, 2011, was $158,578, and at December 31, 2012, it was $180,993.\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 188,
+            "main_question": "what amount did the compensation committee put into the maximum performance pool between jan 1 2006 and dec 31 2007?",
+            "sub_question": "What was the total return to stockholders during the period from January 1, 2006, to December 31, 2007, and how does it relate to the performance criteria set by the compensation committee?",
+            "answer": {
+                "answer": "The total return to stockholders during the period from January 1, 2006, to December 31, 2007, is not provided in the context, so I cannot determine its relation to the performance criteria.",
+                "confidence": "low"
+            },
+            "raw_answer": "To answer the question regarding the total return to stockholders during the period from January 1, 2006, to December 31, 2007, and its relation to the performance criteria set by the compensation committee, we need to analyze the provided context.\n\n1. **Performance Criteria**: The context mentions a long-term incentive compensation program (the 2005 outperformance plan) that was approved in December 2005. According to this plan, participants were entitled to earn ltip units if the total return to stockholders for the three-year period beginning December 1, 2005, exceeded a cumulative total return to stockholders of 30%. This indicates that the performance criteria were set to measure the total return over a three-year period.\n\n2. **Time Frame**: The question specifically asks about the total return from January 1, 2006, to December 31, 2007. This period is part of the three-year performance measurement period that started in December 2005.\n\n3. **Total Return Calculation**: However, the context does not provide specific figures for the total return to stockholders during the specified period (January 1, 2006, to December 31, 2007). It only mentions that the performance criteria were based on achieving a total return in excess of 30% over a three-year period.\n\n4. **Conclusion**: Since the context does not provide the actual total return figures for the specified period, I cannot definitively answer the question regarding the total return to stockholders or how it relates to the performance criteria.\n\nThe final answer is [Answer: \"The total return to stockholders during the period from January 1, 2006, to December 31, 2007, is not provided in the context, so I cannot determine its relation to the performance criteria.\"; Used hints: \"None\"; Confidence: \"low\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 190,
+            "main_question": "what is the minimum capital requirement as defined by the net capital rule in millions",
+            "sub_question": "What is the minimum capital requirement stated in the net capital rule?",
+            "answer": {
+                "answer": "The context mentions that JPMorgan Chase is required to notify the Securities and Exchange Commission (SEC) if tentative net capital is less than $5.0 billion in accordance with the market and credit risk standards of the net capital rule.",
+                "confidence": "low"
+            },
+            "raw_answer": "The context mentions that JPMorgan Chase is required to notify the Securities and Exchange Commission (SEC) if tentative net capital is less than $5.0 billion in accordance with the market and credit risk standards of the net capital rule."
+        }
+    ],
+    [
+        {
+            "q_no": 191,
+            "main_question": "considering the average exercise price of options , what is the increase in the total value of stock options observed during 2016 and 2017 , in millions of dollars?",
+            "sub_question": "What is the difference in the average exercise price of stock options between 2016 and 2017?",
+            "answer": {
+                "answer": "$6.39",
+                "confidence": "high"
+            },
+            "raw_answer": "To find the difference in the average exercise price of stock options between 2016 and 2017, we can refer to the post-text in the context provided. \n\nFrom the context, we have the following average exercise prices:\n- For 2016, the average exercise price of stock options was $26.93.\n- For 2017, the average exercise price of stock options was $33.32.\n\nNow, we can calculate the difference:\nDifference = Average exercise price in 2017 - Average exercise price in 2016\nDifference = $33.32 - $26.93 = $6.39\n\nThus, the difference in the average exercise price of stock options between 2016 and 2017 is $6.39.\n\nThe final answer is [Answer: \"$6.39\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 192,
+            "main_question": "as of december 2013 what was the value of the equity compensation plans approved by security holders to be issued upon exercise of outstanding options warrants and rights",
+            "sub_question": "What is the total value of the 151,945 securities to be issued, calculated by multiplying the number of securities by the weighted average exercise price of $24.61?",
+            "answer": {
+                "answer": "$3,733,074.45",
+                "confidence": "high"
+            },
+            "raw_answer": "To find the total value of the 151,945 securities to be issued, we need to multiply the number of securities (151,945) by the weighted average exercise price ($24.61).\n\nCalculating this:\n\nTotal Value = Number of Securities × Weighted Average Exercise Price  \nTotal Value = 151,945 × $24.61  \nTotal Value = $3,733,074.45\n\nThus, the total value of the 151,945 securities to be issued is $3,733,074.45.\n\nThe final answer is [Answer: \"$3,733,074.45\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 193,
+            "main_question": "what was the difference in the companies high compared to its low sales price for the fourth quarter of 2001?",
+            "sub_question": "What are the high and low sale prices for the company's common stock in the fourth quarter of 2001?",
+            "answer": {
+                "answer": "High",
+                "confidence": "high"
+            },
+            "raw_answer": "To answer the question regarding the high and low sale prices for the company's common stock in the fourth quarter of 2001, I will refer to the provided context.\n\nFrom the context, specifically the table section, the high and low sale prices for the fourth quarter of 2001 are listed as follows:\n- High: $17.80\n- Low: $11.60\n\nThus, the high and low sale prices for the company's common stock in the fourth quarter of 2001 are clearly stated in the context.\n\nThe final answer is [Answer: \"High: $17.80; Low: $11.60\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 194,
+            "main_question": "in the table , what percentage of total aus net inflows for 2017 were long- term aus liquidity products?",
+            "sub_question": "What is the total amount of net inflows for 2017, and how much of that is specifically from long-term AUS liquidity products?",
+            "answer": {
+                "answer": "Total net inflows for 2017",
+                "confidence": "high"
+            },
+            "raw_answer": "To answer the question, we need to extract the relevant information from the provided context.\n\n1. **Total Net Inflows for 2017**: The context states that total AUS net inflows for 2017 included $23 billion of inflows. This is explicitly mentioned in the pre-text of the context.\n\n2. **Breakdown of Inflows**: The context specifies that out of the $23 billion total inflows, $20 billion was in long-term AUS and $3 billion was in liquidity products. This breakdown is also found in the pre-text.\n\nNow, to summarize the findings:\n- Total net inflows for 2017: $23 billion\n- Inflows from long-term AUS: $20 billion\n- Inflows from liquidity products: $3 billion\n\nThus, the final answer is:\nThe total amount of net inflows for 2017 is $23 billion, with $20 billion specifically from long-term AUS liquidity products. \n\nThe final answer is [Answer: \"Total net inflows for 2017: $23 billion; Inflows from long-term AUS: $20 billion\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 195,
+            "main_question": "what percent did minimum pension liability increase between 2004 and 2006?",
+            "sub_question": "What were the minimum pension liability amounts for 2004 and 2006?",
+            "answer": {
+                "answer": "Minimum pension liability for 2006 is -186 million and for 2004 is -26 million",
+                "confidence": "high"
+            },
+            "raw_answer": "To answer the question regarding the minimum pension liability amounts for 2004 and 2006, I will extract the relevant information from the provided context.\n\nFrom the **Context(table)**, the minimum pension liability amounts are as follows:\n- For 2006: -186 million\n- For 2004: -26 million\n\nThus, the minimum pension liability amounts for the years in question are:\n- 2006: -186 million\n- 2004: -26 million\n\nThe final answer is [Answer: \"Minimum pension liability for 2006 is -186 million and for 2004 is -26 million\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 197,
+            "main_question": "what is the total fair value of non-vested shares as of september 26 , 2009?",
+            "sub_question": "What is the formula to calculate the total fair value of non-vested shares using the number of shares and their weighted-average grant-date fair value?",
+            "answer": {
+                "answer": "Total Fair Value = Number of Shares × Weighted-Average Grant-Date Fair Value",
+                "confidence": "high"
+            },
+            "raw_answer": "To calculate the total fair value of non-vested shares, you can use the following formula:\n\n**Total Fair Value = Number of Shares × Weighted-Average Grant-Date Fair Value**\n\nFrom the context provided, we can see that there are non-vested shares with their respective numbers and weighted-average grant-date fair values. For example, at September 26, 2009, the non-vested shares were 2770 with a weighted-average grant-date fair value of $21.96.\n\nUsing the formula:\nTotal Fair Value = 2770 shares × $21.96 = $60,853.20\n\nThis calculation shows how to derive the total fair value of non-vested shares based on the number of shares and their weighted-average grant-date fair value.\n\nThe final answer is [Answer: \"Total Fair Value = Number of Shares × Weighted-Average Grant-Date Fair Value\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 199,
+            "main_question": "in 2006 what was the percent of the recognized a pre-tax gain to the proceeds of the sale of its global branded pharmaceuticals businesses",
+            "sub_question": "What were the total proceeds and the recognized pre-tax gain from the sale of the global branded pharmaceuticals businesses in 2006?",
+            "answer": {
+                "answer": "Total Proceeds",
+                "confidence": "high"
+            },
+            "raw_answer": "To answer the question regarding the total proceeds and the recognized pre-tax gain from the sale of the global branded pharmaceuticals businesses in 2006, we can extract the relevant information from the context provided.\n\nFrom the context, specifically the section discussing the gain on sale of businesses, we find the following details:\n\n- In December 2006, 3M completed the sale of its global branded pharmaceuticals businesses in the United States, Canada, Latin America, and the Asia Pacific region, including Australia and South Africa.\n- The total proceeds from these transactions were $1.209 billion.\n- The recognized pre-tax gain on sale was $1.074 billion.\n\nThus, the total proceeds and the recognized pre-tax gain from the sale of the global branded pharmaceuticals businesses in 2006 are:\n\n- Total Proceeds: $1.209 billion\n- Recognized Pre-tax Gain: $1.074 billion\n\nThe final answer is [Answer: \"Total Proceeds: $1.209 billion; Recognized Pre-tax Gain: $1.074 billion\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 203,
+            "main_question": "what portion of the woburn property is used by the american tower corporation?",
+            "sub_question": "What is the total square footage occupied by the lease administration office and broadcast division in the Woburn property?",
+            "answer": {
+                "answer": "57100 square feet",
+                "confidence": "high"
+            },
+            "raw_answer": "To determine the total square footage occupied by the lease administration office and broadcast division in the Woburn property, we can refer to the provided context. \n\nFrom the context, specifically in the post-text section, it states: \"approximately 57100 square feet of space is occupied by our lease administration office and our broadcast division.\" \n\nThis directly answers the question regarding the total square footage occupied by those two divisions in the Woburn property.\n\nThe final answer is [Answer: \"57100 square feet\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 204,
+            "main_question": "what percent increase in long-term debt did the floating rate notes maturing in 2010?",
+            "sub_question": "What was the original amount of long-term debt before the issuance of the floating rate notes maturing in 2010?",
+            "answer": {
+                "answer": "$2001.2 million",
+                "confidence": "high"
+            },
+            "raw_answer": "To determine the original amount of long-term debt before the issuance of the floating rate notes maturing in 2010, we need to analyze the context provided.\n\n1. The total long-term debt as of December 31, 2006, is stated as $2,251.2 million.\n2. The context mentions that the company exchanged all of its $250.0 million floating rate notes due 2008 for $250.0 million aggregate principal amount floating rate notes due 2010. This indicates that the issuance of the new floating rate notes did not increase the total long-term debt but rather replaced the old notes.\n3. Therefore, the original amount of long-term debt before the issuance of the floating rate notes maturing in 2010 would still be the total long-term debt minus the amount of the old floating rate notes that were exchanged.\n\nSince the old floating rate notes were $250.0 million, we can calculate:\n\nOriginal long-term debt = Total long-term debt - Old floating rate notes\nOriginal long-term debt = $2,251.2 million - $250.0 million\nOriginal long-term debt = $2,001.2 million\n\nThus, the original amount of long-term debt before the issuance of the floating rate notes maturing in 2010 is $2,001.2 million.\n\nThe final answer is [Answer: \"$2001.2 million\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 208,
+            "main_question": "what was the average construction in progress impairment from 2004 to 2006 im millions",
+            "sub_question": "What were the total construction-in-progress impairment charges for the years 2004, 2005, and 2006?",
+            "answer": {
+                "answer": "$7.9 million",
+                "confidence": "high"
+            },
+            "raw_answer": "To determine the total construction-in-progress impairment charges for the years 2004, 2005, and 2006, I will extract the relevant information from the provided context.\n\nFrom the context, the construction-in-progress impairment charges are as follows:\n- For the year ended December 31, 2004: $4.6 million\n- For the year ended December 31, 2005: $2.3 million\n- For the year ended December 31, 2006: $1.0 million\n\nNow, I will sum these amounts to find the total impairment charges over the three years:\n\nTotal impairment charges = $4.6 million (2004) + $2.3 million (2005) + $1.0 million (2006) = $7.9 million\n\nThus, the total construction-in-progress impairment charges for the years 2004, 2005, and 2006 is $7.9 million.\n\nThe final answer is [Answer: \"$7.9 million\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 209,
+            "main_question": "what was the percentage change in non-interest revenue from 2007 to 2008?",
+            "sub_question": "What were the non-interest revenue figures for 2007 and 2008?",
+            "answer": {
+                "answer": "Non-interest revenue for 2007 was -291 million dollars and for 2008 was 438 million dollars",
+                "confidence": "high"
+            },
+            "raw_answer": "To answer the question regarding the non-interest revenue figures for 2007 and 2008, I will extract the relevant data from the provided context.\n\nFrom the context table, the non-interest revenue figures are as follows:\n- For 2007: -291 million dollars\n- For 2008: 438 million dollars\n\nThus, the non-interest revenue figures for the years in question are:\n- 2007: -291 million dollars\n- 2008: 438 million dollars\n\nThe final answer is [Answer: \"Non-interest revenue for 2007 was -291 million dollars and for 2008 was 438 million dollars\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 210,
+            "main_question": "what percentage of total other current assets is represented by",
+            "sub_question": "What specific item within the other current assets are you interested in calculating the percentage for?",
+            "answer": {
+                "answer": "Cannot determine the specific item for percentage calculation",
+                "confidence": "low"
+            },
+            "raw_answer": "To answer the question regarding calculating the percentage for a specific item within the other current assets, I need to identify which item is being referred to. The context provides a breakdown of various items under \"other current assets\" for the years 2010 and 2009. \n\nFrom the context, the items listed under other current assets for 2010 are:\n- Refundable income tax: $61.0 million\n- Net deferred income taxes: $18.3 million\n- Prepaid technology license and maintenance contracts: $18.0 million\n- Forward contract receivable: $11.8 million\n- Receivables from brokers: $11.2 million\n- Other prepaid expenses: $9.6 million\n- Prepaid insurance: $6.3 million\n- CBOE exercise rights privilege: $2014: $39.8 million\n- Other: $9.9 million\n- Total: $146.1 million\n\nThe question does not specify which item to calculate the percentage for, so I cannot provide a specific percentage calculation without that information. \n\nTherefore, I conclude that I cannot answer the question definitively based on the provided context.\n\nThe final answer is [Answer: \"Cannot determine the specific item for percentage calculation\"; Used hints: \"None\"; Confidence: \"low\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 213,
+            "main_question": "what is the range of height of monopole towers , in feet?",
+            "sub_question": "What is the specified height range for monopole towers as mentioned in the context?",
+            "answer": {
+                "answer": "50 to 200 feet",
+                "confidence": "high"
+            },
+            "raw_answer": "The context specifies that \"a monopole is a tubular structure that is used primarily to address space constraints or aesthetic concerns. Monopoles typically have heights ranging from 50 to 200 feet.\" This directly answers the question regarding the height range for monopole towers.\n\nThe final answer is [Answer: \"50 to 200 feet\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 214,
+            "main_question": "what percentage of total debt maturity occurred in 2018 and thereafter?",
+            "sub_question": "What is the total amount of debt maturing in 2018 and thereafter, and how does it compare to the total debt of $11,664 million?",
+            "answer": {
+                "answer": "The total amount of debt maturing in 2018 and thereafter is $6,725 million, which is approximately 57.6% of the total debt of $11,664 million.",
+                "confidence": "high"
+            },
+            "raw_answer": "To answer the question, we need to extract the relevant information from the provided context regarding the total amount of debt maturing in 2018 and thereafter, and compare it to the total debt.\n\nFrom the context, we see the following information in the table:\n\n- Total debt as of December 31, 2012: $11,664 million\n- Debt maturing in 2018 and thereafter: $6,725 million\n\nNow, we can compare the debt maturing in 2018 and thereafter to the total debt:\n\n1. The total debt is $11,664 million.\n2. The debt maturing in 2018 and thereafter is $6,725 million.\n\nTo compare:\n- The debt maturing in 2018 and thereafter ($6,725 million) is a significant portion of the total debt ($11,664 million).\n\nNow, let's calculate the percentage of the total debt that the 2018 and thereafter debt represents:\n\n\\[\n\\text{Percentage} = \\left( \\frac{6,725}{11,664} \\right) \\times 100 \\approx 57.6\\%\n\\]\n\nThis means that approximately 57.6% of the total debt is maturing in 2018 and thereafter.\n\nThe final answer is [Answer: \"The total amount of debt maturing in 2018 and thereafter is $6,725 million, which is approximately 57.6% of the total debt of $11,664 million.\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 217,
+            "main_question": "what was the percent of the total gains that was from the sales of land",
+            "sub_question": "What is the formula to calculate the percentage of gain on land sales in relation to the total gains from both depreciable properties and land sales?",
+            "answer": {
+                "answer": "10.04%",
+                "confidence": "high"
+            },
+            "raw_answer": "To calculate the percentage of gain on land sales in relation to the total gains from both depreciable properties and land sales, we can use the following formula:\n\n\\[\n\\text{Percentage of Gain on Land Sales} = \\left( \\frac{\\text{Gain on Land Sales}}{\\text{Total Gains from Depreciable Properties and Land Sales}} \\right) \\times 100\n\\]\n\nFrom the context, we have the following values:\n- Gain on Land Sales for 2001: $5,080\n- Gain on Sales of Depreciable Properties for 2001: $45,428\n\nNow, we can calculate the total gains from both sources:\n\n\\[\n\\text{Total Gains} = \\text{Gain on Sales of Depreciable Properties} + \\text{Gain on Land Sales} = 45428 + 5080 = 50508\n\\]\n\nNow, we can substitute these values into the formula:\n\n\\[\n\\text{Percentage of Gain on Land Sales} = \\left( \\frac{5080}{50508} \\right) \\times 100\n\\]\n\nCalculating this gives:\n\n\\[\n\\text{Percentage of Gain on Land Sales} \\approx 10.04\\%\n\\]\n\nThus, the final answer is [Answer: \"10.04%\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 218,
+            "main_question": "what is the after-tax share-based compensation cost in 2010?",
+            "sub_question": "What is the formula to calculate the after-tax share-based compensation cost using the share-based compensation cost and the income tax benefit?",
+            "answer": {
+                "answer": "24.4 million",
+                "confidence": "high"
+            },
+            "raw_answer": "To calculate the after-tax share-based compensation cost, we can use the following formula:\n\n**After-tax share-based compensation cost = Share-based compensation cost - Income tax benefit**\n\nFrom the context, we can extract the following relevant information:\n\n- Share-based compensation cost for 2010: $18.1 million\n- Income tax benefit for 2010: -$6.3 million (which means a benefit of $6.3 million)\n\nUsing the formula:\n\n1. Substitute the values into the formula:\n   - After-tax share-based compensation cost = $18.1 million - (-$6.3 million)\n   - This simplifies to: $18.1 million + $6.3 million = $24.4 million\n\nThus, the after-tax share-based compensation cost for 2010 is $24.4 million.\n\nThe final answer is [Answer: \"24.4 million\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 221,
+            "main_question": "what is the growth rate in the balance of mutual funds in 2010?",
+            "sub_question": "What was the percentage increase in the balance of mutual funds from 2009 to 2010?",
+            "answer": {
+                "answer": "10.24%",
+                "confidence": "high"
+            },
+            "raw_answer": "To calculate the percentage increase in the balance of mutual funds from 2009 to 2010, we can use the following formula:\n\n\\[\n\\text{Percentage Increase} = \\left( \\frac{\\text{New Value} - \\text{Old Value}}{\\text{Old Value}} \\right) \\times 100\n\\]\n\nFrom the context, we have the following values for mutual funds:\n\n- 2009: $6,213\n- 2010: $6,850\n\nNow, we can plug these values into the formula:\n\n\\[\n\\text{Percentage Increase} = \\left( \\frac{6850 - 6213}{6213} \\right) \\times 100\n\\]\n\nCalculating the difference:\n\n\\[\n6850 - 6213 = 637\n\\]\n\nNow, substituting back into the formula:\n\n\\[\n\\text{Percentage Increase} = \\left( \\frac{637}{6213} \\right) \\times 100 \\approx 10.24\\%\n\\]\n\nThus, the percentage increase in the balance of mutual funds from 2009 to 2010 is approximately 10.24%.\n\nThe final answer is [Answer: \"10.24%\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 222,
+            "main_question": "what was the percentage change in the domestic manufacturer 2019s deduction activity from 2012 to 2013",
+            "sub_question": "What were the domestic manufacturer's deduction values for 2012 and 2013?",
+            "answer": {
+                "answer": "Domestic manufacturer's deduction for 2012 was -1.2 and for 2013 was -1.6",
+                "confidence": "high"
+            },
+            "raw_answer": "To answer the question regarding the domestic manufacturer's deduction values for 2012 and 2013, I will extract the relevant information from the provided context.\n\nFrom the Context(table), the values for the domestic manufacturer's deduction are as follows:\n- For 2013: -1.6 (1.6)\n- For 2012: -1.2 (1.2)\n\nThe negative values indicate a deduction, and the numbers in parentheses represent the positive impact of the deduction.\n\nThus, the domestic manufacturer's deduction values are:\n- 2013: -1.6\n- 2012: -1.2\n\nThe final answer is [Answer: \"Domestic manufacturer's deduction for 2012 was -1.2 and for 2013 was -1.6\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 224,
+            "main_question": "what percentage of net assets acquired was considered goodwill?",
+            "sub_question": "What is the formula to calculate the percentage of goodwill relative to net assets acquired?",
+            "answer": {
+                "answer": "81.5%",
+                "confidence": "high"
+            },
+            "raw_answer": "To calculate the percentage of goodwill relative to net assets acquired, we can use the following formula:\n\n\\[\n\\text{Percentage of Goodwill} = \\left( \\frac{\\text{Goodwill}}{\\text{Net Assets Acquired}} \\right) \\times 100\n\\]\n\nFrom the provided context, we have the following values:\n- Goodwill = $13,536,000\n- Net Assets Acquired = $16,594,000\n\nNow, substituting these values into the formula:\n\n\\[\n\\text{Percentage of Goodwill} = \\left( \\frac{13,536}{16,594} \\right) \\times 100\n\\]\n\nCalculating this gives:\n\n\\[\n\\text{Percentage of Goodwill} \\approx 81.5\\%\n\\]\n\nThus, the final answer is [Answer: \"81.5%\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 229,
+            "main_question": "what portion of the total number of securities approved by security holders is issued?",
+            "sub_question": "What is the total number of securities approved by security holders?",
+            "answer": {
+                "answer": "1,708,928",
+                "confidence": "high"
+            },
+            "raw_answer": "To determine the total number of securities approved by security holders, we can refer to the provided table in the context. The relevant information is as follows:\n\n- **Plan Category**: Equity compensation plans approved by security holders\n- **Number of securities to be issued upon exercise of outstanding options, warrants, and rights**: 1,708,928\n\nThis number represents the total number of securities that have been approved by security holders for issuance under the equity compensation plans.\n\nThe final answer is [Answer: \"1,708,928\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 230,
+            "main_question": "what is the 2019 to 2020 projected growth rate for operating lease payments?",
+            "sub_question": "What is the formula to calculate the percentage growth rate between the operating lease payments for 2019 and 2020?",
+            "answer": {
+                "answer": "-9.79%",
+                "confidence": "high"
+            },
+            "raw_answer": "To calculate the percentage growth rate between the operating lease payments for 2019 and 2020, we can use the following formula:\n\n\\[\n\\text{Percentage Growth Rate} = \\left( \\frac{\\text{Value in 2020} - \\text{Value in 2019}}{\\text{Value in 2019}} \\right) \\times 100\n\\]\n\nFrom the context, we can extract the operating lease payments for the years 2019 and 2020:\n\n- Operating lease payments for 2019: $419 million\n- Operating lease payments for 2020: $378 million\n\nNow, substituting these values into the formula:\n\n\\[\n\\text{Percentage Growth Rate} = \\left( \\frac{378 - 419}{419} \\right) \\times 100\n\\]\n\nCalculating this gives:\n\n\\[\n\\text{Percentage Growth Rate} = \\left( \\frac{-41}{419} \\right) \\times 100 \\approx -9.79\\%\n\\]\n\nThis indicates a decrease in operating lease payments from 2019 to 2020.\n\nThe final answer is [Answer: \"-9.79%\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 231,
+            "main_question": "what was the percent change in the aggregate net asset values of the collateral pools underlying ssga lending funds between 2008 and 2009?",
+            "sub_question": "What were the net asset values of the collateral pools underlying SSgA lending funds for the years 2008 and 2009?",
+            "answer": {
+                "answer": "2008",
+                "confidence": "high"
+            },
+            "raw_answer": "To answer the question regarding the net asset values of the collateral pools underlying SSgA lending funds for the years 2008 and 2009, I will extract the relevant information from the provided context.\n\nFrom the Context(table), we can see the following values for the collateral pools underlying SSgA lending funds:\n\n- For December 31, 2008: $31 billion\n- For December 31, 2009: $24 billion\n\nThese values directly answer the question about the net asset values for the specified years.\n\nThe final answer is [Answer: \"2008: $31 billion; 2009: $24 billion\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 234,
+            "main_question": "what is the total fair value of the non-vested performance awards at beginning of year , ( in thousands ) ?",
+            "sub_question": "What is the calculation for the total fair value of non-vested performance awards based on the number of shares and their fair value price per share?",
+            "answer": {
+                "answer": "$30,189,040",
+                "confidence": "high"
+            },
+            "raw_answer": "To calculate the total fair value of non-vested performance awards, we need to use the number of shares and their fair value price per share as provided in the context.\n\nFrom the context, we have the following information:\n- Non-vested performance awards at the end of the year: 509,000 shares\n- Fair value price per share at the end of the year: $59.36\n\nNow, we can calculate the total fair value using the formula:\nTotal Fair Value = Number of Shares × Fair Value Price per Share\n\nSubstituting the values:\nTotal Fair Value = 509,000 shares × $59.36/share = $30,189,040\n\nThus, the total fair value of non-vested performance awards is $30,189,040.\n\nThe final answer is [Answer: \"$30,189,040\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 238,
+            "main_question": "what are the total operating expenses for 2016?",
+            "sub_question": "What is the formula for calculating operating expenses based on net sales and operating profit?",
+            "answer": {
+                "answer": "Operating Expenses = Net Sales - Operating Profit",
+                "confidence": "high"
+            },
+            "raw_answer": "To calculate operating expenses based on net sales and operating profit, we can use the following formula:\n\nOperating Expenses = Net Sales - Operating Profit\n\nThis formula is derived from the basic understanding of how operating profit is calculated. Operating profit is essentially the revenue (net sales) minus the operating expenses. Therefore, rearranging this gives us the formula for operating expenses.\n\nIn the context provided, we can see that net sales and operating profit figures are given for the years 2014, 2015, and 2016. For example, in 2016, net sales were $6,608 million and operating profit was $1,018 million. Using the formula:\n\nOperating Expenses (2016) = Net Sales (2016) - Operating Profit (2016)  \nOperating Expenses (2016) = $6,608 million - $1,018 million  \nOperating Expenses (2016) = $5,590 million\n\nThis calculation can be repeated for other years using their respective figures.\n\nThe final answer is [Answer: \"Operating Expenses = Net Sales - Operating Profit\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 240,
+            "main_question": "what was the sum of the annual long-term debt maturities outstanding as of december 31 , 2017 , for the next five years",
+            "sub_question": "What are the individual amounts of long-term debt maturities for each year from 2018 to 2022?",
+            "answer": {
+                "answer": "2018",
+                "confidence": "high"
+            },
+            "raw_answer": "To answer the question regarding the individual amounts of long-term debt maturities for each year from 2018 to 2022, I will refer to the provided context, specifically the Context(table) which lists the amounts in thousands for each year.\n\nFrom the Context(table), the amounts are as follows:\n- 2018: $760,000\n- 2019: $857,679\n- 2020: $898,500\n- 2021: $960,764\n- 2022: $1,304,431\n\nThese figures represent the long-term debt maturities for each respective year.\n\nThe final answer is [Answer: \"2018: $760,000; 2019: $857,679; 2020: $898,500; 2021: $960,764; 2022: $1,304,431\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 247,
+            "main_question": "at the end of 2016 , what was the average number of berths per ship in the global cruise fleet?",
+            "sub_question": "What is the formula to calculate the average number of berths per ship?",
+            "answer": {
+                "answer": "1,689",
+                "confidence": "high"
+            },
+            "raw_answer": "To calculate the average number of berths per ship, you can use the following formula:\n\nAverage number of berths per ship = Total number of berths / Total number of ships\n\nFrom the context, we know that at the end of 2016, the global cruise fleet had approximately 503,000 berths on approximately 298 ships. \n\nUsing the formula:\nAverage number of berths per ship = 503,000 berths / 298 ships\n\nNow, performing the calculation:\nAverage number of berths per ship ≈ 1,688.6\n\nThus, the average number of berths per ship is approximately 1,689 when rounded to the nearest whole number.\n\nThe final answer is [Answer: \"1,689\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 248,
+            "main_question": "what portion of the total full-time employees of mainline operations are flight attendants?",
+            "sub_question": "What is the ratio of flight attendants to the total number of employees in mainline operations?",
+            "answer": {
+                "answer": "0.243",
+                "confidence": "high"
+            },
+            "raw_answer": "To find the ratio of flight attendants to the total number of employees in mainline operations, we need to extract the relevant numbers from the provided context.\n\nFrom the context table, we see:\n- The number of flight attendants in mainline operations is 24,700.\n- The total number of employees in mainline operations is 101,500.\n\nNow, we can calculate the ratio:\n\n\\[\n\\text{Ratio} = \\frac{\\text{Number of Flight Attendants}}{\\text{Total Number of Employees}} = \\frac{24,700}{101,500}\n\\]\n\nCalculating this gives:\n\n\\[\n\\text{Ratio} \\approx 0.243\n\\]\n\nTo express this as a ratio, we can simplify it to approximately 24.3% or 24.3:100.\n\nThus, the final answer is [Answer: \"0.243\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 249,
+            "main_question": "what percent of total contractual obligations was long-term debt?",
+            "sub_question": "What is the formula to calculate the percentage of long-term debt in relation to total contractual obligations?",
+            "answer": {
+                "answer": "41.5%",
+                "confidence": "high"
+            },
+            "raw_answer": "To calculate the percentage of long-term debt in relation to total contractual obligations, we can use the following formula:\n\n\\[\n\\text{Percentage of Long-term Debt} = \\left( \\frac{\\text{Long-term Debt}}{\\text{Total Contractual Obligations}} \\right) \\times 100\n\\]\n\nFrom the provided context, we can extract the following values:\n\n- Long-term Debt = $1127.6 million\n- Total Contractual Obligations = $2719.3 million\n\nNow, substituting these values into the formula:\n\n\\[\n\\text{Percentage of Long-term Debt} = \\left( \\frac{1127.6}{2719.3} \\right) \\times 100\n\\]\n\nCalculating this gives:\n\n\\[\n\\text{Percentage of Long-term Debt} \\approx 41.5\\%\n\\]\n\nThus, the final answer is [Answer: \"41.5%\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 255,
+            "main_question": "what is the percent of the square foot in millions owned facilities in the us to the to owned facilities",
+            "sub_question": "What is the formula to calculate the percentage of U.S. owned facilities compared to total owned facilities?",
+            "answer": {
+                "answer": "64.1%",
+                "confidence": "high"
+            },
+            "raw_answer": "To calculate the percentage of U.S. owned facilities compared to total owned facilities, we can use the following formula:\n\n\\[\n\\text{Percentage of U.S. owned facilities} = \\left( \\frac{\\text{U.S. owned facilities}}{\\text{Total owned facilities}} \\right) \\times 100\n\\]\n\nFrom the context, we can extract the following data:\n- U.S. owned facilities = 30.7 million square feet\n- Total owned facilities = 47.9 million square feet\n\nNow, substituting these values into the formula:\n\n\\[\n\\text{Percentage of U.S. owned facilities} = \\left( \\frac{30.7}{47.9} \\right) \\times 100\n\\]\n\nCalculating this gives:\n\n\\[\n\\text{Percentage of U.S. owned facilities} \\approx 64.1\\%\n\\]\n\nThus, the final answer is [Answer: \"64.1%\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 256,
+            "main_question": "what is the percentage change in aggregate rent expense from 2012 to 2013?",
+            "sub_question": "What is the formula for calculating percentage change between two values?",
+            "answer": {
+                "answer": "Percentage Change = (New Value - Old Value) / Old Value * 100",
+                "confidence": "high"
+            },
+            "raw_answer": "To calculate the percentage change between two values, the formula is:\n\n\\[\n\\text{Percentage Change} = \\frac{\\text{New Value} - \\text{Old Value}}{\\text{Old Value}} \\times 100\n\\]\n\nThis formula allows you to determine how much a value has increased or decreased in relation to its original value.\n\nThe final answer is [Answer: \"Percentage Change = (New Value - Old Value) / Old Value * 100\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 260,
+            "main_question": "what was the percent change in net unrealized loss on available-for-sale securities between 2008 and 2009?",
+            "sub_question": "What were the net unrealized losses on available-for-sale securities for the years 2008 and 2009?",
+            "answer": {
+                "answer": "2008",
+                "confidence": "high"
+            },
+            "raw_answer": "To answer the question regarding the net unrealized losses on available-for-sale securities for the years 2008 and 2009, I will extract the relevant information from the provided context.\n\nFrom the context, specifically the post-text section, it states:\n- For the year ended December 31, 2009, the net after-tax unrealized loss on available-for-sale securities was $1.64 billion.\n- For the year ended December 31, 2008, the net after-tax unrealized loss on available-for-sale securities was $5.21 billion.\n\nThus, the net unrealized losses on available-for-sale securities for the years in question are:\n- 2009: $1.64 billion\n- 2008: $5.21 billion\n\nThe final answer is [Answer: \"2008: $5.21 billion; 2009: $1.64 billion\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 261,
+            "main_question": "the k series stock outperformed the s&p 500 by what percent over 5 years?",
+            "sub_question": "What were the final cumulative total returns of the K series stock and the S&P 500 at the end of the 5-year period?",
+            "answer": {
+                "answer": "disck",
+                "confidence": "high"
+            },
+            "raw_answer": "To answer the question regarding the final cumulative total returns of the K series stock (disck) and the S&P 500 at the end of the 5-year period, we can extract the relevant data from the provided context.\n\nFrom the Context(table), we can see the values for disck (series C common stock) and the S&P 500 at December 31, 2011:\n\n- For disck (series C common stock) at December 31, 2011: $235.63\n- For the S&P 500 at December 31, 2011: $104.23\n\nNow, we can summarize the findings:\n\n- The final cumulative total return for disck (series C common stock) is $235.63.\n- The final cumulative total return for the S&P 500 is $104.23.\n\nThus, the final answer is:\nThe final answer is [Answer: \"disck: $235.63; S&P 500: $104.23\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 262,
+            "main_question": "what is the total expected payments on the bonds for the next 5 years for entergy louisiana investment recovery funding?",
+            "sub_question": "What are the individual principal payment amounts for each year over the next five years for Entergy Louisiana Investment Recovery Funding?",
+            "answer": {
+                "answer": "2017",
+                "confidence": "high"
+            },
+            "raw_answer": "To answer the question regarding the individual principal payment amounts for each year over the next five years for Entergy Louisiana Investment Recovery Funding, I will extract the relevant information from the provided context.\n\nFrom the context, specifically the pre-text section, it states:\n\n\"entergy louisiana investment recovery funding expects to make principal payments on the bonds over the next five years in the amounts of $ 21.7 million for 2017, $ 22.3 million for 2018, $ 22.7 million for 2019, $ 23.2 million for 2020, and $ 11 million for 2021.\"\n\nThis clearly outlines the expected principal payments for each year:\n\n- 2017: $21.7 million\n- 2018: $22.3 million\n- 2019: $22.7 million\n- 2020: $23.2 million\n- 2021: $11 million\n\nThus, the individual principal payment amounts for each year over the next five years for Entergy Louisiana Investment Recovery Funding are as follows:\n\nThe final answer is [Answer: \"2017: $21.7 million, 2018: $22.3 million, 2019: $22.7 million, 2020: $23.2 million, 2021: $11 million\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 263,
+            "main_question": "what percent would the balance by the end of 2018 increase if the unrecognized tax benefits were included?",
+            "sub_question": "What is the total amount of unrecognized tax benefits that would be included in the balance at the end of 2018?",
+            "answer": {
+                "answer": "$127.1 million",
+                "confidence": "high"
+            },
+            "raw_answer": "To determine the total amount of unrecognized tax benefits that would be included in the balance at the end of 2018, we can refer to the provided context. \n\nFrom the context, specifically the post-text section, it states: \"as of September 30, 2018, the total amount of unrecognized tax benefits was approximately $ 127.1 million.\" This directly answers the question regarding the total amount of unrecognized tax benefits at the end of 2018.\n\nThus, the final answer is [Answer: \"$127.1 million\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 265,
+            "main_question": "what portion of the woburn property owned by the american tower corporation is subleased?",
+            "sub_question": "What is the total square footage of the Woburn property that is leased to unaffiliated tenants?",
+            "answer": {
+                "answer": "105900",
+                "confidence": "high"
+            },
+            "raw_answer": "To determine the total square footage of the Woburn property that is leased to unaffiliated tenants, we can refer to the information provided in the context. \n\nFrom the context, we know that the facility in Woburn contains a total of 163,000 square feet of space. It is stated that approximately 57,100 square feet of this space is occupied by the lease administration office and the broadcast division. Therefore, to find the square footage that is leased to unaffiliated tenants, we need to subtract the space occupied by the lease administration office and the broadcast division from the total square footage.\n\nCalculating this gives us:\nTotal square footage = 163,000 square feet\nSpace occupied by lease administration and broadcast division = 57,100 square feet\n\nSpace leased to unaffiliated tenants = Total square footage - Space occupied\n= 163,000 - 57,100\n= 105,900 square feet\n\nThus, the total square footage of the Woburn property that is leased to unaffiliated tenants is 105,900 square feet.\n\nThe final answer is [Answer: \"105900\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 267,
+            "main_question": "what is the total amount expected to be paid for pensions and retiree medical and other in the next 12 months?",
+            "sub_question": "What are the expected pension and retiree medical payments for the year 2015?",
+            "answer": {
+                "answer": "Pension",
+                "confidence": "high"
+            },
+            "raw_answer": "To determine the expected pension and retiree medical payments for the year 2015, we can refer to the provided table in the context. The table lists the expected payments for pension and retiree medical and other for the years 2011 to 2016.\n\nFrom the table, we can extract the following data for the year 2015:\n\n- Pension payments: 785 million\n- Retiree medical and other payments: 173 million\n\nNow, we can summarize the expected payments for 2015:\n\n- Total expected payments for 2015 = Pension payments + Retiree medical payments\n- Total expected payments for 2015 = 785 million + 173 million = 958 million\n\nThus, the expected pension and retiree medical payments for the year 2015 are 785 million for pension and 173 million for retiree medical.\n\nThe final answer is [Answer: \"Pension: 785 million; Retiree medical: 173 million\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 269,
+            "main_question": "what percentage of unrecognized tax benefits , in 2008 , is from tax benefits that would impact effective tax rate if recognized?",
+            "sub_question": "What is the formula to calculate the percentage of tax benefits impacting the effective tax rate relative to the total unrecognized tax benefits?",
+            "answer": {
+                "answer": "88.5%",
+                "confidence": "high"
+            },
+            "raw_answer": "To calculate the percentage of tax benefits impacting the effective tax rate relative to the total unrecognized tax benefits, we can use the following formula:\n\n\\[\n\\text{Percentage} = \\left( \\frac{\\text{Tax Benefits impacting Effective Tax Rate}}{\\text{Total Unrecognized Tax Benefits}} \\right) \\times 100\n\\]\n\nFrom the context provided, we can extract the following key evidence:\n\n1. The total amount of unrecognized tax benefits as of December 31, 2008, is $148.8 million.\n2. The amount of tax benefits that, if recognized, would impact the effective tax rate is $131.8 million.\n\nUsing these figures in the formula:\n\n\\[\n\\text{Percentage} = \\left( \\frac{131.8}{148.8} \\right) \\times 100 \\approx 88.5\\%\n\\]\n\nThus, the percentage of tax benefits impacting the effective tax rate relative to the total unrecognized tax benefits is approximately 88.5%.\n\nThe final answer is [Answer: \"88.5%\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 270,
+            "main_question": "in october 2015 , what was the ratio of the entergy recorded a regulatory liability to the tax liability",
+            "sub_question": "What were the total regulatory liability and the net-of-tax amount recorded by Entergy in October 2015?",
+            "answer": {
+                "answer": "Total regulatory liability",
+                "confidence": "high"
+            },
+            "raw_answer": "To answer the question regarding the total regulatory liability and the net-of-tax amount recorded by Entergy in October 2015, we can extract the relevant information from the provided context.\n\nFrom the context, we see that:\n- Entergy recorded a regulatory liability of $107 million in October 2015 due to the business combination of Entergy Gulf States Louisiana and Entergy Louisiana.\n- The net-of-tax amount associated with this regulatory liability is stated as $66 million.\n\nThus, the total regulatory liability recorded by Entergy in October 2015 is $107 million, and the net-of-tax amount is $66 million.\n\nThe final answer is [Answer: \"Total regulatory liability: $107 million; Net-of-tax amount: $66 million\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 275,
+            "main_question": "as a result of the sales of certain non-core towers and other assets what was the percent of the change in the recorded net losses from 2007 to 2008",
+            "sub_question": "What were the recorded net losses for the years 2007 and 2008?",
+            "answer": {
+                "answer": "Net loss for 2008",
+                "confidence": "high"
+            },
+            "raw_answer": "To answer the question regarding the recorded net losses for the years 2007 and 2008, I will extract the relevant information from the provided context.\n\n1. For the year ended December 31, 2008, the context states:\n   - \"the net loss for the year ended December 31, 2008 is comprised of net losses from asset sales and other impairments of $10.7 million, offset by gains from asset sales of $0.2 million.\"\n   - Therefore, the net loss for 2008 is $10.7 million.\n\n2. For the year ended December 31, 2007, the context states:\n   - \"the net loss for the year ended December 31, 2007 is comprised of net losses from asset sales and other impairments of $7.8 million, offset by gains from asset sales of $0.7 million.\"\n   - Therefore, the net loss for 2007 is $7.8 million.\n\nCombining these findings, the recorded net losses are:\n- 2008: $10.7 million\n- 2007: $7.8 million\n\nThe final answer is [Answer: \"Net loss for 2008: $10.7 million; Net loss for 2007: $7.8 million\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 277,
+            "main_question": "what percent of future commitments are due after 2020?",
+            "sub_question": "What is the total amount of future commitments due after 2020 compared to the overall total future commitments?",
+            "answer": {
+                "answer": "Approximately 46.5% of the total future commitments are due after 2020",
+                "confidence": "high"
+            },
+            "raw_answer": "To determine the total amount of future commitments due after 2020 compared to the overall total future commitments, we can extract the relevant information from the provided context.\n\n1. **Future Minimum Commitments**: The context table provides the future minimum commitments under operating leases:\n   - 2016: $134 million\n   - 2017: $133 million\n   - 2018: $131 million\n   - 2019: $125 million\n   - 2020: $120 million\n   - Thereafter: $560 million\n   - Total: $1,203 million\n\n2. **Total Future Commitments**: The total future commitments amount to $1,203 million.\n\n3. **Future Commitments After 2020**: The commitments due after 2020 are specified as \"thereafter,\" which amounts to $560 million.\n\n4. **Comparison**: To find the comparison, we can express the commitments due after 2020 as a fraction of the total commitments:\n   - Commitments after 2020: $560 million\n   - Total commitments: $1,203 million\n\n5. **Calculating the Ratio**: \n   \\[\n   \\text{Ratio} = \\frac{\\text{Commitments after 2020}}{\\text{Total Commitments}} = \\frac{560}{1203} \\approx 0.465\n   \\]\n   This means that approximately 46.5% of the total future commitments are due after 2020.\n\nThe final answer is [Answer: \"Approximately 46.5% of the total future commitments are due after 2020\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 278,
+            "main_question": "what portion of the total leased locations are in texas?",
+            "sub_question": "What is the total number of leased locations across all states?",
+            "answer": {
+                "answer": "211",
+                "confidence": "high"
+            },
+            "raw_answer": "To determine the total number of leased locations across all states, we can extract the relevant information from the provided context. \n\nFrom the \"Context(table)\", we see the following breakdown of leased locations by state:\n\n- California: 57\n- Florida: 26\n- Georgia: 22\n- Texas: 19\n- Minnesota/New York: 9\n- Illinois/Ohio/Maryland: 8\n- Pennsylvania: 7\n- Other: 63\n\nNow, we will sum these numbers to find the total:\n\n57 (California) + 26 (Florida) + 22 (Georgia) + 19 (Texas) + 9 (Minnesota/New York) + 8 (Illinois/Ohio/Maryland) + 7 (Pennsylvania) + 63 (Other) = 211\n\nThus, the total number of leased locations across all states is 211.\n\nThe final answer is [Answer: \"211\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 281,
+            "main_question": "what is the increase of the total trading assets between the years 2007 and 2008 , in millions of dollars?",
+            "sub_question": "What were the total trading assets for the years 2007 and 2008?",
+            "answer": {
+                "answer": "Total trading assets for 2007",
+                "confidence": "high"
+            },
+            "raw_answer": "To find the total trading assets for the years 2007 and 2008, we need to look at the trading assets data provided in the context. \n\nFrom the context table, we can extract the following information:\n\n- For the year 2007, the trading assets were:\n  - Debt and equity instruments: $381,415 million\n  - Derivative receivables: $65,439 million\n  - Total trading assets for 2007 = $381,415 million + $65,439 million = $446,854 million\n\n- For the year 2008, the trading assets were:\n  - Debt and equity instruments: $384,102 million\n  - Derivative receivables: $121,417 million\n  - Total trading assets for 2008 = $384,102 million + $121,417 million = $505,519 million\n\nNow, we can summarize the total trading assets for both years:\n\n- Total trading assets for 2007: $446,854 million\n- Total trading assets for 2008: $505,519 million\n\nThe final answer is [Answer: \"Total trading assets for 2007: $446,854 million; Total trading assets for 2008: $505,519 million\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 283,
+            "main_question": "what is the net increase in outstanding shares during the period of 2016 to 2018 , in millions?",
+            "sub_question": "What was the difference in the number of outstanding shares between December 31, 2016, and December 29, 2018?",
+            "answer": {
+                "answer": "3 million",
+                "confidence": "high"
+            },
+            "raw_answer": "To find the difference in the number of outstanding shares between December 31, 2016, and December 29, 2018, we need to extract the number of outstanding shares from the provided context.\n\nFrom the Context(table):\n- The number of outstanding shares on December 31, 2016, was 1217 million.\n- The number of outstanding shares on December 29, 2018, was 1220 million.\n\nNow, we can calculate the difference:\n1220 million (December 29, 2018) - 1217 million (December 31, 2016) = 3 million.\n\nThus, the difference in the number of outstanding shares is 3 million.\n\nThe final answer is [Answer: \"3 million\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 285,
+            "main_question": "what is the percentage change in aggregate rent expense from 2013 to 2014?",
+            "sub_question": "What is the formula for calculating percentage change between two values?",
+            "answer": {
+                "answer": "Percentage Change = (New Value - Old Value) / Old Value * 100",
+                "confidence": "high"
+            },
+            "raw_answer": "To calculate the percentage change between two values, the formula is:\n\n\\[\n\\text{Percentage Change} = \\frac{\\text{New Value} - \\text{Old Value}}{\\text{Old Value}} \\times 100\n\\]\n\nThis formula allows you to determine how much a value has increased or decreased in relation to its original value.\n\nThe final answer is [Answer: \"Percentage Change = (New Value - Old Value) / Old Value * 100\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 286,
+            "main_question": "at december 31 2009 what was the ratio of the aggregate cost to the fair value of the loans held-for-sale that are carried at locom",
+            "sub_question": "What is the formula to calculate the ratio of aggregate cost to fair value?",
+            "answer": {
+                "answer": "The formula to calculate the ratio of aggregate cost to fair value is Aggregate Cost / Fair Value",
+                "confidence": "high"
+            },
+            "raw_answer": "To calculate the ratio of aggregate cost to fair value, the formula is:\n\n\\[ \\text{Ratio} = \\frac{\\text{Aggregate Cost}}{\\text{Fair Value}} \\]\n\nThis formula allows us to understand how the cost of an asset compares to its fair market value. \n\nIn the context provided, we can see that the aggregate cost and fair value for the years 2008 and 2009 are given in the table. However, the question specifically asks for the formula, not the calculation for those years.\n\nThe final answer is [Answer: \"The formula to calculate the ratio of aggregate cost to fair value is Aggregate Cost / Fair Value\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 289,
+            "main_question": "what portion of future lease payments are due after 5 years?",
+            "sub_question": "What is the total amount of future lease payments categorized as \"thereafter\" in the provided data?",
+            "answer": {
+                "answer": "$4,214,600,000",
+                "confidence": "high"
+            },
+            "raw_answer": "To determine the total amount of future lease payments categorized as \"thereafter,\" we can refer to the provided data in the context. The \"thereafter\" category indicates the total future minimum rental payments under non-cancellable operating leases that extend beyond the year 2019.\n\nFrom the context table, the amount listed for \"thereafter\" is $4,214,600 (in thousands). This means that the total amount of future lease payments categorized as \"thereafter\" is $4,214,600,000 when converted from thousands to the full amount.\n\nThe final answer is [Answer: \"$4,214,600,000\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 290,
+            "main_question": "by what percentage did average borrowings decrease from 2016 to 2017?",
+            "sub_question": "What is the formula for calculating the percentage decrease between two values?",
+            "answer": {
+                "answer": "Percentage Decrease = (Old Value - New Value) / Old Value * 100",
+                "confidence": "high"
+            },
+            "raw_answer": "To calculate the percentage decrease between two values, you can use the following formula:\n\n\\[\n\\text{Percentage Decrease} = \\frac{\\text{Old Value} - \\text{New Value}}{\\text{Old Value}} \\times 100\n\\]\n\nIn this formula:\n- **Old Value** is the initial value before the decrease.\n- **New Value** is the value after the decrease.\n\nThis formula helps to quantify how much a value has decreased in relation to its original amount.\n\nThe final answer is [Answer: \"Percentage Decrease = (Old Value - New Value) / Old Value * 100\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 291,
+            "main_question": "considering the contractual obligations in which payments due by 1-3 years , what is the percentage of the operating leases in relation to the total obligations?",
+            "sub_question": "What are the values of operating leases and total obligations for payments due by 1-3 years?",
+            "answer": {
+                "answer": "Operating leases",
+                "confidence": "high"
+            },
+            "raw_answer": "To answer the question, I will extract the relevant information from the provided context.\n\n1. **Operating Leases for 1-3 Years**: According to the table in the context, the payments due for operating leases in the 1-3 years category is $13,789.\n\n2. **Total Obligations for 1-3 Years**: The total obligations for payments due in the 1-3 years category is $16,054, as indicated in the same table.\n\nCombining these two pieces of information, I can summarize the values:\n\n- Operating leases (1-3 years): $13,789\n- Total obligations (1-3 years): $16,054\n\nThus, the final answer is:\n\nThe final answer is [Answer: \"Operating leases: $13,789; Total obligations: $16,054\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 295,
+            "main_question": "at december 31 , 2012 , for unpaid principal balance outstanding of loans sold as a participant in these programs , what was the percentage of potential maximum exposure under the loss share arrangements?",
+            "sub_question": "What is the formula to calculate the percentage of potential maximum exposure based on the unpaid principal balance and the potential maximum exposure amount?",
+            "answer": {
+                "answer": "The formula is (Potential Maximum Exposure / Unpaid Principal Balance) x 100",
+                "confidence": "high"
+            },
+            "raw_answer": "To calculate the percentage of potential maximum exposure based on the unpaid principal balance and the potential maximum exposure amount, you can use the following formula:\n\n\\[\n\\text{Percentage of Potential Maximum Exposure} = \\left( \\frac{\\text{Potential Maximum Exposure}}{\\text{Unpaid Principal Balance}} \\right) \\times 100\n\\]\n\nFrom the context, we have the following relevant data:\n\n- For December 31, 2012:\n  - Unpaid Principal Balance: $12.8 billion\n  - Potential Maximum Exposure: $3.9 billion\n\nUsing the formula:\n\n\\[\n\\text{Percentage of Potential Maximum Exposure} = \\left( \\frac{3.9 \\text{ billion}}{12.8 \\text{ billion}} \\right) \\times 100\n\\]\n\nCalculating this gives:\n\n\\[\n\\text{Percentage of Potential Maximum Exposure} = \\left( \\frac{3.9}{12.8} \\right) \\times 100 \\approx 30.47\\%\n\\]\n\nThus, the formula to calculate the percentage of potential maximum exposure is confirmed, and the specific values from the context were used to illustrate how to apply it.\n\nThe final answer is [Answer: \"The formula is (Potential Maximum Exposure / Unpaid Principal Balance) x 100\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 300,
+            "main_question": "what was the percentage change in non-interest revenue from 2006 to 2007?",
+            "sub_question": "What were the non-interest revenue amounts for 2006 and 2007?",
+            "answer": {
+                "answer": "For 2006",
+                "confidence": "high"
+            },
+            "raw_answer": "To answer the question regarding the non-interest revenue amounts for 2006 and 2007, I will extract the relevant data from the provided context.\n\nFrom the context table, the non-interest revenue amounts are as follows:\n- For 2006: -599 million dollars\n- For 2007: -291 million dollars\n\nThese figures are directly stated in the context table under the \"non-interest revenue\" row.\n\nThus, the non-interest revenue amounts for 2006 and 2007 are -599 million and -291 million dollars, respectively.\n\nThe final answer is [Answer: \"For 2006: -599 million; For 2007: -291 million\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 307,
+            "main_question": "what is the 2019 to 2020 projected growth rate for capital lease payments?",
+            "sub_question": "What were the capital lease payments for 2019 and 2020?",
+            "answer": {
+                "answer": "2019",
+                "confidence": "high"
+            },
+            "raw_answer": "To determine the capital lease payments for 2019 and 2020, we can refer to the provided table in the context. The table outlines the future minimum lease payments for capital leases for the years 2019 and 2020.\n\nFrom the table:\n- For 2019, the capital lease payment is $148 million.\n- For 2020, the capital lease payment is $155 million.\n\nThus, the capital lease payments for the specified years are as follows:\n\nThe final answer is [Answer: \"2019: $148 million; 2020: $155 million\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 308,
+            "main_question": "what is the percent change in expected volatility between 2012 and 2013?",
+            "sub_question": "What were the expected volatility percentages for 2012 and 2013?",
+            "answer": {
+                "answer": "2013",
+                "confidence": "high"
+            },
+            "raw_answer": "To answer the question regarding the expected volatility percentages for 2012 and 2013, I will extract the relevant information from the provided context.\n\nFrom the Context(table), the expected volatility percentages are as follows:\n- For 2013: 22.1%\n- For 2012: 24.0%\n\nThus, the expected volatility percentages for the years in question are clearly stated in the context.\n\nThe final answer is [Answer: \"2013: 22.1%; 2012: 24.0%\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 310,
+            "main_question": "what was the percentage decrease in the weighted average interest rates on outstanding borrowings from 2010 to 2011",
+            "sub_question": "What were the weighted average interest rates on outstanding borrowings for the years ended December 31, 2010, and 2011?",
+            "answer": {
+                "answer": "5.3% for 2010 and 3.5% for 2011",
+                "confidence": "high"
+            },
+            "raw_answer": "To answer the question regarding the weighted average interest rates on outstanding borrowings for the years ended December 31, 2010, and 2011, I will extract the relevant information from the provided context.\n\nFrom the context, I found the following information:\n- The weighted average interest rates on outstanding borrowings were:\n  - 3.5% for the year ended December 31, 2011\n  - 5.3% for the year ended December 31, 2010\n\nThis information is explicitly stated in the context, which provides a clear answer to the question.\n\nTherefore, the final answer is:\nThe weighted average interest rates on outstanding borrowings for the years ended December 31, 2010, and 2011 were 5.3% and 3.5%, respectively. \n\nThe final answer is [Answer: \"5.3% for 2010 and 3.5% for 2011\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ],
+    [
+        {
+            "q_no": 313,
+            "main_question": "how bigger were the interest and penalties concerning the interest income in the year 2015?",
+            "sub_question": "What were the total amounts recognized for interest and penalties and interest income in 2015?",
+            "answer": {
+                "answer": "$10",
+                "confidence": "high"
+            },
+            "raw_answer": "To determine the total amounts recognized for interest and penalties and interest income in 2015, we can extract the relevant information from the provided context.\n\n1. **Interest and Penalties Recognized in 2015**: According to the post-text, Alcoa recognized $8 in interest and penalties in 2015.\n2. **Interest Income Recognized in 2015**: The post-text also states that Alcoa recognized $2 in interest income in 2015.\n\nNow, we can calculate the total amounts recognized for both categories in 2015:\n\n- Total Interest and Penalties: $8\n- Total Interest Income: $2\n\nAdding these amounts together gives us:\n\nTotal = $8 (interest and penalties) + $2 (interest income) = $10\n\nThus, the total amounts recognized for interest and penalties and interest income in 2015 is $10.\n\nThe final answer is [Answer: \"$10\"; Used hints: \"None\"; Confidence: \"high\"]."
+        }
+    ]
+]

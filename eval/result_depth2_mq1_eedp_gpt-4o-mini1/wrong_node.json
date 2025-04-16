@@ -1,0 +1,1550 @@
+[
+    [
+        {
+            "q_no": 4,
+            "main_question": "what was the difference in percentage cumulative total shareholder return on masco common stock versus the s&p 500 index for the five year period ended 2017?",
+            "sub_question": "What were the cumulative total returns of Masco common stock and the S&P 500 index at the end of 2017?",
+            "answer": {
+                "answer": "Masco",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: Cumulative total return refers to the total change in value of an investment over a specified period, including both capital gains and reinvested dividends. To find the cumulative total returns for Masco common stock and the S&P 500 index at the end of 2017, we need to look at the values provided in the table for the year 2017.\n\nGold Evidences:\n- The cumulative total return for Masco common stock at the end of 2017 is $318.46.\n- The cumulative total return for the S&P 500 index at the end of 2017 is $206.49.\n\nSteps:\n1. Identify the cumulative total return for Masco in 2017.\n   - Response 1: Masco = $318.46\n2. Identify the cumulative total return for the S&P 500 index in 2017.\n   - Response 2: S&P 500 = $206.49\n\nThe final answer is [Answer: \"Masco: $318.46; S&P 500: $206.49\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 5,
+            "main_question": "what was the percentage change in total rental expense under operating leases from july 2 , 2005 to july 1 , 2006?",
+            "sub_question": "What were the total rental expenses under operating leases for July 2, 2005, and July 1, 2006?",
+            "answer": {
+                "answer": "$193,400,000",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: Rental expenses under operating leases refer to the costs incurred by a company for leasing assets rather than purchasing them. To find the total rental expenses for the specified years, we need to extract the rental expense values for both July 2, 2005, and July 1, 2006, from the provided context.\n\nGold Evidences:\n- The total rental expense under operating leases was $100,690,000 in fiscal 2006 (July 1, 2006).\n- The total rental expense under operating leases was $92,710,000 in fiscal 2005 (July 2, 2005).\n\nSteps:\n1. Identify the rental expense for July 1, 2006.\n   - Response 1: $100,690,000\n2. Identify the rental expense for July 2, 2005.\n   - Response 2: $92,710,000\n3. Combine the two rental expenses to find the total.\n   - Response 3: $100,690,000 + $92,710,000 = $193,400,000\n\nThe final answer is [Answer: \"$193,400,000\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 19,
+            "main_question": "in 2010 and 2009 , what was the total fair value in billions of assets segregated for the benefit of securities and futures brokerage customers?",
+            "sub_question": "What were the fair values of the segregated assets for the years 2010 and 2009?",
+            "answer": {
+                "answer": "2010",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: The fair value of segregated assets refers to the market value of assets that are set aside for specific purposes, in this case, for the benefit of securities and futures brokerage customers. To find the fair values of the segregated assets for the years 2010 and 2009, we need to extract the relevant figures from the provided data.\n\nGold Evidences:\n- The fair value of segregated assets in 2010 is $9.7 billion.\n- The fair value of segregated assets in 2009 is $10.2 billion.\n\nSteps:\n1. Identify the fair value of segregated assets for 2010.\n   - Response 1: Fair value in 2010 = $9.7 billion.\n   \n2. Identify the fair value of segregated assets for 2009.\n   - Response 2: Fair value in 2009 = $10.2 billion.\n\nThe final answer is [Answer: \"2010: $9.7 billion; 2009: $10.2 billion\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 20,
+            "main_question": "what was the percentage change in the commercial mortgage loans designated for sale at fair value from 2008 to 2009",
+            "sub_question": "What was the fair value of commercial mortgage loans held for sale designated at fair value at the end of 2008 and 2009?",
+            "answer": {
+                "answer": "The fair value at the end of 2008 is inferred to be above $843 million",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: The fair value of commercial mortgage loans held for sale designated at fair value is a key metric in assessing the financial health of a mortgage-backed securities portfolio. To find the fair value at the end of 2008 and 2009, we need to look for historical data or trends in the provided context.\n\nGold Evidences:\n- The context mentions that the company stopped originating commercial mortgage loans held for sale designated at fair value in 2008.\n- The fair value of commercial mortgages at December 31, 2012, was $772 million, and at December 31, 2011, it was $843 million.\n- There is no direct mention of the fair value for the years 2008 and 2009 in the provided context.\n\nSteps:\n1. Since the context does not provide specific values for 2008 and 2009, we can infer that the fair value of commercial mortgage loans held for sale designated at fair value was likely higher in 2008 than in 2011 and 2012, as the company stopped originating these loans in 2008.\n2. The fair value decreased from $843 million in 2011 to $772 million in 2012, indicating a downward trend.\n3. Without specific data for 2008 and 2009, we cannot provide exact figures, but we can conclude that the fair value in 2008 was likely above $843 million, and in 2009, it would have been lower than 2008 but higher than 843 million.\n\nConclusion: The fair value of commercial mortgage loans held for sale designated at fair value at the end of 2008 is not explicitly provided, but it is inferred to be above $843 million. The fair value for 2009 is also not provided but would be lower than 2008 and likely above $843 million.\n\nThe final answer is [Answer: \"The fair value at the end of 2008 is inferred to be above $843 million; the fair value for 2009 is not explicitly provided but is likely above $843 million.\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 21,
+            "main_question": "what was the difference in percentage cumulative 5-year total shareholder return on common stock fidelity national information services , inc . compared to the s&p 500 for the period ending 12/16?",
+            "sub_question": "What were the cumulative total returns for Fidelity National Information Services, Inc. and the S&P 500 at the end of 2016?",
+            "answer": {
+                "answer": "Fidelity National Information Services, Inc.",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: Cumulative total returns represent the total change in value of an investment over a specified period, including both capital gains and reinvested dividends. To find the cumulative total returns for Fidelity National Information Services, Inc. and the S&P 500 at the end of 2016, we will look at the values provided in the table for the year ending December 31, 2016.\n\nGold Evidences:\n- The cumulative total return for Fidelity National Information Services, Inc. at the end of 2016 is 311.81.\n- The cumulative total return for the S&P 500 at the end of 2016 is 198.18.\n\nSteps:\n1. Identify the cumulative total return for Fidelity National Information Services, Inc. at the end of 2016.\n   - Response 1: 311.81\n2. Identify the cumulative total return for the S&P 500 at the end of 2016.\n   - Response 2: 198.18\n\nThe final answer is [Answer: \"Fidelity National Information Services, Inc.: 311.81; S&P 500: 198.18\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 26,
+            "main_question": "in 2010 what was the percent of the income tax benefit to the stock based compensation cost",
+            "sub_question": "What is the formula to calculate the percentage of the income tax benefit relative to the stock-based compensation cost?",
+            "answer": {
+                "answer": "The formula to calculate the percentage of the income tax benefit relative to the stock-based compensation cost is (Income Tax Benefit / Share-Based Compensation Cost) × 100",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To calculate the percentage of the income tax benefit relative to the stock-based compensation cost, we need to understand the relationship between these two financial figures. The formula for calculating the percentage is given by:\n\n\\[\n\\text{Percentage} = \\left( \\frac{\\text{Income Tax Benefit}}{\\text{Share-Based Compensation Cost}} \\right) \\times 100\n\\]\n\nGold Evidences:\n- The share-based compensation costs for the years 2010, 2009, and 2008 are $18.1 million, $14.6 million, and $13.8 million, respectively.\n- The income tax benefits for the same years are -$6.3 million, -$5.2 million, and -$4.9 million, respectively.\n\nSteps:\n1. For 2010:\n   - Calculate the percentage: \n   \\[\n   \\text{Percentage}_{2010} = \\left( \\frac{-6.3}{18.1} \\right) \\times 100\n   \\]\n   - Response 1: \n   \\[\n   -6.3 / 18.1 = -0.3486\n   \\]\n   - Response 2: \n   \\[\n   -0.3486 \\times 100 = -34.86\\%\n   \\]\n\n2. For 2009:\n   - Calculate the percentage: \n   \\[\n   \\text{Percentage}_{2009} = \\left( \\frac{-5.2}{14.6} \\right) \\times 100\n   \\]\n   - Response 3: \n   \\[\n   -5.2 / 14.6 = -0.3562\n   \\]\n   - Response 4: \n   \\[\n   -0.3562 \\times 100 = -35.62\\%\n   \\]\n\n3. For 2008:\n   - Calculate the percentage: \n   \\[\n   \\text{Percentage}_{2008} = \\left( \\frac{-4.9}{13.8} \\right) \\times 100\n   \\]\n   - Response 5: \n   \\[\n   -4.9 / 13.8 = -0.3543\n   \\]\n   - Response 6: \n   \\[\n   -0.3543 \\times 100 = -35.43\\%\n   \\]\n\nThe final answer is [Answer: \"The formula to calculate the percentage of the income tax benefit relative to the stock-based compensation cost is (Income Tax Benefit / Share-Based Compensation Cost) × 100\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 27,
+            "main_question": "what is the percentage change in the the gross liability for unrecognized tax benefits during 2008 compare to 2007?",
+            "sub_question": "What was the gross liability for unrecognized tax benefits at the end of fiscal year 2007?",
+            "answer": {
+                "answer": "$201,808",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: The gross liability for unrecognized tax benefits is the total amount that a company has not recognized in its financial statements but may owe in taxes. To find the gross liability at the end of fiscal year 2007, we need to look at the beginning balance as of December 1, 2007, which is provided in the table.\n\nGold Evidences:\n- The beginning balance as of December 1, 2007, is $201,808.\n\nSteps:\n1. Identify the beginning balance as of December 1, 2007.\n   - Response 1: The beginning balance is $201,808.\n\nSince the question specifically asks for the gross liability at the end of fiscal year 2007, and the provided data indicates that the beginning balance is the relevant figure, we can conclude that this is the answer.\n\nThe final answer is [Answer: \"$201,808\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 28,
+            "main_question": "what was the total impairment costs recorded from 2003 to 2005 in millions",
+            "sub_question": "What were the impairment charges recorded for each year from 2003 to 2005?",
+            "answer": {
+                "answer": "Impairment charges were $0.6 million in 2003, $0.5 million in 2004, and $0.6 million in 2005.",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: Impairment charges are recorded when the carrying value of an asset exceeds its recoverable amount. The context provides specific impairment charges for the years 2003, 2004, and 2005, which we need to extract and summarize.\n\nGold Evidences:\n- The company recorded impairment charges of approximately $0.5 million in 2004.\n- The company recorded impairment charges of approximately $0.6 million in 2005.\n- The company recorded impairment charges of approximately $0.6 million in 2003.\n\nSteps:\n1. Identify the impairment charge for 2003.\n   - Response 1: $0.6 million (2003)\n2. Identify the impairment charge for 2004.\n   - Response 2: $0.5 million (2004)\n3. Identify the impairment charge for 2005.\n   - Response 3: $0.6 million (2005)\n\nThe final answer is [Answer: \"Impairment charges were $0.6 million in 2003, $0.5 million in 2004, and $0.6 million in 2005.\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 29,
+            "main_question": "what is the borrowing under the term loan facility as a percentage of the total contractual maturities of long-term debt obligations due subsequent to december 31 , 2016?",
+            "sub_question": "What is the total amount of contractual maturities of long-term debt obligations due after December 31, 2016?",
+            "answer": {
+                "answer": "3081 million",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: Contractual maturities of long-term debt obligations refer to the scheduled payments that a company is required to make on its long-term debt after a specific date. In this case, we need to sum the amounts due in the years following December 31, 2016, as provided in the table.\n\nGold Evidences:\n- The table provides the following amounts due:\n  - 2017: $0 (not explicitly mentioned, but inferred as it is not listed)\n  - 2018: $150 million\n  - 2019: $175 million\n  - 2020: $2756 million\n\nSteps:\n1. Identify the amounts due after December 31, 2016:\n   - 2017: $0 (not listed)\n   - 2018: $150 million\n   - 2019: $175 million\n   - 2020: $2756 million\n\n2. Sum the amounts due:\n   - Response 1: 0 + 150 + 175 + 2756 = 3081 million\n\nThe final answer is [Answer: \"3081 million\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 33,
+            "main_question": "in 2018 what was the percent of the cib markets net interest income as part of the managed interest income",
+            "sub_question": "What is the formula to calculate the percentage of CIB markets net interest income relative to the total managed net interest income?",
+            "answer": {
+                "answer": "5.54%",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To calculate the percentage of CIB markets net interest income relative to the total managed net interest income, we need to use the formula: \n\n\\[\n\\text{Percentage} = \\left( \\frac{\\text{CIB Markets Net Interest Income}}{\\text{Total Managed Net Interest Income}} \\right) \\times 100\n\\]\n\nGold Evidences:\n- CIB markets net interest income for 2018 is $3,087 million.\n- Total managed net interest income for 2018 is $55,687 million.\n\nSteps:\n1. Identify the CIB markets net interest income for 2018.\n   - CIB Markets Net Interest Income = $3,087 million\n2. Identify the total managed net interest income for 2018.\n   - Total Managed Net Interest Income = $55,687 million\n3. Divide the CIB markets net interest income by the total managed net interest income.\n   - Calculation: \\( \\frac{3087}{55687} \\)\n4. Multiply the result by 100 to get the percentage.\n   - Calculation: \\( \\left( \\frac{3087}{55687} \\right) \\times 100 \\)\n\nNow, performing the calculations:\n1. \\( \\frac{3087}{55687} \\approx 0.0554 \\)\n2. \\( 0.0554 \\times 100 \\approx 5.54 \\)\n\nThe final answer is [Answer: \"5.54%\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 34,
+            "main_question": "what would the fair value of total securities available for sale be without the fair value of securities classified as corporate stocks as of december 31 , 2012?",
+            "sub_question": "What is the fair value of total securities available for sale minus the fair value of corporate stocks as of December 31, 2012?",
+            "answer": {
+                "answer": "50,685 million",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To find the fair value of total securities available for sale minus the fair value of corporate stocks, we need to identify the fair value of total securities available for sale and the fair value of corporate stocks. The fair value of total securities available for sale is provided in the table, and the fair value of corporate stocks is mentioned in the post-text.\n\nGold Evidences:\n- The fair value of total securities available for sale as of December 31, 2012, is $51,052 million.\n- The fair value of corporate stocks as of December 31, 2012, is $367 million.\n\nSteps:\n1. Identify the fair value of total securities available for sale.\n   - Fair value of total securities available for sale = $51,052 million.\n   \n2. Identify the fair value of corporate stocks.\n   - Fair value of corporate stocks = $367 million.\n\n3. Subtract the fair value of corporate stocks from the fair value of total securities available for sale.\n   - Calculation: $51,052 million - $367 million = $50,685 million.\n\nThe final answer is [Answer: \"50,685 million\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 35,
+            "main_question": "assuming the same level of settlements as in fiscal 2007 , what would be the ending balance at march 31 2008 in millions for unrecognized tax benefits?\\\\n",
+            "sub_question": "What was the initial balance of unrecognized tax benefits at April 1, 2007, and what adjustments were made during the fiscal year that affected this balance?",
+            "answer": {
+                "answer": "The initial balance of unrecognized tax benefits at April 1, 2007, was $224,000, and the adjustment made during the fiscal year was a reduction of $56,000 due to the closing of the applicable statute of limitations.",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: Unrecognized tax benefits refer to tax positions that a company has taken on its tax returns but has not recognized in its financial statements due to uncertainty regarding their realization. To determine the initial balance and adjustments made during the fiscal year, we need to analyze the provided data regarding the balance at the beginning and the changes that occurred.\n\nGold Evidences:\n- The balance at April 1, 2007, is $224,000.\n- There was a reduction for tax positions due to the closing of the applicable statute of limitations amounting to $56,000.\n- The balance at March 31, 2008, is $168,000.\n\nSteps:\n1. Identify the initial balance of unrecognized tax benefits at April 1, 2007.\n   - Initial Balance: $224,000\n\n2. Identify the reduction made during the fiscal year.\n   - Reduction: $56,000\n\n3. Calculate the ending balance after the reduction.\n   - Ending Balance: Initial Balance - Reduction\n   - Response 1: $224,000 - $56,000 = $168,000\n\n4. Confirm the ending balance matches the provided data.\n   - The ending balance at March 31, 2008, is indeed $168,000, which confirms the calculations.\n\nThe final answer is [Answer: \"The initial balance of unrecognized tax benefits at April 1, 2007, was $224,000, and the adjustment made during the fiscal year was a reduction of $56,000 due to the closing of the applicable statute of limitations.\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 36,
+            "main_question": "as of december 2012 what is the percent of the square footage not leased to the total square footage in alpharetta , georgia",
+            "sub_question": "What is the total square footage of the facility in Alpharetta, Georgia, and how much of that is owned rather than leased?",
+            "answer": {
+                "answer": "Total square footage",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: The context provides information about the facilities and their square footage, specifically mentioning that all facilities are leased except for a certain amount of square footage in Alpharetta, Georgia. To answer the question, we need to identify the total square footage of the facility in Alpharetta and determine how much of that is owned.\n\nGold Evidences:\n- The total square footage of the facility in Alpharetta, Georgia is 254,000 square feet.\n- It is stated that 165,000 square feet of the office in Alpharetta is owned rather than leased.\n\nSteps:\n1. Identify the total square footage of the facility in Alpharetta.\n   - Response 1: Total square footage = 254,000 square feet.\n2. Identify the square footage that is owned.\n   - Response 2: Owned square footage = 165,000 square feet.\n\nThe final answer is [Answer: \"Total square footage: 254,000 square feet; Owned square footage: 165,000 square feet\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 38,
+            "main_question": "what is the total amount of stock options cancelled in millions during 2017 , 2016 and 2015?",
+            "sub_question": "What were the total values of stock options cancelled in millions for each year (2017, 2016, and 2015)?",
+            "answer": {
+                "answer": "2017",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: The total value of stock options cancelled refers to the monetary value associated with stock options that were cancelled during a specific year. This information is typically provided in financial statements and can be used to assess the impact of stock option cancellations on a company's financial position.\n\nGold Evidences:\n- The total value of stock options cancelled during 2017 was $1.09 billion.\n- The total value of stock options cancelled during 2016 was $1.11 billion.\n- The total value of stock options cancelled during 2015 was $406 million.\n\nSteps:\n1. Convert the total value of stock options cancelled from billions to millions for 2017.\n   - Response 1: $1.09 billion = 1,090 million.\n2. Convert the total value of stock options cancelled from billions to millions for 2016.\n   - Response 2: $1.11 billion = 1,110 million.\n3. The total value of stock options cancelled for 2015 is already in millions: $406 million.\n\nFinal values:\n- 2017: 1,090 million\n- 2016: 1,110 million\n- 2015: 406 million\n\nThe final answer is [Answer: \"2017: 1,090 million; 2016: 1,110 million; 2015: 406 million\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 40,
+            "main_question": "what is the net change in net revenue for entergy wholesale commodities during 2012?",
+            "sub_question": "What were the primary reasons for the decrease in net revenue from Entergy wholesale commodities in 2012 compared to 2011?",
+            "answer": {
+                "answer": "Lower pricing in contracts to sell power and lower volume in the nuclear fleet due to more unplanned and refueling outage days, partially offset by the exercise of resupply options.",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To understand the decrease in net revenue from Entergy wholesale commodities, we need to analyze the factors that contributed to the change in revenue between the two years. This involves looking at the components of net revenue and identifying the specific reasons for the decrease.\n\nGold Evidences:\n- The net revenue for 2011 was $2045 million, and for 2012 it was $1854 million, indicating a decrease of $191 million.\n- The primary reasons for the decrease include:\n  1. Lower pricing in contracts to sell power.\n  2. Lower volume in the nuclear fleet due to more unplanned and refueling outage days in 2012 compared to 2011.\n  3. The decrease was partially offset by the exercise of resupply options in purchase power agreements.\n\nSteps:\n1. Identify the decrease in net revenue:\n   - 2011 net revenue: $2045 million\n   - 2012 net revenue: $1854 million\n   - Decrease: 2045 - 1854 = 191 million\n\n2. List the primary reasons for the decrease:\n   - Lower pricing in contracts to sell power.\n   - Lower volume in the nuclear fleet due to more unplanned and refueling outage days.\n   - Partial offset from the exercise of resupply options.\n\nConclusion: The primary reasons for the decrease in net revenue from Entergy wholesale commodities in 2012 compared to 2011 were lower pricing in contracts to sell power and lower volume in the nuclear fleet due to more unplanned and refueling outage days, partially offset by the exercise of resupply options.\n\nThe final answer is [Answer: \"Lower pricing in contracts to sell power and lower volume in the nuclear fleet due to more unplanned and refueling outage days, partially offset by the exercise of resupply options.\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 41,
+            "main_question": "what was the difference in percentage cumulative total return for goldman sachs group inc . and the s&p 500 index for the five year period ending 12/31/13?",
+            "sub_question": "What were the cumulative total returns for Goldman Sachs Group Inc. and the S&P 500 index at 12/31/13?",
+            "answer": {
+                "answer": "Goldman Sachs Group Inc.",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: Cumulative total returns represent the total amount of money earned from an investment over a specific period, including both capital gains and reinvested dividends. To find the cumulative total returns for Goldman Sachs Group Inc. and the S&P 500 index at 12/31/13, we need to extract the values from the provided table for that specific date.\n\nGold Evidences:\n- The cumulative total return for Goldman Sachs Group Inc. at 12/31/13 is $248.36.\n- The cumulative total return for the S&P 500 index at 12/31/13 is $236.20.\n\nSteps:\n1. Identify the cumulative total return for Goldman Sachs Group Inc. at 12/31/13.\n   - Response 1: Goldman Sachs Group Inc. = $248.36\n2. Identify the cumulative total return for the S&P 500 index at 12/31/13.\n   - Response 2: S&P 500 index = $236.20\n\nThe final answer is [Answer: \"Goldman Sachs Group Inc.: $248.36; S&P 500 index: $236.20\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 42,
+            "main_question": "as of december 31 , 2017 what was the value of the granted share awards",
+            "sub_question": "What is the total value of the performance share awards granted in 2017 based on the weighted-average grant-date fair value?",
+            "answer": {
+                "answer": "$9,296,000",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To find the total value of the performance share awards granted in 2017, we need to multiply the number of performance share awards granted by the weighted-average grant-date fair value.\n\nGold Evidences:\n- The number of performance share awards granted in 2017 is 160,196.\n- The weighted-average grant-date fair value for these awards is $58.02.\n\nSteps:\n1. Multiply the number of performance share awards granted by the weighted-average grant-date fair value.\n   - Response 1: 160,196 * 58.02 = 9,295,999.92\n\nThe final answer is [Answer: \"$9,296,000\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 43,
+            "main_question": "what percent of total contractual obligations is categorized as long term debt?",
+            "sub_question": "What is the formula to calculate the percentage of long-term debt in relation to total contractual obligations?",
+            "answer": {
+                "answer": "45.1%",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To calculate the percentage of long-term debt in relation to total contractual obligations, we need to use the formula: \n\n\\[\n\\text{Percentage of Long-term Debt} = \\left( \\frac{\\text{Long-term Debt}}{\\text{Total Contractual Obligations}} \\right) \\times 100\n\\]\n\nGold Evidences:\n- Long-term debt is given as $460.1 million.\n- Total contractual obligations are given as $1020.1 million.\n\nSteps:\n1. Identify the long-term debt and total contractual obligations:\n   - Long-term Debt = $460.1 million\n   - Total Contractual Obligations = $1020.1 million\n\n2. Substitute the values into the formula:\n   \\[\n   \\text{Percentage of Long-term Debt} = \\left( \\frac{460.1}{1020.1} \\right) \\times 100\n   \\]\n\n3. Perform the division:\n   \\[\n   \\frac{460.1}{1020.1} \\approx 0.451\n   \\]\n\n4. Multiply by 100 to convert to percentage:\n   \\[\n   0.451 \\times 100 \\approx 45.1\n   \\]\n\nThe final answer is [Answer: \"45.1%\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 44,
+            "main_question": "what was the average cash flow from 2004 to 2006",
+            "sub_question": "What were the cash flow amounts for the years 2004, 2005, and 2006?",
+            "answer": {
+                "answer": "2004",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: Cash flow refers to the net amount of cash being transferred into and out of a business. It is crucial for assessing the financial health of a company. The cash flow amounts for specific years can be found in the provided table.\n\nGold Evidences:\n- The cash flow amounts for the years are explicitly stated in the table:\n  - 2004: $950.4 million\n  - 2005: $769.1 million\n  - 2006: $957.4 million\n\nSteps:\n1. Identify the cash flow amount for 2004 from the table.\n   - Response 1: Cash flow for 2004 = $950.4 million\n2. Identify the cash flow amount for 2005 from the table.\n   - Response 2: Cash flow for 2005 = $769.1 million\n3. Identify the cash flow amount for 2006 from the table.\n   - Response 3: Cash flow for 2006 = $957.4 million\n\nThe final answer is [Answer: \"2004: $950.4 million; 2005: $769.1 million; 2006: $957.4 million\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 48,
+            "main_question": "what percentage of the total carrying amount of investment securities is the securities held to maturity?",
+            "sub_question": "What is the formula to calculate the percentage of securities held to maturity relative to the total carrying amount of investment securities?",
+            "answer": {
+                "answer": "16.95%",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To calculate the percentage of securities held to maturity relative to the total carrying amount of investment securities, we need to use the formula: \n\n\\[\n\\text{Percentage of Securities Held to Maturity} = \\left( \\frac{\\text{Total Securities Held to Maturity}}{\\text{Total Carrying Amount of Investment Securities}} \\right) \\times 100\n\\]\n\nGold Evidences:\n- Total securities held to maturity at December 31, 2012: $10.4 billion (or $10,400 million).\n- Total carrying amount of investment securities at December 31, 2012: $61.4 billion (or $61,400 million).\n\nSteps:\n1. Identify the total securities held to maturity: \n   - Total Securities Held to Maturity = $10,400 million.\n   \n2. Identify the total carrying amount of investment securities: \n   - Total Carrying Amount of Investment Securities = $61,400 million.\n   \n3. Divide the total securities held to maturity by the total carrying amount of investment securities:\n   - Calculation: \\( \\frac{10,400}{61,400} \\).\n\n4. Perform the division:\n   - Response 1: \\( \\frac{10,400}{61,400} \\approx 0.1695 \\).\n\n5. Multiply by 100 to convert to percentage:\n   - Response 2: \\( 0.1695 \\times 100 \\approx 16.95 \\).\n\nThe final answer is [Answer: \"16.95%\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 51,
+            "main_question": "as of december 31 , 2010 , what was the ratio of collateral pledged to the bank by its derivatives counterparties to overnight and other short-term borrowings",
+            "sub_question": "What were the total amounts of collateral pledged by derivatives counterparties and overnight/short-term borrowings as of December 31, 2010?",
+            "answer": {
+                "answer": "$19.8 million",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To find the total amounts of collateral pledged by derivatives counterparties and overnight/short-term borrowings, we need to sum the amounts provided for each category as of December 31, 2010.\n\nGold Evidences:\n- The amount of collateral pledged by derivatives counterparties as of December 31, 2010, is $19.3 million.\n- The amount of overnight and other short-term borrowings as of December 31, 2010, is $0.5 million.\n\nSteps:\n1. Identify the amount of collateral pledged by derivatives counterparties.\n   - Response 1: $19.3 million\n2. Identify the amount of overnight and other short-term borrowings.\n   - Response 2: $0.5 million\n3. Add the two amounts together.\n   - Response 3: $19.3 million + $0.5 million = $19.8 million\n\nThe final answer is [Answer: \"$19.8 million\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 52,
+            "main_question": "what is the total value , in dollars , of the shares purchasable under the warrant?",
+            "sub_question": "What is the formula to calculate the total value of shares purchasable under a warrant?",
+            "answer": {
+                "answer": "$299,999,999.04",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: A warrant is a financial instrument that gives the holder the right to purchase a company's stock at a specific price before expiration. The total value of shares purchasable under a warrant can be calculated using the formula: \n\nTotal Value of Shares = Number of Shares × Exercise Price\n\nGold Evidences:\n- The number of shares purchasable under the warrant is 5,576,208 shares.\n- The exercise price per share is $53.80.\n\nSteps:\n1. Identify the number of shares purchasable under the warrant.\n   - Number of Shares = 5,576,208\n2. Identify the exercise price per share.\n   - Exercise Price = $53.80\n3. Multiply the number of shares by the exercise price to find the total value of shares.\n   - Total Value of Shares = 5,576,208 × 53.80\n\nCalculating:\n- Total Value of Shares = 5,576,208 × 53.80 = 299,999,999.04\n\nThe final answer is [Answer: \"$299,999,999.04\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 53,
+            "main_question": "during 2008 what was the share price of the warrants exercised\\\\n",
+            "sub_question": "What was the exercise price of the warrants that were exercised in 2008?",
+            "answer": {
+                "answer": "$7.27",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: The exercise price of a warrant is the price at which the holder can purchase the underlying shares. To determine the exercise price of the warrants that were exercised in 2008, we need to identify the warrants that were exercised during that year and their corresponding exercise prices.\n\nGold Evidences:\n- The total number of warrants exercised in 2008 was 401,362.\n- The exercise prices of the outstanding warrants as of December 28, 2008 are as follows:\n  - 238,510 shares at $7.27\n  - 864,040 shares at $7.27\n  - 809,246 shares at $10.91\n  - 1,125,734 shares at $10.91\n  - 18,322,320 shares at $31.44\n\nSteps:\n1. Identify the exercise prices of the warrants that could have been exercised in 2008. The exercise prices are $7.27 and $10.91.\n2. Since the total number of warrants exercised (401,362) is less than the total number of warrants at the lower exercise price ($7.27), we can conclude that the warrants exercised in 2008 were at the $7.27 exercise price.\n3. Therefore, the exercise price of the warrants that were exercised in 2008 is $7.27.\n\nThe final answer is [Answer: \"$7.27\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 56,
+            "main_question": "what was the percentage change in the weighted average fair value on the date of the award of the common stock",
+            "sub_question": "What were the weighted average fair values of the common stock awards for the years 2015, 2016, and 2017?",
+            "answer": {
+                "answer": "2015",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: The weighted average fair value of stock awards is calculated based on the number of shares awarded and their respective fair values. To find the weighted average fair values for the years 2015, 2016, and 2017, we need to consider the number of shares awarded and the fair value for each year.\n\nGold Evidences:\n- In 2017, the number of shares awarded to outside directors was 15,311 with a weighted average fair value of $63.43.\n- In 2016, the number of shares awarded was 16,471 with a weighted average fair value of $57.37.\n- In 2015, the number of shares awarded was 19,695 with a weighted average fair value of $46.21.\n\nSteps:\n1. Identify the weighted average fair values for each year:\n   - For 2015: $46.21\n   - For 2016: $57.37\n   - For 2017: $63.43\n\n2. Since the question asks for the weighted average fair values, we can directly state the values identified in step 1.\n\nThe final answer is [Answer: \"2015: $46.21; 2016: $57.37; 2017: $63.43\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 59,
+            "main_question": "what was the average number of shares issued to employees from 2013 to 2015",
+            "sub_question": "What is the total number of shares issued to employees from 2013 to 2015?",
+            "answer": {
+                "answer": "1,406,636",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To find the total number of shares issued to employees from 2013 to 2015, we need to sum the number of shares issued in each of those years. \n\nGold Evidences:\n- In 2015, 411,636 shares were issued.\n- In 2014, 439,000 shares were issued.\n- In 2013, 556,000 shares were issued.\n\nSteps:\n1. Add the shares issued in 2015, 2014, and 2013.\n   - Response 1: 411,636 + 439,000 = 850,636 (for 2015 and 2014)\n2. Add the result from Response 1 to the shares issued in 2013.\n   - Response 2: 850,636 + 556,000 = 1,406,636\n\nThe final answer is [Answer: \"1,406,636\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 60,
+            "main_question": "what was the percentage change in receivables from brokers with in other current assets from 2009 to 2010?",
+            "sub_question": "What were the receivables from brokers for the years 2009 and 2010?",
+            "answer": {
+                "answer": "Receivables from brokers for 2010 were $11.2 million and for 2009 were $8.8 million.",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: Receivables from brokers represent amounts owed to a company by brokers for transactions that have been completed but not yet settled. To answer the question, we need to extract the values for receivables from brokers for the years 2009 and 2010 from the provided table.\n\nGold Evidences:\n- Receivables from brokers in 2010 are $11.2 million.\n- Receivables from brokers in 2009 are $8.8 million.\n\nSteps:\n1. Identify the receivables from brokers for 2010.\n   - Response 1: Receivables from brokers in 2010 = $11.2 million.\n2. Identify the receivables from brokers for 2009.\n   - Response 2: Receivables from brokers in 2009 = $8.8 million.\n\nThe final answer is [Answer: \"Receivables from brokers for 2010 were $11.2 million and for 2009 were $8.8 million.\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 62,
+            "main_question": "assuming all options in the compensation plans approved by security holders were exercised , what would be the deemed proceeds to the company?",
+            "sub_question": "What is the total deemed proceeds calculated by multiplying the number of securities to be issued (1211143) by the weighted-average exercise price ($308.10)?",
+            "answer": {
+                "answer": "$373,155,999.30",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: The total deemed proceeds from stock options can be calculated by multiplying the number of securities to be issued by the weighted-average exercise price. This gives an estimate of the total amount that the company would receive if all options were exercised.\n\nGold Evidences:\n- The number of securities to be issued upon exercise of outstanding options is 1,211,143.\n- The weighted-average exercise price of outstanding options is $308.10.\n\nSteps:\n1. Multiply the number of securities by the weighted-average exercise price.\n   - Response 1: 1,211,143 * 308.10 = 373,155,999.30\n\nThe final answer is [Answer: \"$373,155,999.30\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 63,
+            "main_question": "what is the net change in aon 2019s unpaid restructuring liabilities during 2006?",
+            "sub_question": "What were the total expenses and cash payments related to the restructuring liabilities in 2006?",
+            "answer": {
+                "answer": "$296 million",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To determine the total expenses and cash payments related to the restructuring liabilities in 2006, we need to sum the expenses incurred in that year with the cash payments made.\n\nGold Evidences:\n- The expenses in 2006 are $155 million.\n- The cash payments in 2006 are -$141 million (which indicates a payment of $141 million).\n\nSteps:\n1. Identify the expenses for 2006.\n   - Response 1: Expenses in 2006 = $155 million.\n   \n2. Identify the cash payments for 2006.\n   - Response 2: Cash payments in 2006 = $141 million (the negative sign indicates an outflow).\n\n3. Add the expenses and cash payments together.\n   - Response 3: Total = $155 million + $141 million = $296 million.\n\nThe final answer is [Answer: \"$296 million\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 64,
+            "main_question": "what are the nuclear realized price changes as a percentage of the decrease in net revenue from 2011 to 2012?",
+            "sub_question": "What percentage of the total decrease in net revenue from 2011 to 2012 is attributed to nuclear realized price changes?",
+            "answer": {
+                "answer": "101.57%",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To find the percentage of the total decrease in net revenue attributed to nuclear realized price changes, we need to calculate the total decrease in net revenue from 2011 to 2012 and then determine what portion of that decrease is due to nuclear realized price changes. The formula for percentage is (part/whole) * 100.\n\nGold Evidences:\n- 2011 net revenue: $2045 million\n- 2012 net revenue: $1854 million\n- Decrease in net revenue: $2045 million - $1854 million = $191 million\n- Nuclear realized price changes: -$194 million\n\nSteps:\n1. Calculate the total decrease in net revenue:\n   - Response 1: 2045 - 1854 = 191 million\n2. Identify the decrease attributed to nuclear realized price changes:\n   - Response 2: 194 million (as a positive value for calculation)\n3. Calculate the percentage of the total decrease attributed to nuclear realized price changes:\n   - Response 3: (194 / 191) * 100 = 101.57%\n\nThe final answer is [Answer: \"101.57%\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 69,
+            "main_question": "commercial mortgage loans held for sale designated at fair value at december 31 , 2011 were what percent of total loans held for sale at december 31 , 2011?",
+            "sub_question": "What is the formula to calculate the percentage of commercial mortgage loans held for sale designated at fair value compared to the total loans held for sale?",
+            "answer": {
+                "answer": "20.87%",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To calculate the percentage of commercial mortgage loans held for sale designated at fair value compared to the total loans held for sale, we need to use the formula: \n\n\\[\n\\text{Percentage} = \\left( \\frac{\\text{Commercial Mortgages at Fair Value}}{\\text{Total Loans Held for Sale}} \\right) \\times 100\n\\]\n\nGold Evidences:\n- The fair value of commercial mortgages at December 31, 2012, is $772 million.\n- The total loans held for sale at December 31, 2012, is $3,693 million.\n\nSteps:\n1. Identify the value of commercial mortgages at fair value:\n   - Commercial Mortgages at Fair Value = $772 million\n\n2. Identify the total loans held for sale:\n   - Total Loans Held for Sale = $3,693 million\n\n3. Divide the commercial mortgages at fair value by the total loans held for sale:\n   - Calculation: \\( \\frac{772}{3693} \\)\n\n4. Perform the division:\n   - Response 1: \\( \\frac{772}{3693} \\approx 0.2087 \\)\n\n5. Multiply by 100 to convert to percentage:\n   - Response 2: \\( 0.2087 \\times 100 \\approx 20.87 \\)\n\nThe final answer is [Answer: \"20.87%\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 70,
+            "main_question": "in 2017 what was the percent of the total future estimated cash payments under existing contractual obligations associated with long-term debt that was due in 2018",
+            "sub_question": "What is the formula to calculate the percentage of long-term debt due in 2018 relative to the total long-term debt obligations?",
+            "answer": {
+                "answer": "4.49%",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To calculate the percentage of long-term debt due in a specific year relative to the total long-term debt obligations, we need to use the formula: \n\n\\[\n\\text{Percentage} = \\left( \\frac{\\text{Long-term debt due in the year}}{\\text{Total long-term debt obligations}} \\right) \\times 100\n\\]\n\nGold Evidences:\n- Long-term debt due in 2018 is $604.2 million.\n- Total long-term obligations are $13,440.0 million.\n\nSteps:\n1. Identify the long-term debt due in 2018:\n   - Long-term debt due in 2018 = $604.2 million.\n   \n2. Identify the total long-term obligations:\n   - Total long-term obligations = $13,440.0 million.\n\n3. Divide the long-term debt due in 2018 by the total long-term obligations:\n   - Calculation: \\( \\frac{604.2}{13440.0} \\).\n\n4. Multiply the result by 100 to get the percentage:\n   - Calculation: \\( \\left( \\frac{604.2}{13440.0} \\right) \\times 100 \\).\n\nNow, performing the calculations:\n1. \\( \\frac{604.2}{13440.0} = 0.0449 \\) (approximately).\n2. \\( 0.0449 \\times 100 = 4.49 \\).\n\nThe final answer is [Answer: \"4.49%\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 71,
+            "main_question": "what is the percentage change in the pre-tax pension and postretirement expense from 2017 to 2018?",
+            "sub_question": "What are the pre-tax pension and postretirement expense amounts for 2017 and 2018?",
+            "answer": {
+                "answer": "2017",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: Pre-tax pension and postretirement expenses are the costs associated with employee benefit plans that a company incurs before tax deductions. These expenses can fluctuate based on various factors, including expected returns on plan assets and discount rates. To find the pre-tax pension and postretirement expense amounts for 2017 and 2018, we need to extract the relevant figures from the provided context.\n\nGold Evidences:\n- The anticipated pre-tax pension and postretirement expense for 2017 is approximately $199 million.\n- The anticipated pre-tax pension and postretirement expense for 2018 is approximately $164 million.\n\nSteps:\n1. Identify the pre-tax pension and postretirement expense for 2017.\n   - Response 1: 2017 expense = $199 million.\n   \n2. Identify the pre-tax pension and postretirement expense for 2018.\n   - Response 2: 2018 expense = $164 million.\n\nThe final answer is [Answer: \"2017: $199 million; 2018: $164 million\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 78,
+            "main_question": "in millions for the fourth quarters of 2017 and 2016 , what was the total tier 1 capital?",
+            "sub_question": "What were the tier 1 capital amounts reported for December 2017 and December 2016?",
+            "answer": {
+                "answer": "Tier 1 capital for December 2017 is $78,227 million and for December 2016 is $81,808 million",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: Tier 1 capital is a measure of a bank's financial strength, consisting primarily of common equity and disclosed reserves. It is a key component of a bank's capital structure and is used to assess the bank's ability to absorb losses.\n\nGold Evidences:\n- The tier 1 capital amount for December 2017 is $78,227 million.\n- The tier 1 capital amount for December 2016 is $81,808 million.\n\nSteps:\n1. Identify the tier 1 capital for December 2017.\n   - Response 1: Tier 1 capital (December 2017) = $78,227 million.\n2. Identify the tier 1 capital for December 2016.\n   - Response 2: Tier 1 capital (December 2016) = $81,808 million.\n\nThe final answer is [Answer: \"Tier 1 capital for December 2017 is $78,227 million and for December 2016 is $81,808 million\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 79,
+            "main_question": "the five year total return for the period ending 12/31/2012 on ball corporation stock was how much greater than the same return on the s&p 500?",
+            "sub_question": "What was the total return for Ball Corporation and the S&P 500 at the end of the five-year period?",
+            "answer": {
+                "answer": "Ball Corporation",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: Total return refers to the overall return on an investment, including both capital gains and dividends. In this case, we need to find the total return for Ball Corporation and the S&P 500 at the end of the five-year period, which is December 31, 2012. The total return can be calculated by comparing the final value of the investment to the initial investment.\n\nGold Evidences:\n- The total return for Ball Corporation on 12/31/2012 is $207.62.\n- The total return for the S&P 500 on 12/31/2012 is $97.13.\n- The initial investment amount is $100.00.\n\nSteps:\n1. Calculate the total return for Ball Corporation:\n   - Final value: $207.62\n   - Initial investment: $100.00\n   - Total return for Ball Corporation = (Final value / Initial investment) * 100\n   - Response 1: (207.62 / 100) * 100 = 207.62%\n\n2. Calculate the total return for the S&P 500:\n   - Final value: $97.13\n   - Initial investment: $100.00\n   - Total return for S&P 500 = (Final value / Initial investment) * 100\n   - Response 2: (97.13 / 100) * 100 = 97.13%\n\nThe final answer is [Answer: \"Ball Corporation: 207.62%; S&P 500: 97.13%\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 80,
+            "main_question": "the five year total return for the period ending 12/31/2012 on ball corporation stock was how much greater than the same return on the dj us containers & packaging index?",
+            "sub_question": "What was the total return for Ball Corporation and the DJ US Containers & Packaging Index on 12/31/2012?",
+            "answer": {
+                "answer": "Ball Corporation",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: Total return refers to the overall return on an investment, including both capital gains and dividends. In this case, we need to find the total return for Ball Corporation and the DJ US Containers & Packaging Index as of December 31, 2012, based on the values provided in the table.\n\nGold Evidences:\n- The total return for Ball Corporation on 12/31/2012 is $207.62.\n- The total return for the DJ US Containers & Packaging Index on 12/31/2012 is $107.76.\n\nSteps:\n1. Identify the total return for Ball Corporation on 12/31/2012.\n   - Response 1: Ball Corporation total return = $207.62\n2. Identify the total return for the DJ US Containers & Packaging Index on 12/31/2012.\n   - Response 2: DJ US Containers & Packaging total return = $107.76\n\nThe final answer is [Answer: \"Ball Corporation: $207.62; DJ US Containers & Packaging Index: $107.76\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 82,
+            "main_question": "what was the ratio of the purchase in december 2012 to the purchase in january 2013",
+            "sub_question": "What were the total number of shares purchased in December 2012 and January 2013?",
+            "answer": {
+                "answer": "118,190 shares",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To find the total number of shares purchased in December 2012 and January 2013, we need to sum the number of shares purchased in December 2012 from the table and the number of shares purchased in January 2013 as mentioned in the post-text.\n\nGold Evidences:\n- The total number of shares purchased in December 2012 is 102,400.\n- The total number of shares purchased in January 2013 is 15,790.\n\nSteps:\n1. Identify the number of shares purchased in December 2012.\n   - Response 1: 102,400 shares.\n2. Identify the number of shares purchased in January 2013.\n   - Response 2: 15,790 shares.\n3. Add the two values together.\n   - Response 3: 102,400 + 15,790 = 118,190 shares.\n\nThe final answer is [Answer: \"118,190 shares\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 83,
+            "main_question": "what percentage of the company's gross liabilities are classified as other long-term liabilities in the accompanying consolidated balance sheets in 2012?",
+            "sub_question": "What is the total gross liability amount for the company as of December 31, 2012?",
+            "answer": {
+                "answer": "$255,353",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: The total gross liability amount for the company can be determined by summing the balance of unrecognized tax benefits and the amounts reflected as other long-term liabilities. The unrecognized tax benefits are provided in the context, and the other long-term liabilities are also specified.\n\nGold Evidences:\n- The balance at December 31, 2012, for unrecognized tax benefits is $180,993.\n- The total amounts reflected as other long-term liabilities as of December 31, 2012, is $74,360.\n\nSteps:\n1. Identify the balance of unrecognized tax benefits as of December 31, 2012.\n   - Response 1: $180,993\n2. Identify the balance of other long-term liabilities as of December 31, 2012.\n   - Response 2: $74,360\n3. Add the two amounts together to find the total gross liability.\n   - Response 3: $180,993 + $74,360 = $255,353\n\nThe final answer is [Answer: \"$255,353\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 84,
+            "main_question": "what was the percentage change in the cash dividends paid per common share from 2006 to 2007",
+            "sub_question": "What were the cash dividends paid per common share for 2006 and 2007?",
+            "answer": {
+                "answer": "2006",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: Cash dividends paid per common share represent the amount of money a company pays to its shareholders for each share they own. This information is typically found in the company's financial statements and is important for understanding the company's return to its shareholders.\n\nGold Evidences:\n- The cash dividends paid per common share for 2007 is $1.11.\n- The cash dividends paid per common share for 2006 is $1.08.\n\nSteps:\n1. Identify the cash dividends paid per common share for 2006.\n   - Response 1: Cash dividends for 2006 = $1.08\n2. Identify the cash dividends paid per common share for 2007.\n   - Response 2: Cash dividends for 2007 = $1.11\n\nThe final answer is [Answer: \"2006: $1.08; 2007: $1.11\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 87,
+            "main_question": "what is the average share price for the shares issued to employees in 2015 in u.k.?",
+            "sub_question": "What was the total cash received from the employee share purchase plan for U.K. employees in 2015?",
+            "answer": {
+                "answer": "$2 million",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: The cash received from the employee share purchase plan can be calculated by determining the number of shares issued and the purchase price per share. The purchase price is 85% of the lower of the fair market value of the ordinary shares on the first or last day of each 6-month period. However, the fair market value is not provided in the context, so we will assume that the cash received can be calculated based on the number of shares issued and the compensation expense recognized.\n\nGold Evidences:\n- In 2015, 2,779 shares were issued to U.K. employees under the employee share purchase plan.\n- The compensation expense recognized for U.K. employees in 2015 was $2 million.\n\nSteps:\n1. Determine the cash received per share. Since we do not have the fair market value, we will use the total compensation expense as a proxy for cash received.\n   - Total cash received = Compensation expense recognized for U.K. employees in 2015 = $2 million.\n   \n2. Since we are asked for the total cash received from the employee share purchase plan for U.K. employees in 2015, we can conclude that the total cash received is equal to the compensation expense recognized.\n\nThe final answer is [Answer: \"$2 million\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 89,
+            "main_question": "as of december 31 , 2018 what was the percentage decline in the allowance for doubtful accounts",
+            "sub_question": "What was the change in the allowance for doubtful accounts from 2017 to 2018, and how can we calculate the percentage decline based on the 2017 balance?",
+            "answer": {
+                "answer": "-11.85%",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: The allowance for doubtful accounts is a contra asset account that reduces the total accounts receivable to reflect the amount that is expected to be collected. To find the change in the allowance for doubtful accounts from 2017 to 2018, we need to calculate the difference between the two years' balances and then determine the percentage decline based on the 2017 balance.\n\nGold Evidences:\n- The balance at the end of 2017 is $38.9 million.\n- The balance at the end of 2018 is $34.3 million.\n\nSteps:\n1. Calculate the change in the allowance for doubtful accounts from 2017 to 2018:\n   - Change = Balance at end of 2018 - Balance at end of 2017\n   - Change = $34.3 million - $38.9 million\n   - Change = -$4.6 million\n\n2. Calculate the percentage decline based on the 2017 balance:\n   - Percentage Decline = (Change / Balance at end of 2017) × 100\n   - Percentage Decline = (-$4.6 million / $38.9 million) × 100\n   - Percentage Decline = -0.1185 × 100\n   - Percentage Decline = -11.85%\n\nThe final answer is [Answer: \"-11.85%\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 90,
+            "main_question": "what percentage of total number of shares purchased were repurchased in open-market transactions?",
+            "sub_question": "What is the total number of shares purchased and how many of those were repurchased in open-market transactions?",
+            "answer": {
+                "answer": "Total shares purchased",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To determine the total number of shares purchased and the number of shares repurchased in open-market transactions, we need to analyze the data provided in the table and the post-text information.\n\nGold Evidences:\n- The total number of shares purchased during the fourth quarter (10/01/04 to 12/31/04) is 45,686 shares.\n- The number of shares repurchased in open-market transactions under the dividend reinvestment and direct stock purchase plan is 42,749 shares.\n\nSteps:\n1. Identify the total number of shares purchased from the table.\n   - Total shares purchased = 45,686 shares.\n   \n2. Identify the number of shares repurchased in open-market transactions from the post-text.\n   - Shares repurchased in open-market transactions = 42,749 shares.\n\n3. Summarize the findings.\n   - Total shares purchased: 45,686 shares.\n   - Shares repurchased in open-market transactions: 42,749 shares.\n\nThe final answer is [Answer: \"Total shares purchased: 45,686; Shares repurchased in open-market transactions: 42,749\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 92,
+            "main_question": "considering the years 2014-2016 , what is the average operating income?",
+            "sub_question": "What is the total operating income for the years 2014, 2015, and 2016?",
+            "answer": {
+                "answer": "2466.2 million",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: Operating income is a measure of a company's profitability that indicates how much money a company makes from its core business operations, excluding any income derived from non-operating activities. To find the total operating income for the years 2014, 2015, and 2016, we need to sum the operating income for each of those years.\n\nGold Evidences:\n- The operating income for 2016 is $895.2 million.\n- The operating income for 2015 is $808.4 million.\n- The operating income for 2014 is $762.6 million.\n\nSteps:\n1. Add the operating income for 2016, 2015, and 2014.\n   - Response 1: 895.2 + 808.4 + 762.6 = 2466.2\n\nThe final answer is [Answer: \"2466.2 million\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 98,
+            "main_question": "what is the percentage decrease in receivables from the money pool from 2010 to 2011?",
+            "sub_question": "What were the receivables from the money pool for 2010 and 2011?",
+            "answer": {
+                "answer": "Receivables for 2010",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: Receivables from the money pool refer to the amounts owed to a company from its money pool, which is a collection of funds that can be used for various financial needs. To find the receivables for the years 2010 and 2011, we need to extract the relevant data from the provided table.\n\nGold Evidences:\n- The receivables from the money pool for 2011 are $23,596 (in thousands).\n- The receivables from the money pool for 2010 are $63,003 (in thousands).\n\nSteps:\n1. Identify the receivables for 2011.\n   - Response 1: Receivables for 2011 = $23,596 (in thousands).\n2. Identify the receivables for 2010.\n   - Response 2: Receivables for 2010 = $63,003 (in thousands).\n\nThe final answer is [Answer: \"Receivables for 2010: $63,003; Receivables for 2011: $23,596\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 103,
+            "main_question": "what is the percentage change in the total fair value of non-vested shares from 2009 to 2010?",
+            "sub_question": "What is the total fair value of non-vested shares for the years ended May 31, 2009, and May 31, 2010?",
+            "answer": {
+                "answer": "$61,830",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To find the total fair value of non-vested shares, we need to multiply the number of non-vested shares by their respective weighted average grant-date fair value for each year. The total fair value for each year can then be summed to get the overall total fair value for the two years.\n\nGold Evidences:\n- Non-vested shares at May 31, 2009: 762 shares with a weighted average grant-date fair value of $42.\n- Non-vested shares at May 31, 2010: 713 shares with a weighted average grant-date fair value of $42.\n\nSteps:\n1. Calculate the total fair value of non-vested shares for the year ended May 31, 2009:\n   - Response 1: 762 shares * $42 = $31,944\n2. Calculate the total fair value of non-vested shares for the year ended May 31, 2010:\n   - Response 2: 713 shares * $42 = $29,886\n3. Sum the total fair values from both years:\n   - Response 3: $31,944 + $29,886 = $61,830\n\nThe final answer is [Answer: \"$61,830\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 105,
+            "main_question": "considering the years 2016-2018 , what is the average ending balance for valuation allowances for deferred income tax assets?",
+            "sub_question": "What are the ending balances for valuation allowances for deferred income tax assets for the years 2016, 2017, and 2018?",
+            "answer": {
+                "answer": "2016",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: Valuation allowances for deferred income tax assets are used to reduce the carrying amount of deferred tax assets to the amount that is more likely than not to be realized. The ending balance for each year can be directly extracted from the provided table.\n\nGold Evidences:\n- The ending balance for 2016 is $383,221 (in thousands).\n- The ending balance for 2017 is $466,421 (in thousands).\n- The ending balance for 2018 is $167,142 (in thousands).\n\nSteps:\n1. Identify the ending balance for 2016 from the table.\n   - Response 1: Ending balance for 2016 = $383,221\n2. Identify the ending balance for 2017 from the table.\n   - Response 2: Ending balance for 2017 = $466,421\n3. Identify the ending balance for 2018 from the table.\n   - Response 3: Ending balance for 2018 = $167,142\n\nThe final answer is [Answer: \"2016: $383,221; 2017: $466,421; 2018: $167,142\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 106,
+            "main_question": "what is the estimated percentage of revolving credit facility in relation with the total senior credit facility in millions?",
+            "sub_question": "What is the total amount of the senior credit facility and how much of that is allocated to the revolving credit facility?",
+            "answer": {
+                "answer": "Total senior credit facility",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: A senior credit facility typically consists of a term loan and a revolving credit facility. The total amount of the senior credit facility is the sum of these two components. To find the allocation to the revolving credit facility, we need to identify the amounts specified for each component.\n\nGold Evidences:\n- The total senior credit facility is stated as $1.4 billion.\n- The term loan is $420.5 million.\n- The revolving credit facility is calculated as the total senior credit facility minus the term loan.\n\nSteps:\n1. Identify the total senior credit facility amount.\n   - Total senior credit facility = $1.4 billion = $1,400 million.\n2. Identify the term loan amount.\n   - Term loan = $420.5 million.\n3. Subtract the term loan from the total senior credit facility to find the revolving credit facility amount.\n   - Revolving credit facility = Total senior credit facility - Term loan\n   - Revolving credit facility = $1,400 million - $420.5 million = $979.5 million.\n\nThe final answer is [Answer: \"Total senior credit facility: $1.4 billion; Revolving credit facility: $979.5 million\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 109,
+            "main_question": "what was the decrease in rental expense ( millions ) for operating leases in continuing operations from 2003 to 2003?",
+            "sub_question": "What were the rental expenses for operating leases in continuing operations for the years 2003 and 2002?",
+            "answer": {
+                "answer": "2002",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: Rental expenses for operating leases refer to the costs incurred by a company for leasing property or equipment that is not owned. To find the rental expenses for operating leases in continuing operations for the years 2003 and 2002, we need to extract the relevant data from the provided context.\n\nGold Evidences:\n- The rental expenses for operating leases in 2002 were $31 million.\n- The rental expenses for operating leases in 2003 are not directly provided in the context but can be inferred from the future minimum lease commitments table.\n\nSteps:\n1. Identify the rental expense for operating leases in 2002.\n   - Response 1: Rental expense for 2002 = $31 million.\n\n2. Identify the rental expense for operating leases in 2003 from the table.\n   - From the table, the total rental expense for 2003 is $30 million.\n\n3. Compile the results for both years.\n   - Response 2: Rental expense for 2003 = $30 million.\n\nThe final answer is [Answer: \"2002: $31 million; 2003: $30 million\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 110,
+            "main_question": "what is the growth rate in the price of shares from the highest value during the quarter ended december 31 , 2016 and the closing price on february 17 , 2017?",
+            "sub_question": "What was the highest share price during the quarter ended December 31, 2016?",
+            "answer": {
+                "answer": "$118.09",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: The highest share price during a specific quarter can be found directly from the reported data in the table. We need to identify the highest price for the quarter ended December 31, 2016.\n\nGold Evidences:\n- The table provides the high and low share prices for each quarter in 2016.\n- For the quarter ended December 31, 2016, the high price is listed.\n\nSteps:\n1. Identify the high price for the quarter ended December 31, 2016 from the table.\n   - The high price is $118.09.\n\nThe final answer is [Answer: \"$118.09\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 112,
+            "main_question": "what percentage of net assets acquired was considered goodwill?",
+            "sub_question": "What is the formula to calculate the percentage of goodwill in relation to the total net assets acquired?",
+            "answer": {
+                "answer": "81.55%",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To calculate the percentage of goodwill in relation to the total net assets acquired, we need to use the formula: \n\n\\[\n\\text{Percentage of Goodwill} = \\left( \\frac{\\text{Goodwill}}{\\text{Total Net Assets Acquired}} \\right) \\times 100\n\\]\n\nGold Evidences:\n- Goodwill is given as $13,536,000.\n- Total net assets acquired is given as $16,594,000.\n\nSteps:\n1. Identify the goodwill and total net assets acquired:\n   - Goodwill = $13,536,000\n   - Total Net Assets Acquired = $16,594,000\n\n2. Divide the goodwill by the total net assets acquired:\n   - Response 1: \\( \\frac{13,536}{16,594} = 0.8155 \\)\n\n3. Multiply the result by 100 to get the percentage:\n   - Response 2: \\( 0.8155 \\times 100 = 81.55 \\)\n\nThe final answer is [Answer: \"81.55%\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 114,
+            "main_question": "what was average worldwide net acreage expiring in the total three year period , in millions?",
+            "sub_question": "What is the total net undeveloped acreage expiring worldwide over the three years?",
+            "answer": {
+                "answer": "3879",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To find the total net undeveloped acreage expiring worldwide over the three years (2014, 2015, and 2016), we need to sum the net undeveloped acres expiring in each of those years as provided in the table.\n\nGold Evidences:\n- Net undeveloped acres expiring in 2014: 586\n- Net undeveloped acres expiring in 2015: 3057\n- Net undeveloped acres expiring in 2016: 236\n\nSteps:\n1. Add the net undeveloped acres expiring in 2014, 2015, and 2016.\n   - Response 1: 586 + 3057 = 3643\n2. Add the result from Response 1 to the net undeveloped acres expiring in 2016.\n   - Response 2: 3643 + 236 = 3879\n\nThe final answer is [Answer: \"3879\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 115,
+            "main_question": "what was the total after-tax gains in millions for the sale so mastercard shares from 2006 to 2007?",
+            "sub_question": "What were the after-tax gains from the sale of Mastercard shares in 2006 and 2007?",
+            "answer": {
+                "answer": "$445 million",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: After-tax gains refer to the profit a company makes after accounting for taxes. To find the after-tax gains from the sale of Mastercard shares in 2006 and 2007, we need to extract the after-tax totals for both years from the provided data.\n\nGold Evidences:\n- The after-tax gain from the sale of Mastercard shares in 2007 is $367 million.\n- The after-tax gain from the sale of Mastercard shares in 2006 is $78 million.\n\nSteps:\n1. Identify the after-tax gain for 2007.\n   - Response 1: After-tax gain in 2007 = $367 million.\n   \n2. Identify the after-tax gain for 2006.\n   - Response 2: After-tax gain in 2006 = $78 million.\n\n3. Add the after-tax gains from both years.\n   - Response 3: $367 million (2007) + $78 million (2006) = $445 million.\n\nThe final answer is [Answer: \"$445 million\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 116,
+            "main_question": "what is the total in millions of expected cash outflow to satisfy contractual obligations and commitments as of december 31 , 2007?",
+            "sub_question": "What is the sum of capital leases, operating leases, debt principal, debt interest, purchase commitments, pension fundings, and other liabilities for the year 2008?",
+            "answer": {
+                "answer": "$5726 million",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To find the total sum of various financial obligations for the year 2008, we need to add together the amounts for capital leases, operating leases, debt principal, debt interest, purchase commitments, pension fundings, and other liabilities as provided in the table.\n\nGold Evidences:\n- Capital leases for 2008: $108 million\n- Operating leases for 2008: $378 million\n- Debt principal for 2008: $3,426 million\n- Debt interest for 2008: $329 million\n- Purchase commitments for 2008: $1,306 million\n- Pension fundings for 2008: $101 million\n- Other liabilities for 2008: $78 million\n\nSteps:\n1. Add capital leases and operating leases.\n   - Response 1: 108 + 378 = 486\n2. Add debt principal to the result from Step 1.\n   - Response 2: 486 + 3426 = 3912\n3. Add debt interest to the result from Step 2.\n   - Response 3: 3912 + 329 = 4241\n4. Add purchase commitments to the result from Step 3.\n   - Response 4: 4241 + 1306 = 5547\n5. Add pension fundings to the result from Step 4.\n   - Response 5: 5547 + 101 = 5648\n6. Add other liabilities to the result from Step 5.\n   - Response 6: 5648 + 78 = 5726\n\nThe final answer is [Answer: \"$5726 million\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 118,
+            "main_question": "by how much did the high of mktx stock increase from 2011 to march 2012?",
+            "sub_question": "What was the highest closing price of MKTX stock in 2011, and what was the highest closing price in the first quarter of 2012?",
+            "answer": {
+                "answer": "Highest closing price in 2011",
+                "confidence": "high"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To determine the highest closing prices of MKTX stock in 2011 and the first quarter of 2012, we need to analyze the provided data from the table. The highest price for each specified period can be found by identifying the maximum value listed for that period.\n\nGold Evidences:\n- For 2011, the highest prices are:\n  - Q1: $24.19\n  - Q2: $25.22\n  - Q3: $30.75\n  - Q4: $31.16\n- For the first quarter of 2012, the highest price is $37.79.\n\nSteps:\n1. Identify the highest closing price in 2011:\n   - Compare the highest prices for each quarter:\n     - Q1: $24.19\n     - Q2: $25.22\n     - Q3: $30.75\n     - Q4: $31.16\n   - The maximum value is $31.16 (Q4 2011).\n   \n2. Identify the highest closing price in the first quarter of 2012:\n   - The highest price for Q1 2012 is $37.79.\n\nThe final answer is [Answer: \"Highest closing price in 2011: $31.16; Highest closing price in Q1 2012: $37.79\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 119,
+            "main_question": "for equity investment balances including unfunded commitments what was the change in millions between december 31 , 2014 and december 31 , 2013/",
+            "sub_question": "What were the total equity investment balances including unfunded commitments for both December 31, 2014, and December 31, 2013?",
+            "answer": {
+                "answer": "Total for December 31, 2014",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To find the total equity investment balances including unfunded commitments for both December 31, 2014, and December 31, 2013, we need to sum the equity investment balances with their respective unfunded commitments for each year.\n\nGold Evidences:\n- Total equity investments on December 31, 2014: $10,728 million.\n- Total equity investments on December 31, 2013: $10,560 million.\n- Unfunded commitments on December 31, 2014: $717 million.\n- Unfunded commitments on December 31, 2013: $802 million.\n\nSteps:\n1. Calculate the total for December 31, 2014:\n   - Total equity investments (2014) + Unfunded commitments (2014)\n   - Response 1: $10,728 million + $717 million = $11,445 million\n\n2. Calculate the total for December 31, 2013:\n   - Total equity investments (2013) + Unfunded commitments (2013)\n   - Response 2: $10,560 million + $802 million = $11,362 million\n\nThe final answer is [Answer: \"Total for December 31, 2014: $11,445 million; Total for December 31, 2013: $11,362 million\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 120,
+            "main_question": "what was the net change in tax positions in 2014",
+            "sub_question": "What were the total increases and decreases in current and prior period tax positions for the year 2014?",
+            "answer": {
+                "answer": "$17,290",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To determine the total increases and decreases in current and prior period tax positions for the year 2014, we need to analyze the provided data from the table and sum the relevant figures for that year.\n\nGold Evidences:\n- Increases in current period tax positions for 2014: $53,818\n- Decreases in prior period measurement of tax positions for 2014: -$36,528\n\nSteps:\n1. Identify the increase in current period tax positions for 2014.\n   - Response 1: Current period increase = $53,818\n\n2. Identify the decrease in prior period measurement of tax positions for 2014.\n   - Response 2: Prior period decrease = -$36,528\n\n3. Add the current period increase and the prior period decrease to find the total for 2014.\n   - Response 3: Total = $53,818 + (-$36,528) = $53,818 - $36,528 = $17,290\n\nThe final answer is [Answer: \"$17,290\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 123,
+            "main_question": "as of december 31 , 2010 what percentage of the collateral that it was able to sell , repledge , deliver , or otherwise use was actually used for these purposes?",
+            "sub_question": "What is the ratio of the amount of collateral sold or repledged to the total amount of collateral received as of December 31, 2010?",
+            "answer": {
+                "answer": "0.7965",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To find the ratio of the amount of collateral sold or repledged to the total amount of collateral received, we need to divide the amount of collateral sold or repledged by the total amount of collateral received. \n\nGold Evidences:\n- The total amount of collateral received as of December 31, 2010 is approximately $655.0 billion.\n- The amount of collateral sold or repledged as of December 31, 2010 is approximately $521.3 billion.\n\nSteps:\n1. Identify the total collateral received: \n   - Total collateral received = $655.0 billion.\n   \n2. Identify the collateral sold or repledged: \n   - Collateral sold or repledged = $521.3 billion.\n   \n3. Calculate the ratio:\n   - Ratio = Collateral sold or repledged / Total collateral received\n   - Ratio = $521.3 billion / $655.0 billion.\n\n4. Perform the division:\n   - Response 1: 521.3 / 655.0 = 0.7965 (approximately).\n\n5. Convert the ratio to a percentage (if needed):\n   - Response 2: 0.7965 × 100 = 79.65%.\n\nThe final answer is [Answer: \"0.7965\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 124,
+            "main_question": "what is the anualized return for s&p 500 from 2012 to 2017?",
+            "sub_question": "What was the cumulative return of the S&P 500 from 2012 to 2017, and how do we use that to calculate the annualized return?",
+            "answer": {
+                "answer": "Cumulative return of the S&P 500 from 2012 to 2017 is 108.14%, and the annualized return is approximately 16.65%",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To calculate the cumulative return of the S&P 500 from 2012 to 2017, we need to find the difference between the final value and the initial investment, divide that by the initial investment, and then multiply by 100 to express it as a percentage. The annualized return can be calculated using the formula for compound annual growth rate (CAGR), which is \\((\\text{Ending Value} / \\text{Beginning Value})^{(1/n)} - 1\\), where \\(n\\) is the number of years.\n\nGold Evidences:\n- The S&P 500 value at the end of 2012 is assumed to be $100 (as per the investment assumption).\n- The S&P 500 value at the end of 2017 is $208.14.\n\nSteps:\n1. Calculate the cumulative return for the S&P 500 from 2012 to 2017:\n   - Ending Value = $208.14\n   - Beginning Value = $100\n   - Cumulative Return = \\((208.14 - 100) / 100\\)\n   - Response 1: \\(208.14 - 100 = 108.14\\)\n   - Response 2: \\(108.14 / 100 = 1.0814\\)\n   - Response 3: \\(1.0814 \\times 100 = 108.14\\%\\)\n\n2. Calculate the annualized return using the CAGR formula:\n   - \\(n = 5\\) (from 2012 to 2017)\n   - Annualized Return = \\((208.14 / 100)^{(1/5)} - 1\\)\n   - Response 4: \\(208.14 / 100 = 2.0814\\)\n   - Response 5: \\(2.0814^{(1/5)} \\approx 1.1665\\) (using a calculator for the fifth root)\n   - Response 6: \\(1.1665 - 1 = 0.1665\\)\n   - Response 7: \\(0.1665 \\times 100 \\approx 16.65\\%\\)\n\nThe final answer is [Answer: \"Cumulative return of the S&P 500 from 2012 to 2017 is 108.14%, and the annualized return is approximately 16.65%\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 126,
+            "main_question": "what is the net chance in non-vested performance awards in 2012 , ( in thousands ) ?",
+            "sub_question": "What is the formula to calculate the net change in non-vested performance awards, considering the beginning balance, shares granted, shares vested, and cancellations?",
+            "answer": {
+                "answer": "509,000 shares",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To calculate the net change in non-vested performance awards, we need to consider the beginning balance of non-vested awards, the shares granted during the year, the shares that have vested, and any cancellations. The formula for the net change can be expressed as:\n\nNet Change = (Beginning Balance + Shares Granted) - (Shares Vested + Cancellations)\n\nGold Evidences:\n- Non-vested performance awards at the beginning of the year: 707,000 shares\n- Shares granted during the year: 203,000 shares\n- Shares vested during the year: 379,000 shares\n- Cancellations and other: 22,000 shares\n\nSteps:\n1. Calculate the total shares available after grants:\n   - Beginning Balance + Shares Granted\n   - Response 1: 707 + 203 = 910 (in thousands)\n\n2. Calculate the total shares that have been removed (vested + cancellations):\n   - Shares Vested + Cancellations\n   - Response 2: 379 + 22 = 401 (in thousands)\n\n3. Calculate the net change in non-vested performance awards:\n   - Total Shares Available - Total Shares Removed\n   - Response 3: 910 - 401 = 509 (in thousands)\n\nThe final answer is [Answer: \"509,000 shares\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 129,
+            "main_question": "pursuant to the agreement , on march 30 , 2012 , what was the approximate price for each site the company purchased in thousands",
+            "sub_question": "What is the total purchase price for the 800 communications sites acquired on March 30, 2012?",
+            "answer": {
+                "answer": "$151.7 million",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: The total purchase price for an acquisition is the sum of all payments made to acquire the assets. In this case, we need to find the total purchase price for the 800 communications sites acquired on March 30, 2012.\n\nGold Evidences:\n- The company purchased 800 communications sites for an aggregate purchase price of $151.7 million on March 30, 2012.\n\nSteps:\n1. Identify the purchase price for the 800 communications sites.\n   - The purchase price is $151.7 million.\n\nSince the question specifically asks for the total purchase price for the 800 communications sites acquired on March 30, 2012, we can conclude that the total purchase price is simply the amount stated.\n\nThe final answer is [Answer: \"$151.7 million\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 139,
+            "main_question": "if 2014 underlying operating profit increases at the same pace as 2013 , what would it be , in millions?",
+            "sub_question": "What was the percentage increase in underlying operating profit from 2012 to 2013?",
+            "answer": {
+                "answer": "4.17%",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To calculate the percentage increase in underlying operating profit from one year to another, we need to find the difference between the two years' profits, divide that difference by the earlier year's profit, and then multiply by 100 to convert it to a percentage.\n\nGold Evidences:\n- Underlying operating profit in 2013 is $2,098 million.\n- Underlying operating profit in 2012 is $2,014 million.\n\nSteps:\n1. Subtract the 2012 underlying operating profit from the 2013 underlying operating profit.\n   - Response 1: 2098 - 2014 = 84\n2. Divide the result from step 1 by the 2012 underlying operating profit.\n   - Response 2: 84 / 2014 = 0.0417\n3. Multiply the result from step 2 by 100 to get the percentage.\n   - Response 3: 0.0417 × 100 = 4.17\n\nThe final answer is [Answer: \"4.17%\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 143,
+            "main_question": "for 2007 and 2006 in millions , what was average residential mortgage loan balance?",
+            "sub_question": "What were the total residential mortgage loans outstanding for 2007 and 2006?",
+            "answer": {
+                "answer": "Total residential mortgage loans outstanding for 2007",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To find the total residential mortgage loans outstanding for the years 2007 and 2006, we need to extract the relevant figures from the provided table data.\n\nGold Evidences:\n- The total residential mortgage loans outstanding for 2007 are $9,557 million.\n- The total residential mortgage loans outstanding for 2006 are $6,337 million.\n\nSteps:\n1. Identify the residential mortgage loans for 2007.\n   - Response 1: Residential mortgage loans in 2007 = $9,557 million.\n2. Identify the residential mortgage loans for 2006.\n   - Response 2: Residential mortgage loans in 2006 = $6,337 million.\n\nThe final answer is [Answer: \"Total residential mortgage loans outstanding for 2007: $9,557 million; Total residential mortgage loans outstanding for 2006: $6,337 million\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 144,
+            "main_question": "what would 2015 net revenue have been in millions assuming there was no impact from both the retail electric price change and the impact of volume/weather in the year?",
+            "sub_question": "What is the total amount of revenue attributed to retail electric price changes and volume/weather impacts in 2015?",
+            "answer": {
+                "answer": "$282 million",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To determine the total amount of revenue attributed to retail electric price changes and volume/weather impacts in 2015, we need to extract the relevant figures from the provided data. The retail electric price change and volume/weather impacts are given as separate line items in the table.\n\nGold Evidences:\n- The retail electric price change in 2015 is $187 million.\n- The volume/weather impact in 2015 is $95 million.\n\nSteps:\n1. Identify the retail electric price change amount.\n   - Retail electric price change = $187 million\n2. Identify the volume/weather impact amount.\n   - Volume/weather impact = $95 million\n3. Add the two amounts together to find the total revenue attributed to these changes.\n   - Total revenue = Retail electric price change + Volume/weather impact\n   - Total revenue = $187 million + $95 million\n\nCalculating:\n- Total revenue = 187 + 95 = 282 million\n\nThe final answer is [Answer: \"$282 million\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 150,
+            "main_question": "what is the current portion of the present value of lease obligations?",
+            "sub_question": "What is the amount listed as the current portion of the present value of lease obligations?",
+            "answer": {
+                "answer": "-1336",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: The current portion of lease obligations refers to the amount of the lease obligation that is due within the next year. This is typically a part of the total lease obligation that is classified as a current liability on the balance sheet.\n\nGold Evidences:\n- The present value of the obligation is $42,546 (in thousands).\n- The current portion of the obligation is listed as -$1,336 (in thousands).\n\nSteps:\n1. Identify the current portion of the present value of lease obligations from the provided data.\n   - The current portion is given as -$1,336 (in thousands).\n\nThe final answer is [Answer: \"-1336\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 151,
+            "main_question": "what is the total return if 100000 are invested in s&p500 in 2008 and sold in 2011?",
+            "sub_question": "What was the cumulative return of the S&P 500 index from October 26, 2008, to October 30, 2011?",
+            "answer": {
+                "answer": "38.29%",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: Cumulative return is calculated by taking the ending value of an investment, subtracting the initial investment, and then dividing by the initial investment. This gives the total percentage increase or decrease over the period.\n\nGold Evidences:\n- The S&P 500 index value on October 26, 2008, is $100.00.\n- The S&P 500 index value on October 30, 2011, is $138.29.\n\nSteps:\n1. Calculate the difference between the ending value and the initial investment.\n   - Ending value (10/30/2011): 138.29\n   - Initial investment (10/26/2008): 100.00\n   - Difference: 138.29 - 100.00 = 38.29\n\n2. Divide the difference by the initial investment to find the return.\n   - Return: 38.29 / 100.00 = 0.3829\n\n3. Multiply by 100 to convert to a percentage.\n   - Cumulative return percentage: 0.3829 × 100 = 38.29%\n\nThe final answer is [Answer: \"38.29%\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 156,
+            "main_question": "what was the value in thousands of unvested restricted stock and performance awards at the weighted-averagegrant-datefair value as of december 31 , 2017?\\\\n",
+            "sub_question": "What is the total number of unvested shares and their weighted-average grant-date fair value as of December 31, 2017?",
+            "answer": {
+                "answer": "Total unvested shares",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To determine the total number of unvested shares and their weighted-average grant-date fair value as of December 31, 2017, we need to analyze the data provided in the table for that specific date. The total unvested shares will be the number of shares listed as unvested at December 31, 2017, and the weighted-average grant-date fair value will be the corresponding value for those shares.\n\nGold Evidences:\n- Unvested shares at December 31, 2017: 1226 (in thousands)\n- Weighted-average grant-date fair value at December 31, 2017: $78.29\n\nSteps:\n1. Identify the number of unvested shares at December 31, 2017.\n   - Response 1: Unvested shares = 1226 (in thousands)\n   \n2. Identify the weighted-average grant-date fair value at December 31, 2017.\n   - Response 2: Weighted-average grant-date fair value = $78.29\n\n3. Combine the results to present the total unvested shares and their weighted-average grant-date fair value.\n   - Total unvested shares = 1226 (in thousands)\n   - Weighted-average grant-date fair value = $78.29\n\nThe final answer is [Answer: \"Total unvested shares: 1226 (in thousands); Weighted-average grant-date fair value: $78.29\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 157,
+            "main_question": "what percent of future notes are due by 2017?",
+            "sub_question": "What is the total principal amount of notes due by 2017 compared to the total principal amount of all notes issued?",
+            "answer": {
+                "answer": "28%",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To determine the total principal amount of notes due by 2017 compared to the total principal amount of all notes issued, we need to identify the principal amounts of the notes that are due by 2017 and the total principal amount of all notes issued.\n\nGold Evidences:\n- The 2017 notes have a principal amount of $700 million and are due in 2017.\n- The 2019 notes have a principal amount of $1.0 billion but are due in 2019.\n- The 2013 notes (which are not directly mentioned in the question but are part of the context) have been repaid by 2014.\n- The total principal amount of all notes issued is $2.5 billion.\n\nSteps:\n1. Identify the principal amount of notes due by 2017:\n   - 2017 notes: $700 million\n   - 2019 notes: $0 (not due by 2017)\n   - Total due by 2017 = $700 million\n\n2. Identify the total principal amount of all notes issued:\n   - Total issued = $2.5 billion\n\n3. Calculate the ratio of the total principal amount of notes due by 2017 to the total principal amount of all notes issued:\n   - Ratio = (Total due by 2017) / (Total issued)\n   - Ratio = $700 million / $2.5 billion\n\n4. Convert the ratio to a percentage:\n   - Ratio = $700 million / $2,500 million = 0.28\n   - Percentage = 0.28 * 100 = 28%\n\nThe final answer is [Answer: \"28%\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 159,
+            "main_question": "what is the maximum depreciation rate that can be used for furniture fixtures and equipment?",
+            "sub_question": "What is the estimated useful life of furniture fixtures and equipment according to the company's accounting policies?",
+            "answer": {
+                "answer": "3 to 10 years",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: The estimated useful life of an asset is the period over which it is expected to be used by a company. This information is crucial for calculating depreciation and understanding the asset's value over time.\n\nGold Evidences:\n- The table provided states that the estimated useful life of furniture fixtures and equipment is between 3 to 10 years.\n\nSteps:\n1. Identify the range of estimated useful life for furniture fixtures and equipment from the table.\n   - Response 1: The estimated useful life is 3 to 10 years.\n\nThe final answer is [Answer: \"3 to 10 years\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 160,
+            "main_question": "as of december 31 , 2004 , how many shares of common stock were outstanding?",
+            "sub_question": "What was the total number of common shares issued and outstanding before the reverse stock split on November 1, 2004?",
+            "answer": {
+                "answer": "1,939,734",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To determine the total number of common shares issued and outstanding before the reverse stock split, we need to look at the number of shares issued to employees and any other relevant information regarding common stock prior to the stock split.\n\nGold Evidences:\n- As of December 31, 2004, the company had 1,939,734 shares of common stock issued to employees.\n- As of December 31, 2003, the company had 1,937,141 shares of common stock issued to employees.\n- The reverse stock split was a one-for-three split, which means that for every three shares held, shareholders would receive one share after the split.\n\nSteps:\n1. Identify the number of shares issued as of December 31, 2004.\n   - Response 1: 1,939,734 shares (issued to employees).\n2. Identify the number of shares issued as of December 31, 2003.\n   - Response 2: 1,937,141 shares (issued to employees).\n3. Since the question asks for the total number of common shares issued and outstanding before the reverse stock split, we will consider the shares as of December 31, 2004.\n   - Total shares before the reverse stock split = 1,939,734 shares.\n\nThe final answer is [Answer: \"1,939,734\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 161,
+            "main_question": "what was the change in millions of impairment charges included in sg&a expense from 2006 to 2007",
+            "sub_question": "What were the impairment charges recorded in SG&A expense for 2006 and 2007?",
+            "answer": {
+                "answer": "2006",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: Impairment charges refer to the reduction in the carrying value of an asset when its fair value is less than its book value. In this context, the impairment charges are recorded in the Selling, General and Administrative (SG&A) expenses of the company.\n\nGold Evidences:\n- The impairment charges recorded in SG&A expense for the 2007 predecessor period were approximately $0.2 million.\n- The impairment charges recorded in SG&A expense for 2006 were approximately $9.4 million.\n\nSteps:\n1. Identify the impairment charge for 2007.\n   - Response 1: $0.2 million (2007)\n2. Identify the impairment charge for 2006.\n   - Response 2: $9.4 million (2006)\n\nThe final answer is [Answer: \"2006: $9.4 million; 2007: $0.2 million\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 163,
+            "main_question": "what was the difference in the companies high compared to its low sales price for the second quarter of 2001?",
+            "sub_question": "What is the calculation for the difference between the high price of $52.25 and the low price of $39.95 for the second quarter of 2001?",
+            "answer": {
+                "answer": "12.30",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To find the difference between the high and low stock prices, we can use the formula: Difference = High Price - Low Price. This will give us the range of stock prices for that quarter.\n\nGold Evidences:\n- The high price for the second quarter of 2001 is $52.25.\n- The low price for the second quarter of 2001 is $39.95.\n\nSteps:\n1. Subtract the low price from the high price.\n   - Response 1: 52.25 - 39.95 = 12.30\n\nThe final answer is [Answer: \"12.30\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 165,
+            "main_question": "what was the average total revenue in 1999 , 2000 and 2001?",
+            "sub_question": "What were the total revenues reported for the years 1999, 2000, and 2001?",
+            "answer": {
+                "answer": "$694,025",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: Total revenues refer to the total income generated by a company from its business activities, including sales of goods and services, before any expenses are deducted. To find the total revenues for the years 1999, 2000, and 2001, we need to extract the revenue figures for each of these years from the provided data.\n\nGold Evidences:\n- Total revenues for the year ended December 31, 1999: $206,017\n- Total revenues for the year ended December 31, 2000: $230,323\n- Total revenues for the year ended December 31, 2001: $257,685\n\nSteps:\n1. Identify the total revenues for each year:\n   - 1999: $206,017\n   - 2000: $230,323\n   - 2001: $257,685\n\n2. Add the total revenues for the three years together:\n   - Response 1: $206,017 + $230,323 = $436,340\n   - Response 2: $436,340 + $257,685 = $694,025\n\nThe final answer is [Answer: \"$694,025\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 170,
+            "main_question": "what was the percentage change in the minority interest from 2005 to 2006",
+            "sub_question": "What were the minority interest values for 2005 and 2006?",
+            "answer": {
+                "answer": "Minority interest for 2005 was -3.5 million and for 2006 was -3.7 million",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: Minority interest refers to the portion of a subsidiary not owned by the parent company. In financial statements, it is important to identify the values of minority interests for different years to understand the changes in ownership stakes and their financial implications.\n\nGold Evidences:\n- The minority interests for the years provided in the table are:\n  - 2005: $ -3.5 million\n  - 2006: $ -3.7 million\n\nSteps:\n1. Identify the minority interest value for 2005 from the table.\n   - Response 1: Minority interest for 2005 = -3.5 million\n2. Identify the minority interest value for 2006 from the table.\n   - Response 2: Minority interest for 2006 = -3.7 million\n\nThe final answer is [Answer: \"Minority interest for 2005 was -3.5 million and for 2006 was -3.7 million\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 171,
+            "main_question": "what is the percentage decrease in total contingent acquisition payments from 2018-2019?",
+            "sub_question": "What were the total contingent acquisition payments for 2018 and 2019?",
+            "answer": {
+                "answer": "132.9 million",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: Contingent acquisition payments refer to future payments that a company may be obligated to make based on certain conditions, such as the exercise of options or achieving performance targets. To find the total contingent acquisition payments for 2018 and 2019, we need to sum the respective amounts for those years.\n\nGold Evidences:\n- The total contingent acquisition payments for 2018 are $79.0 million.\n- The total contingent acquisition payments for 2019 are $53.9 million.\n\nSteps:\n1. Add the total contingent acquisition payments for 2018 and 2019.\n   - Response 1: 79.0 + 53.9 = 132.9\n\nThe final answer is [Answer: \"132.9 million\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 173,
+            "main_question": "how is the cash flow of entergy gulf states louisiana affected by the balance from money pool from 2007 to 2008 , in thousands?",
+            "sub_question": "What was the change in the money pool balance from 2007 to 2008, and how does this change reflect on the cash flow of Entergy Gulf States Louisiana?",
+            "answer": {
+                "answer": "$43,920,000 decrease",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: The money pool balance reflects the net receivables or payables of Entergy Gulf States Louisiana. A decrease in the money pool balance indicates that the company has either paid off some of its obligations or has less cash available, which can impact its cash flow. To find the change in the money pool balance from 2007 to 2008, we need to subtract the 2008 balance from the 2007 balance.\n\nGold Evidences:\n- The money pool balance for 2008 is $11,589,000.\n- The money pool balance for 2007 is $55,509,000.\n\nSteps:\n1. Subtract the 2008 balance from the 2007 balance.\n   - Response 1: 55,509 - 11,589 = 43,920\n2. The change in the money pool balance from 2007 to 2008 is a decrease of $43,920,000.\n\nConclusion: The decrease in the money pool balance indicates that Entergy Gulf States Louisiana has less cash available compared to the previous year, which could reflect a tighter cash flow situation. This may suggest that the company has utilized its cash for other obligations or investments.\n\nThe final answer is [Answer: \"$43,920,000 decrease\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 174,
+            "main_question": "what was total acres expiring in millions for other africa?",
+            "sub_question": "What is the total number of net undeveloped acres expiring in \"other Africa\" for the years 2014, 2015, and 2016?",
+            "answer": {
+                "answer": "2983",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To find the total number of net undeveloped acres expiring in \"other Africa\" for the years 2014, 2015, and 2016, we need to sum the values of net undeveloped acres for each of those years as provided in the table.\n\nGold Evidences:\n- The net undeveloped acres expiring in \"other Africa\" are:\n  - 2014: 189\n  - 2015: 2605\n  - 2016: 189\n\nSteps:\n1. Add the net undeveloped acres for 2014, 2015, and 2016.\n   - Response 1: 189 + 2605 + 189 = 2983\n\nThe final answer is [Answer: \"2983\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 178,
+            "main_question": "what were total distillates sales in millions for the three year period ? 365 346 345",
+            "sub_question": "What is the sum of the distillate sales volumes for the years 2003, 2002, and 2001?",
+            "answer": {
+                "answer": "1056 thousand barrels per day",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To find the sum of the distillate sales volumes for the years 2003, 2002, and 2001, we need to extract the distillate sales volumes from the provided table and then perform a simple addition of these values.\n\nGold Evidences:\n- The distillate sales volumes from the table are:\n  - 2003: 365 thousand barrels per day\n  - 2002: 346 thousand barrels per day\n  - 2001: 345 thousand barrels per day\n\nSteps:\n1. Add the distillate sales volumes for 2003, 2002, and 2001.\n   - Response 1: 365 + 346 = 711 (for 2003 and 2002)\n   - Response 2: 711 + 345 = 1056 (adding 2001)\n\nThe final answer is [Answer: \"1056 thousand barrels per day\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 182,
+            "main_question": "based on the total average price paid per share , what was the total cost of the share repurchases during the 4th quarter of 2004?",
+            "sub_question": "What is the formula to calculate the total cost of share repurchases based on the total number of shares purchased and the average price paid per share?",
+            "answer": {
+                "answer": "$1,724,186.58",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To calculate the total cost of share repurchases, we need to multiply the total number of shares purchased by the average price paid per share. This is a straightforward calculation in finance where the total cost is derived from the quantity of shares and their respective price.\n\nGold Evidences:\n- The total number of shares purchased during the fourth quarter is 45,686.\n- The average price paid per share is $37.73.\n\nSteps:\n1. Identify the total number of shares purchased: 45,686 shares.\n2. Identify the average price paid per share: $37.73.\n3. Multiply the total number of shares by the average price:\n   - Response 1: 45,686 shares × $37.73 = $1,724,186.58.\n\nThe final answer is [Answer: \"$1,724,186.58\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 185,
+            "main_question": "by how much did changes in the company 2019s gross liability increase from 2011 to 2012?",
+            "sub_question": "What was the difference in the balance of the company's gross liability from December 31, 2011, to December 31, 2012?",
+            "answer": {
+                "answer": "22415",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To find the difference in the balance of the company's gross liability from December 31, 2011, to December 31, 2012, we need to subtract the balance at December 31, 2011, from the balance at December 31, 2012.\n\nGold Evidences:\n- The balance at December 31, 2011, is $158,578.\n- The balance at December 31, 2012, is $180,993.\n\nSteps:\n1. Subtract the balance at December 31, 2011, from the balance at December 31, 2012.\n   - Response 1: 180993 - 158578 = 22415\n\nThe final answer is [Answer: \"22415\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 190,
+            "main_question": "what is the minimum capital requirement as defined by the net capital rule in millions",
+            "sub_question": "What is the minimum capital requirement stated in the net capital rule?",
+            "answer": {
+                "answer": "The net capital rule establishes minimum capital requirements for broker-dealers to ensure they maintain sufficient capital to meet their obligations. The minimum capital requirement is a specific dollar amount that firms must maintain as a buffer against potential losses.\n\nGold Evidences:\n- The text states that jpmorgan chase & co. is also required to notify the securities and exchange commission (sec) in the event that tentative net capital is less than $ 5.0 billion in accordance with the market and credit risk standards of appendix",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: The net capital rule establishes minimum capital requirements for broker-dealers to ensure they maintain sufficient capital to meet their obligations. The minimum capital requirement is a specific dollar amount that firms must maintain as a buffer against potential losses.\n\nGold Evidences:\n- The text states that \"jpmorgan chase & co. is also required to notify the securities and exchange commission (sec) in the event that tentative net capital is less than $ 5.0 billion in accordance with the market and credit risk standards of appendix"
+        }
+    ],
+    [
+        {
+            "q_no": 191,
+            "main_question": "considering the average exercise price of options , what is the increase in the total value of stock options observed during 2016 and 2017 , in millions of dollars?",
+            "sub_question": "What is the difference in the total value of stock options calculated using the average exercise price and the number of stock options for 2016 and 2017?",
+            "answer": {
+                "answer": "$17,430,000",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To find the difference in the total value of stock options for 2016 and 2017, we need to calculate the total value of stock options for each year using the formula: Total Value = Number of Stock Options × Average Exercise Price. Then, we will find the difference between the two calculated values.\n\nGold Evidences:\n- The number of stock options for 2016 is 13 million.\n- The number of stock options for 2017 is 11 million.\n- The average exercise price of options per share for 2016 is $26.93.\n- The average exercise price of options per share for 2017 is $33.32.\n\nSteps:\n1. Calculate the total value of stock options for 2016:\n   - Total Value 2016 = Number of Stock Options 2016 × Average Exercise Price 2016\n   - Total Value 2016 = 13 million × $26.93\n   - Response 1: 13,000,000 × 26.93 = $349,090,000\n\n2. Calculate the total value of stock options for 2017:\n   - Total Value 2017 = Number of Stock Options 2017 × Average Exercise Price 2017\n   - Total Value 2017 = 11 million × $33.32\n   - Response 2: 11,000,000 × 33.32 = $366,520,000\n\n3. Find the difference in total value between 2017 and 2016:\n   - Difference = Total Value 2017 - Total Value 2016\n   - Difference = $366,520,000 - $349,090,000\n   - Response 3: $366,520,000 - $349,090,000 = $17,430,000\n\nThe final answer is [Answer: \"$17,430,000\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 192,
+            "main_question": "as of december 2013 what was the value of the equity compensation plans approved by security holders to be issued upon exercise of outstanding options warrants and rights",
+            "sub_question": "What is the total value of the 151,945 securities approved by security holders, given their weighted average exercise price of $24.61?",
+            "answer": {
+                "answer": "$3,733,078.45",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To find the total value of the securities approved by security holders, we need to multiply the number of securities by their weighted average exercise price. This will give us the total value of the options, warrants, and rights that are outstanding.\n\nGold Evidences:\n- The number of securities approved by security holders is 151,945.\n- The weighted average exercise price of these securities is $24.61.\n\nSteps:\n1. Multiply the number of securities by the weighted average exercise price.\n   - Response 1: 151,945 * 24.61 = 3,733,078.45\n\nThe final answer is [Answer: \"$3,733,078.45\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 193,
+            "main_question": "what was the difference in the companies high compared to its low sales price for the fourth quarter of 2001?",
+            "sub_question": "What are the high and low sale prices for the company's common stock in the fourth quarter of 2001?",
+            "answer": {
+                "answer": "High",
+                "confidence": "high"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: The high and low sale prices of a company's common stock are typically reported for specific periods, such as quarters. To answer the question, we need to extract the relevant data from the provided table for the fourth quarter of 2001.\n\nGold Evidences:\n- The table indicates the high and low sale prices for the common stock in the fourth quarter of 2001.\n- The high price for the fourth quarter of 2001 is $17.80.\n- The low price for the fourth quarter of 2001 is $11.60.\n\nSteps:\n1. Identify the high sale price for the fourth quarter of 2001.\n   - Response 1: High price = $17.80\n2. Identify the low sale price for the fourth quarter of 2001.\n   - Response 2: Low price = $11.60\n\nThe final answer is [Answer: \"High: $17.80; Low: $11.60\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 197,
+            "main_question": "what is the total fair value of non-vested shares as of september 26 , 2009?",
+            "sub_question": "What is the formula to calculate the total fair value of non-vested shares?",
+            "answer": {
+                "answer": "$60,853.20",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: The total fair value of non-vested shares can be calculated by multiplying the number of non-vested shares by their weighted-average grant-date fair value. This is a common method used in accounting to assess the value of stock options or restricted stock units.\n\nGold Evidences:\n- The number of non-vested shares at September 26, 2009, is 2,770.\n- The weighted-average grant-date fair value for these shares is $21.96.\n\nSteps:\n1. Identify the number of non-vested shares.\n   - Non-vested shares = 2770\n2. Identify the weighted-average grant-date fair value.\n   - Weighted-average grant-date fair value = $21.96\n3. Multiply the number of non-vested shares by the weighted-average grant-date fair value.\n   - Total fair value = 2770 * 21.96\n4. Perform the multiplication.\n   - Total fair value = 2770 * 21.96 = 60,853.20\n\nThe final answer is [Answer: \"$60,853.20\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 198,
+            "main_question": "as of december 312018 what was the percent of restricted cash and marketable securities dedicated to the support our insurance programs",
+            "sub_question": "What is the formula to calculate the percentage of restricted cash and marketable securities allocated to insurance programs?",
+            "answer": {
+                "answer": "72.6%",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To calculate the percentage of restricted cash and marketable securities allocated to insurance programs, we need to determine the ratio of the amount allocated to insurance programs to the total amount of restricted cash and marketable securities. The formula for calculating this percentage is:\n\n\\[ \\text{Percentage} = \\left( \\frac{\\text{Amount allocated to insurance programs}}{\\text{Total restricted cash and marketable securities}} \\right) \\times 100 \\]\n\nGold Evidences:\n- The total amount of restricted cash and marketable securities as of December 31, 2018, is $108.1 million.\n- The amount that supports insurance programs is $78.6 million.\n\nSteps:\n1. Identify the amount allocated to insurance programs: \n   - Amount allocated = $78.6 million\n2. Identify the total restricted cash and marketable securities: \n   - Total amount = $108.1 million\n3. Divide the amount allocated to insurance programs by the total amount:\n   - Calculation: \\( \\frac{78.6}{108.1} \\)\n4. Multiply the result by 100 to get the percentage:\n   - Calculation: \\( \\left( \\frac{78.6}{108.1} \\right) \\times 100 \\)\n\nNow, let's perform the calculations:\n1. \\( \\frac{78.6}{108.1} \\approx 0.726 \\)\n2. \\( 0.726 \\times 100 \\approx 72.6 \\)\n\nThe final answer is [Answer: \"72.6%\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 203,
+            "main_question": "what portion of the woburn property is used by the american tower corporation?",
+            "sub_question": "What is the total square footage occupied by the lease administration office and broadcast division in the Woburn property?",
+            "answer": {
+                "answer": "57,100 square feet",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To find the total square footage occupied by the lease administration office and broadcast division in the Woburn property, we need to refer to the specific details provided about the Woburn location in the context. \n\nGold Evidences:\n- The total square footage of the Woburn property is 163,000 square feet.\n- Approximately 57,100 square feet of space is occupied by the lease administration office and the broadcast division.\n\nSteps:\n1. Identify the square footage occupied by the lease administration office and broadcast division.\n   - Response 1: 57,100 square feet (as stated in the post-text).\n\nThe final answer is [Answer: \"57,100 square feet\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 204,
+            "main_question": "what percent increase in long-term debt did the floating rate notes maturing in 2010?",
+            "sub_question": "What was the original amount of long-term debt before the issuance of the floating rate notes maturing in 2010?",
+            "answer": {
+                "answer": "$2,001.2 million",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To determine the original amount of long-term debt before the issuance of the floating rate notes maturing in 2010, we need to analyze the total long-term debt and the specific transactions related to the floating rate notes. The total long-term debt is provided, and we need to account for the floating rate notes that were exchanged.\n\nGold Evidences:\n- The total long-term debt as of December 31, 2006, is $2,251.2 million.\n- The floating rate notes due 2008 were exchanged for floating rate notes due 2010, with an aggregate principal amount of $250.0 million.\n\nSteps:\n1. Identify the total long-term debt: \n   - Total long-term debt = $2,251.2 million.\n   \n2. Identify the amount of floating rate notes that were exchanged:\n   - Amount of floating rate notes exchanged = $250.0 million.\n\n3. Subtract the amount of floating rate notes from the total long-term debt to find the original amount of long-term debt before the issuance of the floating rate notes maturing in 2010:\n   - Original long-term debt = Total long-term debt - Amount of floating rate notes exchanged\n   - Original long-term debt = $2,251.2 million - $250.0 million = $2,001.2 million.\n\nThe final answer is [Answer: \"$2,001.2 million\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 208,
+            "main_question": "what was the average construction in progress impairment from 2004 to 2006 im millions",
+            "sub_question": "What were the total construction-in-progress impairment charges for the years 2004, 2005, and 2006?",
+            "answer": {
+                "answer": "$7.9 million",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: Construction-in-progress impairment charges refer to the write-offs of costs associated with construction projects that are no longer planned or viable. To find the total construction-in-progress impairment charges for the years 2004, 2005, and 2006, we need to sum the impairment charges for each of those years.\n\nGold Evidences:\n- The construction-in-progress impairment charges for the years are as follows:\n  - 2004: $4.6 million\n  - 2005: $2.3 million\n  - 2006: $1.0 million\n\nSteps:\n1. Identify the impairment charges for each year:\n   - 2004: $4.6 million\n   - 2005: $2.3 million\n   - 2006: $1.0 million\n2. Add the impairment charges together:\n   - Response 1: 4.6 + 2.3 = 6.9 million (for 2004 and 2005)\n   - Response 2: 6.9 + 1.0 = 7.9 million (adding 2006)\n\nThe final answer is [Answer: \"$7.9 million\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 209,
+            "main_question": "what was the percentage change in non-interest revenue from 2007 to 2008?",
+            "sub_question": "What were the non-interest revenue figures for 2007 and 2008?",
+            "answer": {
+                "answer": "2008",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: Non-interest revenue refers to the income generated by a company from sources other than interest, such as fees, commissions, and other income. To find the non-interest revenue figures for 2007 and 2008, we need to extract the relevant values from the provided table.\n\nGold Evidences:\n- The non-interest revenue for 2008 is $438 million.\n- The non-interest revenue for 2007 is reported as $-291 million (which indicates a loss).\n\nSteps:\n1. Identify the non-interest revenue for 2008 from the table.\n   - Response 1: Non-interest revenue for 2008 = $438 million.\n2. Identify the non-interest revenue for 2007 from the table.\n   - Response 2: Non-interest revenue for 2007 = $-291 million.\n\nThe final answer is [Answer: \"2008: $438 million; 2007: -$291 million\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 210,
+            "main_question": "what percentage of total other current assets is represented by",
+            "sub_question": "What is the specific item from the other current assets that you want to calculate the percentage for?",
+            "answer": {
+                "answer": "153.03%",
+                "confidence": "low"
+            },
+            "raw_answer": "Domain Knowledge: To calculate the percentage change for a specific item from the other current assets, we need to identify the values for that item in both years (2010 and 2009), find the difference between the two values, divide that difference by the value from the previous year (2009), and then multiply by 100 to get the percentage change.\n\nGold Evidences:\n- The table provides values for various items in millions for the years 2010 and 2009.\n- We need to select a specific item from the other current assets to calculate the percentage change.\n\nLet's choose \"refundable income tax\" as the specific item to calculate the percentage change.\n\nSteps:\n1. Identify the values for refundable income tax:\n   - 2010: $61.0 million\n   - 2009: $24.1 million\n\n2. Subtract the 2009 value from the 2010 value:\n   - Response 1: 61.0 - 24.1 = 36.9 million\n\n3. Divide the difference by the 2009 value:\n   - Response 2: 36.9 / 24.1 = 1.5303\n\n4. Multiply by 100 to get the percentage:\n   - Response 3: 1.5303 × 100 = 153.03%\n\nThe final answer is [Answer: \"153.03%\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 212,
+            "main_question": "assuming the same appreciation as 2007 , what would be the expected 2008 weighted average grant-date fair value for options?",
+            "sub_question": "What assumptions regarding risk-free interest rate, expected option life, and expected volatility should be applied to estimate the 2008 fair value, assuming they remain consistent with the trends observed in 2007?",
+            "answer": {
+                "answer": "Risk-Free Interest Rate",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To estimate the fair value of stock options for 2008, we need to analyze the trends in the risk-free interest rate, expected option life, and expected volatility from the years 2005 to 2007. We will then extrapolate these trends to make reasonable assumptions for 2008.\n\nGold Evidences:\n- The risk-free interest rates for 2005, 2006, and 2007 are 3.87%, 4.14%, and 4.97%, respectively.\n- The expected option life for 2005, 2006, and 2007 is 7.5 years, 7.3 years, and 6.25 years, respectively.\n- The expected volatility for 2005, 2006, and 2007 is 84%, 73%, and 65%, respectively.\n\nSteps:\n1. **Risk-Free Interest Rate**: \n   - The trend shows an increase from 3.87% in 2005 to 4.97% in 2007. \n   - The increase is approximately 1.1% over 2 years, averaging about 0.55% per year.\n   - Assuming this trend continues, we can estimate the 2008 rate as: \n     - 4.97% + 0.55% = 5.52%.\n\n2. **Expected Option Life**: \n   - The trend shows a decrease from 7.5 years in 2005 to 6.25 years in 2007.\n   - The decrease is approximately 1.25 years over 2 years, averaging about 0.625 years per year.\n   - Assuming this trend continues, we can estimate the 2008 option life as:\n     - 6.25 - 0.625 = 5.625 years.\n\n3. **Expected Volatility**: \n   - The trend shows a decrease from 84% in 2005 to 65% in 2007.\n   - The decrease is approximately 19% over 2 years, averaging about 9.5% per year.\n   - Assuming this trend continues, we can estimate the 2008 volatility as:\n     - 65% - 9.5% = 55.5%.\n\nThe final assumptions for 2008 are:\n- Risk-Free Interest Rate: 5.52%\n- Expected Option Life: 5.625 years\n- Expected Volatility: 55.5%\n\nThe final answer is [Answer: \"Risk-Free Interest Rate: 5.52%; Expected Option Life: 5.625 years; Expected Volatility: 55.5%\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 213,
+            "main_question": "what is the range of height of monopole towers , in feet?",
+            "sub_question": "What is the specified height range for monopole towers as mentioned in the context?",
+            "answer": {
+                "answer": "50 to 200 feet",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: The context provides information about different types of towers used in communications, including their characteristics and height ranges. To answer the question, we need to focus specifically on the details provided about monopole towers.\n\nGold Evidences:\n- The context states: \"a monopole is a tubular structure that is used primarily to address space constraints or aesthetic concerns. monopoles typically have heights ranging from 50 to 200 feet.\"\n\nSteps:\n1. Identify the height range for monopole towers from the provided context.\n   - The context specifies that monopoles typically have heights ranging from 50 feet to 200 feet.\n\nThe final answer is [Answer: \"50 to 200 feet\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 217,
+            "main_question": "what was the percent of the total gains that was from the sales of land",
+            "sub_question": "What is the formula to calculate the percentage of gain on land sales compared to the total gains for the year 2001?",
+            "answer": {
+                "answer": "11.12%",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To calculate the percentage of gain on land sales compared to the total gains for the year, we need to use the formula: \n\n\\[\n\\text{Percentage} = \\left( \\frac{\\text{Gain on Land Sales}}{\\text{Total Gains}} \\right) \\times 100\n\\]\n\nGold Evidences:\n- Gain on land sales for 2001 is $5,080.\n- Total gains for 2001 is $45,708.\n\nSteps:\n1. Identify the gain on land sales: \n   - Gain on land sales = $5,080.\n   \n2. Identify the total gains: \n   - Total gains = $45,708.\n   \n3. Divide the gain on land sales by the total gains:\n   - Calculation: \\( \\frac{5,080}{45,708} \\).\n\n4. Perform the division:\n   - \\( \\frac{5,080}{45,708} \\approx 0.1112 \\).\n\n5. Multiply by 100 to convert to percentage:\n   - \\( 0.1112 \\times 100 \\approx 11.12 \\).\n\nThe final answer is [Answer: \"11.12%\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 218,
+            "main_question": "what is the after-tax share-based compensation cost in 2010?",
+            "sub_question": "What is the formula to calculate the after-tax share-based compensation cost using the share-based compensation cost and the income tax benefit?",
+            "answer": {
+                "answer": "After-tax share-based compensation cost = $24.4 million",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To calculate the after-tax share-based compensation cost, we need to understand how taxes affect the total cost. The after-tax cost can be calculated by subtracting the tax benefit from the share-based compensation cost. The formula for this is:\n\nAfter-tax share-based compensation cost = Share-based compensation cost - Income tax benefit\n\nGold Evidences:\n- Share-based compensation costs for 2010, 2009, and 2008 are provided in the table.\n- Income tax benefits for the same years are also provided in the table.\n\nSteps:\n1. Identify the share-based compensation cost for 2010: $18.1 million.\n2. Identify the income tax benefit for 2010: -$6.3 million (the negative sign indicates a benefit).\n3. Apply the formula:\n   - After-tax share-based compensation cost = $18.1 million - (-$6.3 million)\n   - This simplifies to: $18.1 million + $6.3 million = $24.4 million.\n\nThe final answer is [Answer: \"After-tax share-based compensation cost = $24.4 million\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 224,
+            "main_question": "what percentage of net assets acquired was considered goodwill?",
+            "sub_question": "What is the formula to calculate the percentage of goodwill relative to the total net assets acquired?",
+            "answer": {
+                "answer": "81.5%",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To calculate the percentage of goodwill relative to the total net assets acquired, we need to understand that the formula for percentage is given by (Part/Whole) × 100. In this case, the \"Part\" is the goodwill amount, and the \"Whole\" is the total net assets acquired.\n\nGold Evidences:\n- Goodwill: $13,536,000\n- Net assets acquired: $16,594,000\n\nSteps:\n1. Identify the goodwill amount.\n   - Goodwill = $13,536,000\n2. Identify the total net assets acquired.\n   - Net assets acquired = $16,594,000\n3. Divide the goodwill by the total net assets acquired.\n   - Calculation: 13,536 / 16,594 = 0.815\n4. Multiply the result by 100 to get the percentage.\n   - Calculation: 0.815 × 100 = 81.5\n\nThe final answer is [Answer: \"81.5%\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 230,
+            "main_question": "what is the 2019 to 2020 projected growth rate for operating lease payments?",
+            "sub_question": "What is the formula to calculate the percentage growth rate between the operating lease payments for 2019 and 2020?",
+            "answer": {
+                "answer": "9.78%",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: The percentage growth rate is calculated by taking the difference between the new value and the old value, dividing that difference by the old value, and then multiplying by 100 to convert it into a percentage. \n\nGold Evidences:\n- The operating lease payments for 2019 are $419 million.\n- The operating lease payments for 2020 are $378 million.\n\nSteps:\n1. Subtract the operating lease payment for 2020 from the operating lease payment for 2019.\n   - Response 1: 419 - 378 = 41\n2. Divide the result from step 1 by the operating lease payment for 2019.\n   - Response 2: 41 / 419 = 0.0978\n3. Multiply the result from step 2 by 100 to convert it to a percentage.\n   - Response 3: 0.0978 × 100 = 9.78\n\nThe final answer is [Answer: \"9.78%\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 231,
+            "main_question": "what was the percent change in the aggregate net asset values of the collateral pools underlying ssga lending funds between 2008 and 2009?",
+            "sub_question": "What were the net asset values of the collateral pools underlying SSgA lending funds for the years 2008 and 2009?",
+            "answer": {
+                "answer": "2008",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: The net asset values (NAV) of collateral pools are important indicators of the financial health and performance of investment funds. To find the NAV of the collateral pools underlying SSgA lending funds for the years 2008 and 2009, we need to extract the relevant values from the provided table.\n\nGold Evidences:\n- The net asset value of the collateral pools underlying SSgA lending funds for December 31, 2008, is $31 billion.\n- The net asset value of the collateral pools underlying SSgA lending funds for December 31, 2009, is $24 billion.\n\nSteps:\n1. Identify the NAV for December 31, 2008.\n   - Response 1: NAV (2008) = $31 billion\n2. Identify the NAV for December 31, 2009.\n   - Response 2: NAV (2009) = $24 billion\n\nThe final answer is [Answer: \"2008: $31 billion; 2009: $24 billion\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 234,
+            "main_question": "what is the total fair value of the non-vested performance awards at beginning of year , ( in thousands ) ?",
+            "sub_question": "What is the calculation for the total fair value of non-vested performance awards at the beginning of the year based on the number of shares and their fair value price per share?",
+            "answer": {
+                "answer": "$34,516,090",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To calculate the total fair value of non-vested performance awards at the beginning of the year, we need to multiply the number of shares by the fair value price per share. This is a straightforward multiplication operation.\n\nGold Evidences:\n- Non-vested performance awards at the beginning of the year: 707,000 shares\n- Fair value price per share: $48.87\n\nSteps:\n1. Convert the number of shares from thousands to actual shares:\n   - 707 (in thousands) = 707,000 shares\n2. Multiply the number of shares by the fair value price per share:\n   - Total Fair Value = 707,000 shares × $48.87\n3. Perform the multiplication:\n   - Total Fair Value = 707,000 × 48.87 = $34,516,090\n\nThe final answer is [Answer: \"$34,516,090\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 238,
+            "main_question": "what are the total operating expenses for 2016?",
+            "sub_question": "What is the relationship between operating profit, net sales, and operating expenses in financial reporting?",
+            "answer": {
+                "answer": "Operating profit is calculated as net sales minus operating expenses, and they are interrelated in financial reporting.]",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: In financial reporting, operating profit is calculated as net sales minus operating expenses. Operating profit reflects the profitability of a company's core business operations, while net sales represent the total revenue generated from sales of goods or services. Operating expenses include costs such as salaries, rent, and materials. Understanding the relationship between these three components is crucial for analyzing a company's financial performance.\n\nGold Evidences:\n- Operating profit is derived from net sales after deducting operating expenses.\n- The table provides net sales and operating profit figures for the years 2014, 2015, and 2016.\n- The context mentions changes in operating profit and net sales, indicating how they relate to each other.\n\nSteps:\n1. Identify the operating profit and net sales for each year from the table:\n   - 2014: Net Sales = $7092 million, Operating Profit = $1344 million\n   - 2015: Net Sales = $6770 million, Operating Profit = $1282 million\n   - 2016: Net Sales = $6608 million, Operating Profit = $1018 million\n\n2. Calculate operating expenses for each year using the formula:\n   - Operating Expenses = Net Sales - Operating Profit\n\n3. Perform the calculations:\n   - For 2014: \n     - Operating Expenses = 7092 - 1344 = $5748 million\n   - For 2015: \n     - Operating Expenses = 6770 - 1282 = $5488 million\n   - For 2016: \n     - Operating Expenses = 6608 - 1018 = $5590 million\n\n4. Analyze the relationship:\n   - Operating profit decreases as net sales decrease from 2014 to 2016.\n   - Operating expenses also fluctuate, indicating that they do not always decrease in line with net sales.\n\nConclusion: The relationship between operating profit, net sales, and operating expenses shows that while net sales and operating profit are directly related, operating expenses can vary independently, affecting overall profitability.\n\nThe final answer is [Answer: \"Operating profit is calculated as net sales minus operating expenses, and they are interrelated in financial reporting.\"];"
+        }
+    ],
+    [
+        {
+            "q_no": 239,
+            "main_question": "the company purchased how much in millions during the year ended december 31 , 2004 and during the year ended december 31 , 2003 under purchase agreements?",
+            "sub_question": "What were the purchase amounts in millions for the years ended December 31, 2004, and December 31, 2003?",
+            "answer": {
+                "answer": "2004",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: The purchase amounts refer to the total expenditures made by the company under the purchase agreements for energy. To find the purchase amounts for the years ended December 31, 2004, and December 31, 2003, we need to extract the values provided in the context.\n\nGold Evidences:\n- The company purchased $12.8 million during the year ended December 31, 2005.\n- The company purchased $17.6 million during the year ended December 31, 2004.\n- The company purchased $19.3 million during the year ended December 31, 2003.\n\nSteps:\n1. Identify the purchase amount for the year ended December 31, 2004.\n   - Response 1: $17.6 million\n2. Identify the purchase amount for the year ended December 31, 2003.\n   - Response 2: $19.3 million\n\nThe final answer is [Answer: \"2004: $17.6 million; 2003: $19.3 million\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 247,
+            "main_question": "at the end of 2016 , what was the average number of berths per ship in the global cruise fleet?",
+            "sub_question": "What is the formula to calculate the average number of berths per ship?",
+            "answer": {
+                "answer": "1,688.93",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To calculate the average number of berths per ship, we need to divide the total number of berths by the total number of ships. This is a straightforward calculation that provides insight into the capacity of the cruise fleet.\n\nGold Evidences:\n- The total number of berths in the global cruise fleet at the end of 2016 is approximately 503,000.\n- The total number of ships in the global cruise fleet at the end of 2016 is approximately 298.\n\nSteps:\n1. Identify the total number of berths: 503,000.\n2. Identify the total number of ships: 298.\n3. Divide the total number of berths by the total number of ships.\n   - Response 1: 503,000 / 298 = 1,688.93 (approximately).\n\nThe final answer is [Answer: \"1,688.93\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 252,
+            "main_question": "as of december 31 , 2004 what was the percent of the the company 2019s aggregate principal payments of long- term debt due in 2008",
+            "sub_question": "What is the total principal payment due in 2008 compared to the total cash obligations of $3,700,106?",
+            "answer": {
+                "answer": "21.8%",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To determine the total principal payment due in 2008 compared to the total cash obligations, we need to extract the principal payment for the year 2008 from the provided data and then compare it to the total cash obligations.\n\nGold Evidences:\n- The total principal payment due in 2008 is $808,043 (from the table).\n- The total cash obligations are $3,700,106.\n\nSteps:\n1. Identify the principal payment due in 2008.\n   - Response 1: Principal payment due in 2008 = $808,043.\n   \n2. Compare the principal payment due in 2008 to the total cash obligations.\n   - Response 2: Total cash obligations = $3,700,106.\n\n3. Calculate the ratio of the principal payment due in 2008 to the total cash obligations.\n   - Response 3: Ratio = Principal payment due in 2008 / Total cash obligations = $808,043 / $3,700,106.\n\n4. Perform the division.\n   - Response 4: $808,043 / $3,700,106 ≈ 0.218.\n\n5. Convert the ratio to a percentage.\n   - Response 5: 0.218 × 100 ≈ 21.8%.\n\nThe final answer is [Answer: \"21.8%\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 255,
+            "main_question": "what is the percent of the square foot in millions owned facilities in the us to the to owned facilities",
+            "sub_question": "What is the formula to calculate the percentage of U.S. owned facilities relative to total owned facilities?",
+            "answer": {
+                "answer": "64.03%",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To calculate the percentage of U.S. owned facilities relative to total owned facilities, we need to use the formula for percentage, which is given by (Part/Whole) × 100. In this case, the \"Part\" is the square footage of U.S. owned facilities, and the \"Whole\" is the total square footage of owned facilities.\n\nGold Evidences:\n- U.S. owned facilities: 30.7 million square feet\n- Total owned facilities: 47.9 million square feet\n\nSteps:\n1. Identify the part (U.S. owned facilities) and the whole (total owned facilities).\n   - Part = 30.7 million square feet\n   - Whole = 47.9 million square feet\n2. Divide the part by the whole.\n   - Response 1: 30.7 / 47.9 = 0.6403\n3. Multiply the result by 100 to convert it to a percentage.\n   - Response 2: 0.6403 × 100 = 64.03\n\nThe final answer is [Answer: \"64.03%\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 256,
+            "main_question": "what is the percentage change in aggregate rent expense from 2012 to 2013?",
+            "sub_question": "What is the formula for calculating percentage change?",
+            "answer": {
+                "answer": "-12.48%",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: The percentage change is calculated by taking the difference between the new value and the old value, dividing that difference by the old value, and then multiplying by 100 to convert it to a percentage. The formula is: \n\n\\[\n\\text{Percentage Change} = \\left( \\frac{\\text{New Value} - \\text{Old Value}}{\\text{Old Value}} \\right) \\times 100\n\\]\n\nGold Evidences:\n- The rental payments for the years 2015 to 2019 are provided in the table.\n- The values for 2015 and 2019 are $574,438 and $502,847 respectively.\n\nSteps:\n1. Identify the old value (2015) and the new value (2019):\n   - Old Value (2015): 574438\n   - New Value (2019): 502847\n\n2. Subtract the old value from the new value:\n   - Response 1: 502847 - 574438 = -71691\n\n3. Divide the result from step 2 by the old value:\n   - Response 2: -71691 / 574438 = -0.1248\n\n4. Multiply the result from step 3 by 100 to get the percentage change:\n   - Response 3: -0.1248 × 100 = -12.48\n\nThe final answer is [Answer: \"-12.48%\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 261,
+            "main_question": "the k series stock outperformed the s&p 500 by what percent over 5 years?",
+            "sub_question": "What is the final value of the K series stock and the S&P 500 at the end of the 5-year period?",
+            "answer": {
+                "answer": "disck",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To find the final value of the K series stock (disck) and the S&P 500 at the end of the 5-year period, we need to look at the values provided in the table for December 31, 2011. The final value is simply the value listed for that date.\n\nGold Evidences:\n- The value of disck (K series stock) on December 31, 2011, is $235.63.\n- The value of the S&P 500 on December 31, 2011, is $104.23.\n\nSteps:\n1. Identify the value of disck on December 31, 2011.\n   - Response 1: disck = $235.63\n2. Identify the value of the S&P 500 on December 31, 2011.\n   - Response 2: S&P 500 = $104.23\n\nThe final answer is [Answer: \"disck: $235.63; S&P 500: $104.23\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 263,
+            "main_question": "what percent would the balance by the end of 2018 increase if the unrecognized tax benefits were included?",
+            "sub_question": "What is the total amount of unrecognized tax benefits that would benefit the effective tax rate as of September 30, 2018?",
+            "answer": {
+                "answer": "$108.7 million",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: Unrecognized tax benefits refer to tax positions that a company has taken on its tax returns but has not recognized in its financial statements. The amount that would benefit the effective tax rate is the total of these unrecognized tax benefits that, if the company were to prevail on all of them, would reduce its tax liability.\n\nGold Evidences:\n- As of September 30, 2018, the total amount of unrecognized tax benefits that would benefit the effective tax rate is approximately $108.7 million.\n\nSteps:\n1. Identify the amount of unrecognized tax benefits that would benefit the effective tax rate as of September 30, 2018.\n   - Response 1: $108.7 million\n\nThe final answer is [Answer: \"$108.7 million\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 265,
+            "main_question": "what portion of the woburn property owned by the american tower corporation is subleased?",
+            "sub_question": "What is the total square footage of the Woburn property that is leased to unaffiliated tenants?",
+            "answer": {
+                "answer": "105,900 square feet",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To determine the total square footage of the Woburn property that is leased to unaffiliated tenants, we need to know the total square footage of the Woburn property and the square footage occupied by the lease administration office and broadcast division. The leased space can be calculated by subtracting the occupied space from the total space.\n\nGold Evidences:\n- The total square footage of the Woburn property is 163,000 square feet.\n- The space occupied by the lease administration office and broadcast division is 57,100 square feet.\n\nSteps:\n1. Subtract the occupied space from the total square footage of the Woburn property.\n   - Response 1: 163,000 - 57,100 = 105,900\n\nThe final answer is [Answer: \"105,900 square feet\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 266,
+            "main_question": "what was the average total revenue in 1999 , 2000 and 2001?",
+            "sub_question": "What were the total revenue amounts for the years 1999, 2000, and 2001?",
+            "answer": {
+                "answer": "Total revenue for 1999",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: Total revenue refers to the total income generated by a company from its business activities, including sales of goods and services. To find the total revenue amounts for the years 1999, 2000, and 2001, we need to extract the revenue figures for each of those years from the provided data.\n\nGold Evidences:\n- For the year ended December 31, 1999, total revenue was $206,017.\n- For the year ended December 31, 2000, total revenue was $230,323.\n- For the year ended December 31, 2001, total revenue was $257,685.\n\nSteps:\n1. Identify the total revenue for 1999.\n   - Response 1: Total revenue for 1999 = $206,017.\n2. Identify the total revenue for 2000.\n   - Response 2: Total revenue for 2000 = $230,323.\n3. Identify the total revenue for 2001.\n   - Response 3: Total revenue for 2001 = $257,685.\n\nThe final answer is [Answer: \"Total revenue for 1999: $206,017; Total revenue for 2000: $230,323; Total revenue for 2001: $257,685\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 267,
+            "main_question": "what is the total amount expected to be paid for pensions and retiree medical and other in the next 12 months?",
+            "sub_question": "What are the expected pension and retiree medical payments for the year 2015?",
+            "answer": {
+                "answer": "$958 million",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To determine the expected pension and retiree medical payments for the year 2015, we need to extract the relevant data from the provided table. The table lists the expected payments for pension and retiree medical for each year.\n\nGold Evidences:\n- The expected pension payment for 2015 is $785 million.\n- The expected retiree medical and other payments for 2015 is $173 million.\n\nSteps:\n1. Identify the pension payment for 2015 from the table.\n   - Response 1: Pension payment for 2015 = $785 million.\n2. Identify the retiree medical payment for 2015 from the table.\n   - Response 2: Retiree medical payment for 2015 = $173 million.\n3. Combine both payments to find the total expected payments for 2015.\n   - Response 3: Total expected payments = $785 million + $173 million = $958 million.\n\nThe final answer is [Answer: \"$958 million\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 269,
+            "main_question": "what percentage of unrecognized tax benefits , in 2008 , is from tax benefits that would impact effective tax rate if recognized?",
+            "sub_question": "What is the formula to calculate the percentage of tax benefits impacting the effective tax rate relative to the total unrecognized tax benefits?",
+            "answer": {
+                "answer": "88.44%",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To calculate the percentage of tax benefits impacting the effective tax rate relative to the total unrecognized tax benefits, we need to use the formula: \n\n\\[\n\\text{Percentage} = \\left( \\frac{\\text{Tax Benefits impacting effective tax rate}}{\\text{Total Unrecognized Tax Benefits}} \\right) \\times 100\n\\]\n\nGold Evidences:\n- The total amount of unrecognized tax benefits as of December 31, 2008, is $148.8 million.\n- The amount of tax benefits that, if recognized, would impact the effective tax rate is $131.8 million.\n\nSteps:\n1. Identify the numerator (tax benefits impacting effective tax rate):\n   - Tax Benefits impacting effective tax rate = $131.8 million\n\n2. Identify the denominator (total unrecognized tax benefits):\n   - Total Unrecognized Tax Benefits = $148.8 million\n\n3. Apply the formula:\n   - Percentage = \\(\\left( \\frac{131.8}{148.8} \\right) \\times 100\\)\n\n4. Perform the division:\n   - \\( \\frac{131.8}{148.8} \\approx 0.8844\\)\n\n5. Multiply by 100 to get the percentage:\n   - \\(0.8844 \\times 100 \\approx 88.44\\)\n\nThe final answer is [Answer: \"88.44%\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 270,
+            "main_question": "in october 2015 , what was the ratio of the entergy recorded a regulatory liability to the tax liability",
+            "sub_question": "What was the total regulatory liability recorded by Entergy in October 2015, and what was the net-of-tax amount?",
+            "answer": {
+                "answer": "Total regulatory liability",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: Regulatory liabilities refer to amounts that a company is obligated to pay back to customers due to regulatory decisions. In this case, Entergy recorded a regulatory liability as a result of a business combination, which is a common practice in the utility industry to ensure that customers benefit from such mergers.\n\nGold Evidences:\n- The regulatory liability recorded by Entergy in October 2015 was $107 million.\n- The net-of-tax amount recorded was $66 million.\n\nSteps:\n1. Identify the total regulatory liability recorded.\n   - Response 1: Total regulatory liability = $107 million.\n2. Identify the net-of-tax amount.\n   - Response 2: Net-of-tax amount = $66 million.\n\nThe final answer is [Answer: \"Total regulatory liability: $107 million; Net-of-tax amount: $66 million\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 277,
+            "main_question": "what percent of future commitments are due after 2020?",
+            "sub_question": "What is the total amount of future commitments due after 2020 compared to the overall total future commitments?",
+            "answer": {
+                "answer": "46.6%",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To determine the total amount of future commitments due after 2020 compared to the overall total future commitments, we need to identify the commitments due after 2020 and the total commitments, then calculate the ratio or percentage of the commitments due after 2020 relative to the total commitments.\n\nGold Evidences:\n- Future minimum commitments under operating leases are provided in the table.\n- The total future commitments amount to $1,203 million.\n- The amount due thereafter (after 2020) is $560 million.\n\nSteps:\n1. Identify the amount due after 2020.\n   - Amount due thereafter = $560 million.\n   \n2. Identify the total future commitments.\n   - Total future commitments = $1,203 million.\n\n3. Calculate the percentage of commitments due after 2020 relative to the total commitments.\n   - Percentage = (Amount due thereafter / Total future commitments) × 100\n   - Percentage = ($560 million / $1,203 million) × 100\n\n4. Perform the calculation:\n   - Percentage = (560 / 1203) × 100 = 46.6 (approximately).\n\nThe final answer is [Answer: \"46.6%\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 278,
+            "main_question": "what portion of the total leased locations are in texas?",
+            "sub_question": "What is the total number of leased locations across all states?",
+            "answer": {
+                "answer": "211",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To find the total number of leased locations across all states, we need to sum the number of locations listed for each state in the provided table.\n\nGold Evidences:\n- The number of locations in each state is as follows:\n  - California: 57\n  - Florida: 26\n  - Georgia: 22\n  - Texas: 19\n  - Minnesota/New York: 9\n  - Illinois/Ohio/Maryland: 8\n  - Pennsylvania: 7\n  - Other: 63\n\nSteps:\n1. Add the number of locations for each state:\n   - California: 57\n   - Florida: 26\n   - Georgia: 22\n   - Texas: 19\n   - Minnesota/New York: 9\n   - Illinois/Ohio/Maryland: 8\n   - Pennsylvania: 7\n   - Other: 63\n\n2. Perform the addition:\n   - 57 + 26 = 83\n   - 83 + 22 = 105\n   - 105 + 19 = 124\n   - 124 + 9 = 133\n   - 133 + 8 = 141\n   - 141 + 7 = 148\n   - 148 + 63 = 211\n\nThe final answer is [Answer: \"211\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 281,
+            "main_question": "what is the increase of the total trading assets between the years 2007 and 2008 , in millions of dollars?",
+            "sub_question": "What were the total trading assets for the years 2007 and 2008?",
+            "answer": {
+                "answer": "Total trading assets for 2008",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: Trading assets refer to financial instruments that a company holds for the purpose of selling them in the short term to generate profits. To find the total trading assets for the years 2007 and 2008, we need to sum the trading assets from debt and equity instruments and derivative receivables for each year.\n\nGold Evidences:\n- For 2008:\n  - Trading assets (debt and equity instruments): $384,102 million\n  - Trading assets (derivative receivables): $121,417 million\n- For 2007:\n  - Trading assets (debt and equity instruments): $381,415 million\n  - Trading assets (derivative receivables): $65,439 million\n\nSteps:\n1. Calculate total trading assets for 2008:\n   - Response 1: 384102 + 121417 = 505519 million\n2. Calculate total trading assets for 2007:\n   - Response 2: 381415 + 65439 = 446854 million\n\nThe final answer is [Answer: \"Total trading assets for 2008: $505,519 million; Total trading assets for 2007: $446,854 million\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 283,
+            "main_question": "what is the net increase in outstanding shares during the period of 2016 to 2018 , in millions?",
+            "sub_question": "What was the difference in the number of outstanding shares between December 31, 2016, and December 29, 2018?",
+            "answer": {
+                "answer": "3 million",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To find the difference in the number of outstanding shares between two dates, we need to identify the number of outstanding shares on each date and then calculate the difference.\n\nGold Evidences:\n- The number of outstanding shares on December 31, 2016, is 1217 million.\n- The number of outstanding shares on December 29, 2018, is 1220 million.\n\nSteps:\n1. Identify the number of outstanding shares on December 31, 2016.\n   - Outstanding shares on December 31, 2016 = 1217 million.\n   \n2. Identify the number of outstanding shares on December 29, 2018.\n   - Outstanding shares on December 29, 2018 = 1220 million.\n   \n3. Subtract the number of outstanding shares on December 31, 2016, from the number on December 29, 2018.\n   - Difference = 1220 million - 1217 million = 3 million.\n\nThe final answer is [Answer: \"3 million\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 284,
+            "main_question": "in 2006 what percentage of capital spending from continuing operations was due to consumer packaging?",
+            "sub_question": "What was the total capital spending from continuing operations in 2006, and how much of that was specifically allocated to consumer packaging?",
+            "answer": {
+                "answer": "Total capital spending from continuing operations in 2006 is $1,009 million",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: Capital spending from continuing operations refers to the funds used by a company to acquire or upgrade physical assets such as property, industrial buildings, or equipment. The total capital spending can be derived from the provided table, and the specific allocation to consumer packaging can be directly extracted from the same table.\n\nGold Evidences:\n- The total capital spending from continuing operations in 2006 is $1,009 million.\n- The capital spending allocated to consumer packaging in 2006 is $116 million.\n\nSteps:\n1. Identify the total capital spending from continuing operations for 2006 from the table.\n   - Response 1: Total capital spending in 2006 = $1,009 million.\n2. Identify the capital spending allocated to consumer packaging for 2006 from the table.\n   - Response 2: Capital spending for consumer packaging in 2006 = $116 million.\n\nThe final answer is [Answer: \"Total capital spending from continuing operations in 2006 is $1,009 million; specifically allocated to consumer packaging is $116 million.\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 285,
+            "main_question": "what is the percentage change in aggregate rent expense from 2013 to 2014?",
+            "sub_question": "What is the formula for calculating percentage change between two values?",
+            "answer": {
+                "answer": "-3.11%",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: The percentage change between two values is calculated by taking the difference between the new value and the old value, dividing that difference by the old value, and then multiplying by 100 to convert it into a percentage. The formula is: \n\n\\[\n\\text{Percentage Change} = \\left( \\frac{\\text{New Value} - \\text{Old Value}}{\\text{Old Value}} \\right) \\times 100\n\\]\n\nGold Evidences:\n- The rental payments for the years 2015 to 2019 are provided in the table.\n- The values for 2015 ($574,438), 2016 ($553,864), 2017 ($538,405), 2018 ($519,034), and 2019 ($502,847) are the relevant figures for calculating the percentage change in rental payments from year to year.\n\nSteps:\n1. Calculate the percentage change from 2018 to 2019:\n   - New Value (2019) = $502,847\n   - Old Value (2018) = $519,034\n   - Difference = 502,847 - 519,034 = -16,187\n2. Divide the difference by the old value (2018):\n   - \\(-16,187 / 519,034 = -0.0311\\)\n3. Multiply by 100 to get the percentage:\n   - \\(-0.0311 \\times 100 = -3.11\\)\n\nThe final answer is [Answer: \"-3.11%\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 288,
+            "main_question": "what is the percent change in long-term component changes from 12/31/2011 to 12/31/2012?",
+            "sub_question": "What formula should be used to calculate the percent change in long-term AUM from 12/31/2011 to 12/31/2012?",
+            "answer": {
+                "answer": "26.8%",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To calculate the percent change in long-term AUM (Assets Under Management) from one period to another, we need to find the difference between the new value and the old value, divide that difference by the old value, and then multiply by 100 to express it as a percentage.\n\nGold Evidences:\n- Long-term AUM at 12/31/2011 is $593,356 million.\n- Long-term AUM at 12/31/2012 is $752,707 million.\n\nSteps:\n1. Subtract the old value (AUM at 12/31/2011) from the new value (AUM at 12/31/2012):\n   - Response 1: 752,707 - 593,356 = 159,351 million.\n   \n2. Divide the difference obtained in step 1 by the old value (AUM at 12/31/2011):\n   - Response 2: 159,351 / 593,356 = 0.268.\n   \n3. Multiply the result from step 2 by 100 to convert it to a percentage:\n   - Response 3: 0.268 × 100 = 26.8%.\n\nThe final answer is [Answer: \"26.8%\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 289,
+            "main_question": "what portion of future lease payments are due after 5 years?",
+            "sub_question": "What is the total amount of future minimum rental payments specified for the period \"thereafter\" in the lease obligations?",
+            "answer": {
+                "answer": "$4,214,600",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: Future minimum rental payments under non-cancellable operating leases are the amounts that a company is obligated to pay for leased properties beyond the current reporting period. In this case, we need to extract the specified amount for the \"thereafter\" period from the provided data.\n\nGold Evidences:\n- The table indicates the future minimum rental payments for the year \"thereafter\" as $4,214,600 (in thousands).\n\nSteps:\n1. Identify the amount specified for the \"thereafter\" period from the table.\n   - Response 1: The amount for \"thereafter\" is $4,214,600 (in thousands).\n\nThe final answer is [Answer: \"$4,214,600\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 290,
+            "main_question": "by what percentage did average borrowings decrease from 2016 to 2017?",
+            "sub_question": "What is the formula for calculating the percentage decrease between two values?",
+            "answer": {
+                "answer": "8.35%",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To calculate the percentage decrease between two values, the formula is: \n\\[\n\\text{Percentage Decrease} = \\left( \\frac{\\text{Old Value} - \\text{New Value}}{\\text{Old Value}} \\right) \\times 100\n\\]\nThis formula helps in determining how much a value has decreased in relation to its original value.\n\nGold Evidences:\n- Average borrowings in 2017 are $779.\n- Average borrowings in 2016 are $850.\n\nSteps:\n1. Subtract the average borrowings of 2017 from the average borrowings of 2016.\n   - Response 1: \\(850 - 779 = 71\\)\n2. Divide the result from step 1 by the average borrowings of 2016.\n   - Response 2: \\(\\frac{71}{850} = 0.0835\\)\n3. Multiply the result from step 2 by 100 to get the percentage.\n   - Response 3: \\(0.0835 \\times 100 = 8.35\\)\n\nThe final answer is [Answer: \"8.35%\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 291,
+            "main_question": "considering the contractual obligations in which payments due by 1-3 years , what is the percentage of the operating leases in relation to the total obligations?",
+            "sub_question": "What are the values of operating leases and total obligations for payments due by 1-3 years?",
+            "answer": {
+                "answer": "Operating leases",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To answer the question, we need to extract specific values from the provided table regarding operating leases and total obligations for payments due by the period of 1-3 years.\n\nGold Evidences:\n- From the table, the value of operating leases for payments due by 1-3 years is $13,789.\n- The total obligations for payments due by 1-3 years is $16,054.\n\nSteps:\n1. Identify the value of operating leases for 1-3 years.\n   - Response 1: Operating leases (1-3 years) = $13,789.\n   \n2. Identify the total obligations for 1-3 years.\n   - Response 2: Total obligations (1-3 years) = $16,054.\n\nThe final answer is [Answer: \"Operating leases: $13,789; Total obligations: $16,054\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 292,
+            "main_question": "what is the percentage change in common shareholders 2019 equity due to the adjustments presented in the table to reach basel iii cet1?",
+            "sub_question": "What is the formula to calculate the percentage change in common shareholders' equity from the original amount to the adjusted Basel III CET1 amount?",
+            "answer": {
+                "answer": "18.3%",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To calculate the percentage change in common shareholders' equity, we need to determine the difference between the original common shareholders' equity and the adjusted Basel III CET1 amount, then divide that difference by the original common shareholders' equity and multiply by 100.\n\nGold Evidences:\n- Original common shareholders' equity: $71,267 million\n- Adjusted Basel III CET1 amount: $58,219 million\n\nSteps:\n1. Subtract the adjusted Basel III CET1 amount from the original common shareholders' equity.\n   - Response 1: 71,267 - 58,219 = 13,048\n2. Divide the result from step 1 by the original common shareholders' equity.\n   - Response 2: 13,048 / 71,267 = 0.183\n3. Multiply the result from step 2 by 100 to get the percentage change.\n   - Response 3: 0.183 × 100 = 18.3\n\nThe final answer is [Answer: \"18.3%\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 295,
+            "main_question": "at december 31 , 2012 , for unpaid principal balance outstanding of loans sold as a participant in these programs , what was the percentage of potential maximum exposure under the loss share arrangements?",
+            "sub_question": "What is the formula to calculate the percentage of potential maximum exposure based on the unpaid principal balance and the potential maximum exposure amount?",
+            "answer": {
+                "answer": "30.47%",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To calculate the percentage of potential maximum exposure based on the unpaid principal balance and the potential maximum exposure amount, we need to understand the relationship between these two figures. The formula for calculating the percentage is given by:\n\n\\[\n\\text{Percentage} = \\left( \\frac{\\text{Potential Maximum Exposure}}{\\text{Unpaid Principal Balance}} \\right) \\times 100\n\\]\n\nGold Evidences:\n- The unpaid principal balance outstanding of loans sold as a participant in these programs was $12.8 billion in 2012.\n- The potential maximum exposure under the loss share arrangements was $3.9 billion in 2012.\n\nSteps:\n1. Identify the unpaid principal balance for 2012.\n   - Unpaid Principal Balance = $12.8 billion\n2. Identify the potential maximum exposure for 2012.\n   - Potential Maximum Exposure = $3.9 billion\n3. Divide the potential maximum exposure by the unpaid principal balance.\n   - Calculation: \\( \\frac{3.9 \\text{ billion}}{12.8 \\text{ billion}} = 0.3046875 \\)\n4. Multiply the result by 100 to convert it to a percentage.\n   - Calculation: \\( 0.3046875 \\times 100 = 30.46875 \\)\n\nThe final answer is [Answer: \"30.47%\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 297,
+            "main_question": "what is the percentage change in impairment charges and net losses from 2003 to 2004?",
+            "sub_question": "What were the total impairment charges and net losses recorded for the years 2003 and 2004?",
+            "answer": {
+                "answer": "$36.8 million",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: Impairment charges and net losses refer to the reductions in the carrying value of assets and losses incurred from the sale of long-lived assets. To find the total impairment charges and net losses for the years 2003 and 2004, we need to sum the impairment charges for both years.\n\nGold Evidences:\n- For the year ended December 31, 2003, the impairment charges and net losses were $19.1 million.\n- For the year ended December 31, 2004, the impairment charges and net losses were $17.7 million.\n\nSteps:\n1. Add the impairment charges for 2003 and 2004.\n   - Response 1: 19.1 million + 17.7 million = 36.8 million\n\nThe final answer is [Answer: \"$36.8 million\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 300,
+            "main_question": "what was the percentage change in non-interest revenue from 2006 to 2007?",
+            "sub_question": "What were the non-interest revenue amounts for 2006 and 2007?",
+            "answer": {
+                "answer": "2006",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: Non-interest revenue refers to the income generated by a company from sources other than interest, such as fees, commissions, and other operational income. To find the non-interest revenue amounts for 2006 and 2007, we need to extract the relevant figures from the provided table.\n\nGold Evidences:\n- The non-interest revenue for 2006 is reported as -599 million dollars.\n- The non-interest revenue for 2007 is reported as -291 million dollars.\n\nSteps:\n1. Identify the non-interest revenue for 2006 from the table.\n   - Response 1: Non-interest revenue for 2006 = -599 million dollars.\n   \n2. Identify the non-interest revenue for 2007 from the table.\n   - Response 2: Non-interest revenue for 2007 = -291 million dollars.\n\nThe final answer is [Answer: \"2006: -599 million dollars; 2007: -291 million dollars\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 301,
+            "main_question": "for restructuring expense , what is the total balance of severance and related charges and lease termination costs in millions?",
+            "sub_question": "What are the individual amounts for severance and related charges and lease termination costs as of December 3, 1999?",
+            "answer": {
+                "answer": "Severance and related charges",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To determine the individual amounts for severance and related charges and lease termination costs as of December 3, 1999, we need to extract the specific figures mentioned in the post-text that relate to these costs.\n\nGold Evidences:\n- The post-text states that as of December 3, 1999, the accrued restructuring costs include:\n  - $0.3 million in severance and related charges\n  - $0.1 million in lease termination costs\n\nSteps:\n1. Identify the amount for severance and related charges:\n   - Severance and related charges = $0.3 million\n2. Identify the amount for lease termination costs:\n   - Lease termination costs = $0.1 million\n\nThe final answer is [Answer: \"Severance and related charges: $0.3 million; Lease termination costs: $0.1 million\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 307,
+            "main_question": "what is the 2019 to 2020 projected growth rate for capital lease payments?",
+            "sub_question": "What were the capital lease payments for 2019 and 2020?",
+            "answer": {
+                "answer": "Capital lease payments for 2019 are $148 million and for 2020 are $155 million",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: Capital lease payments are the payments made under a capital lease agreement, which is a lease that transfers substantially all the risks and rewards of ownership of an asset to the lessee. To find the capital lease payments for 2019 and 2020, we can refer to the provided table data.\n\nGold Evidences:\n- The capital lease payments for 2019 are $148 million.\n- The capital lease payments for 2020 are $155 million.\n\nSteps:\n1. Identify the capital lease payment for 2019 from the table.\n   - Response 1: Capital lease payment for 2019 = $148 million.\n   \n2. Identify the capital lease payment for 2020 from the table.\n   - Response 2: Capital lease payment for 2020 = $155 million.\n\nThe final answer is [Answer: \"Capital lease payments for 2019 are $148 million and for 2020 are $155 million\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 308,
+            "main_question": "what is the percent change in expected volatility between 2012 and 2013?",
+            "sub_question": "What were the expected volatility percentages for 2012 and 2013?",
+            "answer": {
+                "answer": "2013",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: Expected volatility is a measure of the price fluctuations of a stock over a specific period, which is a crucial input in the Black-Scholes option pricing model. The expected volatility percentages for a given year can be directly extracted from the provided data.\n\nGold Evidences:\n- The expected volatility for 2013 is 22.1%.\n- The expected volatility for 2012 is 24.0%.\n\nSteps:\n1. Identify the expected volatility for 2013 from the table.\n   - Response 1: Expected volatility for 2013 = 22.1%\n2. Identify the expected volatility for 2012 from the table.\n   - Response 2: Expected volatility for 2012 = 24.0%\n\nThe final answer is [Answer: \"2013: 22.1%; 2012: 24.0%\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 310,
+            "main_question": "what was the percentage decrease in the weighted average interest rates on outstanding borrowings from 2010 to 2011",
+            "sub_question": "What were the weighted average interest rates on outstanding borrowings for the years ended December 31, 2010, and 2011?",
+            "answer": {
+                "answer": "2010",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: The weighted average interest rates on outstanding borrowings are calculated based on the interest rates applied to the different borrowings and their respective amounts. To find the weighted average interest rates for the years ended December 31, 2010, and 2011, we need to look at the provided interest rates for those years.\n\nGold Evidences:\n- The weighted average interest rate for the year ended December 31, 2011, is 3.5%.\n- The weighted average interest rate for the year ended December 31, 2010, is 5.3%.\n\nSteps:\n1. Identify the weighted average interest rate for 2011.\n   - Response 1: The weighted average interest rate for 2011 is 3.5%.\n   \n2. Identify the weighted average interest rate for 2010.\n   - Response 2: The weighted average interest rate for 2010 is 5.3%.\n\nThe final answer is [Answer: \"2010: 5.3%; 2011: 3.5%\";]."
+        }
+    ],
+    [
+        {
+            "q_no": 313,
+            "main_question": "how bigger were the interest and penalties concerning the interest income in the year 2015?",
+            "sub_question": "What was the total amount of interest and penalties recognized by Alcoa in 2015 compared to the interest income recognized in the same year?",
+            "answer": {
+                "answer": "Total interest and penalties",
+                "confidence": "low"
+            },
+            "raw_answer": "Response #:\n\nDomain Knowledge: To answer the question, we need to identify the total amount of interest and penalties recognized by Alcoa in 2015 and compare it to the interest income recognized in the same year. This involves extracting the relevant figures from the provided data.\n\nGold Evidences:\n- Interest and penalties recognized in 2015: $8\n- Interest income recognized in 2015: $2\n\nSteps:\n1. Identify the total interest and penalties recognized in 2015.\n   - Response 1: Interest and penalties = $8\n2. Identify the interest income recognized in 2015.\n   - Response 2: Interest income = $2\n3. Compare the total interest and penalties to the interest income.\n   - Response 3: Total interest and penalties ($8) compared to interest income ($2).\n\nConclusion: The total amount of interest and penalties recognized by Alcoa in 2015 was $8, while the interest income recognized in the same year was $2.\n\nThe final answer is [Answer: \"Total interest and penalties: $8; Interest income: $2\";]."
+        }
+    ]
+]

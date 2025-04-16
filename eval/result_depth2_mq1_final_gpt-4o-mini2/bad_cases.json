@@ -1,0 +1,189 @@
+[
+    {
+        "question": "what was the percentage decrease in cash flows from operations from 2009 to 2010?",
+        "gt": "8.0%",
+        "socratic_answer": "0%",
+        "cot_zeroshot_answer": "7.95%",
+        "cot_fewshot_answer": "7.95%",
+        "direct_answer": "8.0%",
+        "socratic_hints": [
+            "The cash flows from operations were $559.7 million for 2009 and $765.2 million for 2010."
+        ]
+    },
+    {
+        "question": "by what percentage did protect carrying values of excess inventories increase from 2002 to 2003?",
+        "gt": "39.0%",
+        "socratic_answer": "-39.02%",
+        "cot_zeroshot_answer": "39.02%",
+        "cot_fewshot_answer": "39.02%",
+        "direct_answer": "39.02%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "in millions for 2012 and 2011 , what was the maximum tier 2 capital?",
+        "gt": "39",
+        "socratic_answer": "39 million, 6 million",
+        "cot_zeroshot_answer": "39 million",
+        "cot_fewshot_answer": "39 (million)",
+        "direct_answer": "$39 million",
+        "socratic_hints": [
+            "The tier 2 capital amounts for GS Bank USA were $39 million in 2012 and $6 million in 2011."
+        ]
+    },
+    {
+        "question": "what percent did minimum pension liability increase between 2004 and 2006?",
+        "gt": "615.4%",
+        "socratic_answer": "-615.38%",
+        "cot_zeroshot_answer": "615.38%",
+        "cot_fewshot_answer": "615.38%",
+        "direct_answer": "615.38%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "as a result of the sales of certain non-core towers and other assets what was the percent of the change in the recorded net losses from 2007 to 2008",
+        "gt": "47.9%",
+        "socratic_answer": "37.18%",
+        "cot_zeroshot_answer": "47.89%",
+        "cot_fewshot_answer": "47.89%",
+        "direct_answer": "47.89%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "at december 31 2009 what was the ratio of the aggregate cost to the fair value of the loans held-for-sale that are carried at locom",
+        "gt": "1.56",
+        "socratic_answer": "156.25%",
+        "cot_zeroshot_answer": "1.5625",
+        "cot_fewshot_answer": "1.5625",
+        "direct_answer": "1.56",
+        "socratic_hints": [
+            "The formula to calculate the ratio of aggregate cost to fair value is Ratio = Aggregate Cost / Fair Value."
+        ]
+    },
+    {
+        "question": "for home equity unresolved asserted indemnification and repurchase claims in millions , what was the change between december 31 2012 and december 31 2011?\\\\n\\\\n\\\\n\\\\n",
+        "gt": "-36",
+        "socratic_answer": "36 million",
+        "cot_zeroshot_answer": "-36 million",
+        "cot_fewshot_answer": "-36 million",
+        "direct_answer": "$36 million decrease",
+        "socratic_hints": [
+            "The difference in the unpaid principal balance of unresolved home equity indemnification and repurchase claims between December 31, 2012, and December 31, 2011, is $36 million."
+        ]
+    },
+    {
+        "question": "what was the change in millions of the weighted average common shares outstanding for diluted computations from 2013 to 2014?",
+        "gt": "-4.1",
+        "socratic_answer": "4.1 million",
+        "cot_zeroshot_answer": "-4.1 million",
+        "cot_fewshot_answer": "-4.1 (million)",
+        "direct_answer": "-4.1",
+        "socratic_hints": [
+            "The weighted average common shares outstanding for diluted computations were 322.4 million in 2014 and 326.5 million in 2013."
+        ]
+    },
+    {
+        "question": "what is the approximate size of each data center leased in square feet",
+        "gt": "83333",
+        "socratic_answer": "500000",
+        "cot_zeroshot_answer": "83,333.33 square feet",
+        "cot_fewshot_answer": "approximately 83,333 square feet",
+        "direct_answer": "83333.33 square feet",
+        "socratic_hints": [
+            "The total size of the data centers is 3,000,000 square feet and there are 6 data centers."
+        ]
+    },
+    {
+        "question": "commercial mortgage loans held for sale designated at fair value at december 31 , 2012 were what percent of total loans held for sale?,",
+        "gt": "20.9%",
+        "socratic_answer": "26.9%",
+        "cot_zeroshot_answer": "20.85%",
+        "cot_fewshot_answer": "20.86%",
+        "direct_answer": "20.9%",
+        "socratic_hints": [
+            "The total amount of loans held for sale as of December 31, 2012 is $2,868 million."
+        ]
+    },
+    {
+        "question": "what is the average size ( in square feet ) of switching centers in 2017?",
+        "gt": "21311.48",
+        "socratic_answer": "1300000",
+        "cot_zeroshot_answer": "21,311.48 square feet",
+        "cot_fewshot_answer": "21,311.48 (square feet)",
+        "direct_answer": "21311.48",
+        "socratic_hints": [
+            "The total size in square feet of all switching centers combined is 79,300,000 square feet."
+        ]
+    },
+    {
+        "question": "what percentage of approximate number of active full-time equivalent employees consist of u.s airways employees?",
+        "gt": "28.9%",
+        "socratic_answer": "29.8%",
+        "cot_zeroshot_answer": "28.95%",
+        "cot_fewshot_answer": "28.94%",
+        "direct_answer": "28.94%",
+        "socratic_hints": [
+            "U.S. Airways has 33,800 active full-time equivalent employees, which is approximately 29.8% of the overall total of 113,300 employees."
+        ]
+    },
+    {
+        "question": "in 2014 what was the ratio of the estimated future benefit payments due in 2015 compared to the amount after 2020",
+        "gt": "0.15",
+        "socratic_answer": "15.4%",
+        "cot_zeroshot_answer": "0.1544",
+        "cot_fewshot_answer": "0.154",
+        "direct_answer": "0.154",
+        "socratic_hints": [
+            "The total amount of estimated future benefit payments from 2020 to 2024 is $13,430 million."
+        ]
+    },
+    {
+        "question": "how much cost would be passed on to customers , in millions , due to the retail electric price variance over the next 3 years?",
+        "gt": "58.2",
+        "socratic_answer": "61.16 million",
+        "cot_zeroshot_answer": "$58.2 million",
+        "cot_fewshot_answer": "58.2 (million)",
+        "direct_answer": "$58.2 million",
+        "socratic_hints": [
+            "The total annual increase in retail electric revenues approved by the MPSC is $19.4 million, which is expected to grow at 2.5% annually over the next 3 years."
+        ]
+    },
+    {
+        "question": "in may 2015 what was the ratio of the unrealized losses from interest rate cash flow hedges to the unrealized gains from foreign currency cash flow hedges",
+        "gt": "-4.74",
+        "socratic_answer": "4.743",
+        "cot_zeroshot_answer": "-4.74",
+        "cot_fewshot_answer": "-4.743",
+        "direct_answer": "-4.74",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "in 2010 what was the ratio of the cumulative return for intel , to the the dow jones u.s . technology index*",
+        "gt": "0.82",
+        "socratic_answer": "82.25%",
+        "cot_zeroshot_answer": "0.8225",
+        "cot_fewshot_answer": "0.823",
+        "direct_answer": "0.8225",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what was the ratio of the total property and equipment net in 2006 to 2005",
+        "gt": "1.13",
+        "socratic_answer": "112.8%",
+        "cot_zeroshot_answer": "1.128",
+        "cot_fewshot_answer": "1.128",
+        "direct_answer": "1.13",
+        "socratic_hints": [
+            "unknown"
+        ]
+    }
+]

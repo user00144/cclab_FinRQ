@@ -1,0 +1,74 @@
+[
+    {
+        "question": "what is the amount of credit lines that has been drawn in millions as of year-end 2016?",
+        "gt": "192",
+        "socratic_answer": "192 million",
+        "cot_zeroshot_answer": "0 million",
+        "cot_fewshot_answer": "0 million",
+        "direct_answer": "0",
+        "socratic_hints": []
+    },
+    {
+        "question": "what is the net change in the balance of accrual related to restructurings during 1999?",
+        "gt": "-8095",
+        "socratic_answer": "-8095",
+        "cot_zeroshot_answer": "-6081",
+        "cot_fewshot_answer": "-8.095 (million)",
+        "direct_answer": "$-8145",
+        "socratic_hints": []
+    },
+    {
+        "question": "what portion of cash and cash equivalents on hand are held in u.s . as of december 31 , 2016?",
+        "gt": "43.7%",
+        "socratic_answer": "43.69%",
+        "cot_zeroshot_answer": "$143 million",
+        "cot_fewshot_answer": "143 million",
+        "direct_answer": "$143 million",
+        "socratic_hints": []
+    },
+    {
+        "question": "what is the percent change in general and administrative expense from 2000 to 2001?",
+        "gt": "-26.1%",
+        "socratic_answer": "-26.06%",
+        "cot_zeroshot_answer": "-26.02%",
+        "cot_fewshot_answer": "-26.00%",
+        "direct_answer": "26.1%",
+        "socratic_hints": []
+    },
+    {
+        "question": "what amount did the compensation committee put into the maximum performance pool between jan 1 2006 and dec 31 2007?",
+        "gt": "72075000",
+        "socratic_answer": "$72,075,000",
+        "cot_zeroshot_answer": "$49,250,000",
+        "cot_fewshot_answer": "49.25 (million)",
+        "direct_answer": "$49,250,000",
+        "socratic_hints": []
+    },
+    {
+        "question": "in 2006 what was the percent of the recognized a pre-tax gain to the proceeds of the sale of its global branded pharmaceuticals businesses",
+        "gt": "88.8%",
+        "socratic_answer": "88.8%",
+        "cot_zeroshot_answer": "88.9%",
+        "cot_fewshot_answer": "88.9%",
+        "direct_answer": "88.9%",
+        "socratic_hints": []
+    },
+    {
+        "question": "what portion of the total number of securities approved by security holders is issued?",
+        "gt": "32.0%",
+        "socratic_answer": "31.94%",
+        "cot_zeroshot_answer": "100%",
+        "cot_fewshot_answer": "1 (or 100%)",
+        "direct_answer": "1708928",
+        "socratic_hints": []
+    },
+    {
+        "question": "what was the sum of the annual long-term debt maturities outstanding as of december 31 , 2017 , for the next five years",
+        "gt": "4781374",
+        "socratic_answer": "4,781,374",
+        "cot_zeroshot_answer": "4774374",
+        "cot_fewshot_answer": "4,781.374 (million)",
+        "direct_answer": "$4,563,374,000",
+        "socratic_hints": []
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "question": "what was the percentage decrease in cash flows from operations from 2009 to 2010?",
+        "gt": "8.0%",
+        "socratic_answer": "0%",
+        "cot_zeroshot_answer": "7.95%].",
+        "cot_fewshot_answer": "7.95%",
+        "direct_answer": "8.0%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what is the net change in aon 2019s unpaid restructuring liabilities during 2006?",
+        "gt": "18",
+        "socratic_answer": "14 million",
+        "cot_zeroshot_answer": "18",
+        "cot_fewshot_answer": "18 million",
+        "direct_answer": "18",
+        "socratic_hints": [
+            "The total expenses and cash payments related to restructuring liabilities in 2006 were 296 million."
+        ]
+    },
+    {
+        "question": "what percent did minimum pension liability increase between 2004 and 2006?",
+        "gt": "615.4%",
+        "socratic_answer": "-615.38%",
+        "cot_zeroshot_answer": "615.38%].",
+        "cot_fewshot_answer": "615.38%",
+        "direct_answer": "615.38%",
+        "socratic_hints": [
+            "The minimum pension liability amounts were -26 million for 2004 and -186 million for 2006."
+        ]
+    },
+    {
+        "question": "at december 31 2009 what was the ratio of the aggregate cost to the fair value of the loans held-for-sale that are carried at locom",
+        "gt": "1.56",
+        "socratic_answer": "156.25%",
+        "cot_zeroshot_answer": "1.5625",
+        "cot_fewshot_answer": "1.5625",
+        "direct_answer": "1.56",
+        "socratic_hints": [
+            "The formula to calculate the ratio of aggregate cost to fair value is Aggregate Cost divided by Fair Value."
+        ]
+    }
+]

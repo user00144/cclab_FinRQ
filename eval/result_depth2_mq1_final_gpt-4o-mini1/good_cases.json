@@ -1,0 +1,242 @@
+[
+    {
+        "question": "what was the ratio of the purchase in december 2012 to the purchase in january 2013",
+        "gt": "6.5",
+        "socratic_answer": "6.48",
+        "cot_zeroshot_answer": "7.72",
+        "cot_fewshot_answer": "6.39",
+        "direct_answer": "8.53",
+        "socratic_hints": [
+            "The total number of shares repurchased in December 2012 and January 2013 was 118,190."
+        ]
+    },
+    {
+        "question": "what portion of cash and cash equivalents on hand are held in u.s . as of december 31 , 2016?",
+        "gt": "43.7%",
+        "socratic_answer": "43.7%",
+        "cot_zeroshot_answer": "$143 million",
+        "cot_fewshot_answer": "143 million",
+        "direct_answer": "$143 million",
+        "socratic_hints": [
+            "The amount of cash and cash equivalents held in the U.S. as of December 31, 2016, is $143 million."
+        ]
+    },
+    {
+        "question": "what is the net chance in non-vested performance awards in 2012 , ( in thousands ) ?",
+        "gt": "-198",
+        "socratic_answer": "-198",
+        "cot_zeroshot_answer": "509",
+        "cot_fewshot_answer": "509 (thousands)",
+        "direct_answer": "509",
+        "socratic_hints": [
+            "The formula to calculate the net change in non-vested performance awards is Net Change in Non-Vested Performance Awards = Shares Granted - Shares Vested - Shares Canceled."
+        ]
+    },
+    {
+        "question": "what was the percent of the total gains that was from the sales of land",
+        "gt": "10.1%",
+        "socratic_answer": "10.06%",
+        "cot_zeroshot_answer": "11.11%",
+        "cot_fewshot_answer": "11.1%",
+        "direct_answer": "11.1%",
+        "socratic_hints": [
+            "The formula to calculate the percentage of gain on land sales in relation to the total gains from both depreciable properties and land sales is Percentage = (Gain on land sales / (Gain on land sales + Gain on sales of depreciable properties)) * 100."
+        ]
+    },
+    {
+        "question": "what is the increase of the total trading assets between the years 2007 and 2008 , in millions of dollars?",
+        "gt": "58665",
+        "socratic_answer": "58665",
+        "cot_zeroshot_answer": "2687 million dollars",
+        "cot_fewshot_answer": "2.687 (million)",
+        "direct_answer": "6864",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what portion of the of unrecognized tax benefits would have an impact in the effective tax rate if recognized?",
+        "gt": "81.4%",
+        "socratic_answer": "81.43%",
+        "cot_zeroshot_answer": "$57 million",
+        "cot_fewshot_answer": "57 million",
+        "direct_answer": "$57 million",
+        "socratic_hints": [
+            "The amount of unrecognized tax benefits that would impact the effective tax rate if recognized is $57 million."
+        ]
+    },
+    {
+        "question": "what is the estimated fair value of hologic common stock?",
+        "gt": "27.8",
+        "socratic_answer": "27.81",
+        "cot_zeroshot_answer": "$3,671,500",
+        "cot_fewshot_answer": "3,671,500",
+        "direct_answer": "$3,671,500",
+        "socratic_hints": [
+            "The weighted average stock price used to value the Hologic common stock during the merger was $27.81."
+        ]
+    },
+    {
+        "question": "what was the percentage decline in the operating loss from 2007 to 2008",
+        "gt": "-83.3%",
+        "socratic_answer": "-83.33%",
+        "cot_zeroshot_answer": "-83.01%",
+        "cot_fewshot_answer": "83.33%",
+        "direct_answer": "83%",
+        "socratic_hints": [
+            "The operating loss for 2007 was $1.2 billion and for 2008 was $2.2 billion."
+        ]
+    },
+    {
+        "question": "what is the growth rate in total sales in 2013?",
+        "gt": "-6.8%",
+        "socratic_answer": "-6.84%",
+        "cot_zeroshot_answer": "-6.87%",
+        "cot_fewshot_answer": "-6.86%",
+        "direct_answer": "The growth rate in total sales in 2013 is -6.0%",
+        "socratic_hints": [
+            "The percentage change in total sales from 2012 to 2013 was -6.84%."
+        ]
+    },
+    {
+        "question": "for the quarter ended december 312010 what was percent of the total number of shares attested to upc by employees to pay stock option exercise prices",
+        "gt": "18.4%",
+        "socratic_answer": "18.36%",
+        "cot_zeroshot_answer": "49.6%",
+        "cot_fewshot_answer": "49.7%",
+        "direct_answer": "1.84%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what is the growth rate in operating expenses in 2013?",
+        "gt": "-2.1%",
+        "socratic_answer": "-2.14%",
+        "cot_zeroshot_answer": "2.12%",
+        "cot_fewshot_answer": "0.807%",
+        "direct_answer": "2%",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what are the total contractual maturities of long-term debt obligations due subsequent to december 31 , 2016?",
+        "gt": "3081",
+        "socratic_answer": "3081 millions",
+        "cot_zeroshot_answer": "$3256 million",
+        "cot_fewshot_answer": "3.256 (billion)",
+        "direct_answer": "$ 175 in 2019, $ 2756 in 2020",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what was the percentage decline in recorded international slot and route authorities to $ 708 million from $ 736 million as of december 31 , 2010 and 2009 , respectively .",
+        "gt": "-3.8%",
+        "socratic_answer": "-3.80%",
+        "cot_zeroshot_answer": "3.80%",
+        "cot_fewshot_answer": "3.80%",
+        "direct_answer": "3.8%",
+        "socratic_hints": [
+            "The formula for calculating the percentage change between two values is Percentage Change = (Final Value - Initial Value) / Initial Value * 100."
+        ]
+    },
+    {
+        "question": "what is the percent of both the main line and branch line routes that are owned by the company",
+        "gt": "81.8%",
+        "socratic_answer": "81.8%",
+        "cot_zeroshot_answer": "Main Line",
+        "cot_fewshot_answer": "97.36%",
+        "direct_answer": "96.9% for main line",
+        "socratic_hints": [
+            "The ratio of owned route miles to total route miles for both main line and branch line routes is 0.609."
+        ]
+    },
+    {
+        "question": "what was the percent of the decline in amortization expense for other intangible assets from 2016 to 2017",
+        "gt": "-2.6%",
+        "socratic_answer": "-2.60%",
+        "cot_zeroshot_answer": "2.60%",
+        "cot_fewshot_answer": "2.60%",
+        "direct_answer": "2.60%",
+        "socratic_hints": [
+            "The formula to calculate the percent change between two values is (New Value - Old Value) / Old Value * 100."
+        ]
+    },
+    {
+        "question": "what is the net change in the balance of unrecognized tax benefits during 2015?",
+        "gt": "-3833",
+        "socratic_answer": "-3833",
+        "cot_zeroshot_answer": "-5833",
+        "cot_fewshot_answer": "-3.833 (million)",
+        "direct_answer": "$-38,833",
+        "socratic_hints": [
+            "unknown"
+        ]
+    },
+    {
+        "question": "what was the ratio of the pre-tax gain on the securities transferred from held-to-maturity securities to available-for-sale securities \\\\n",
+        "gt": "0.15%",
+        "socratic_answer": "0.1489%",
+        "cot_zeroshot_answer": "0.00148936",
+        "cot_fewshot_answer": "0.00149",
+        "direct_answer": "0.001489",
+        "socratic_hints": [
+            "The pre-tax gain amount is $7 million, which is 0.1489% of the carrying value of the securities transferred."
+        ]
+    },
+    {
+        "question": "at december 31 , 2014 what was the ratio of the debt maturities scheduled for 2015 to 2018",
+        "gt": "1.64",
+        "socratic_answer": "1.636",
+        "cot_zeroshot_answer": "0.414]",
+        "cot_fewshot_answer": "1:1",
+        "direct_answer": "3.1",
+        "socratic_hints": [
+            "The total amount of debt maturities scheduled for the years 2015 through 2018 is $4,671 million."
+        ]
+    },
+    {
+        "question": "for the terrestar acquisition what will the final cash purchase price be in millions paid upon closing?",
+        "gt": "1375",
+        "socratic_answer": "1375 millions",
+        "cot_zeroshot_answer": "1315 million",
+        "cot_fewshot_answer": "30",
+        "direct_answer": "1300 million",
+        "socratic_hints": [
+            "The remaining cash amount that Dish Network needs to pay to complete the Terrestar transaction is $30 million."
+        ]
+    },
+    {
+        "question": "what is the difference between total sales and total payments received during 2013?",
+        "gt": "29.6",
+        "socratic_answer": "29.6 million",
+        "cot_zeroshot_answer": "$14.9 million",
+        "cot_fewshot_answer": "33.7 million",
+        "direct_answer": "The information provided does not include total sales or total payments received during 2013, so the difference cannot be determined.]",
+        "socratic_hints": []
+    },
+    {
+        "question": "what is the net effect of the adoption of new accounting standards?",
+        "gt": "85929",
+        "socratic_answer": "85929",
+        "cot_zeroshot_answer": "$100,929,000",
+        "cot_fewshot_answer": "85.929 (million)",
+        "direct_answer": "The net effect of the adoption of new accounting standards resulted in an increase of retained earnings by $85,640,000, after accounting for the cumulative effect adjustments.]",
+        "socratic_hints": [
+            "The total cumulative effect adjustment to retained earnings from the adoption of new accounting standards is $85,929."
+        ]
+    },
+    {
+        "question": "in 2015 what was the ratio of the nol carry forward for the federal to the foreign taxes",
+        "gt": "19.3%",
+        "socratic_answer": "19.29%",
+        "cot_zeroshot_answer": "0.193",
+        "cot_fewshot_answer": "0.193",
+        "direct_answer": "0.192857]",
+        "socratic_hints": [
+            "unknown"
+        ]
+    }
+]
