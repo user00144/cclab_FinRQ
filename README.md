@@ -42,5 +42,4 @@ ___
 ---
 
 ## Outputs  
-
-- 
+- Publication domestic conference paper(accepted) in Annual Symposium of KIPS 2025 (May. 2025)
