@@ -1,5 +1,10 @@
 from config import MAX_DEPTH
 from utils.qa_utils import *
+"""
+ This is the code started modification from 
+ https://github.com/PLUM-Lab/SOCRATIC-QUESTIONING
+"""
+
 
 class SocraticNode :
     def __init__(self, context, question, depth) :
