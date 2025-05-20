@@ -1,7 +1,7 @@
 from config import MAX_DEPTH
 from utils.qa_utils import *
 """
- This is the code started modification from 
+ This code starts modifying at :
  https://github.com/PLUM-Lab/SOCRATIC-QUESTIONING
 """
 
